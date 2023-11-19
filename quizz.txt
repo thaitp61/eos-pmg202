@@ -1,902 +1,1243 @@
-Ban chat chinh tri cua dan chu xa hoi chu nghia duoc the hien nhu the nao?
-A. Thuc hien dan chu doi voi tat ca moi nguoi
-B. Nen dan chu do Dang Cong san la dang duy nhat lanh dao, thuc hien quyen loi va loi ich cua toan the nhan dan lao dong
-C. Nen dan chu do cac dang phai doi lap nhau canh tranh cong bang de nhan duoc su tin nhiem cua moi nguoi
-D. Thuc hien nhat quan mot nguyen tac duy nhat la tap trung dan chu<term>B<row>Che do dan chu nhan dan o nuoc ta duoc xac lap khi nao?
-A. Tu khi cach mang thang Tam thanh cong
-B. Tu sau chien thang Dien Bien Phu 1954
-C. Ngay sau khi thong nhat dat nuoc vao nam 1975
-D. Tu khi tien hanh doi moi vao nam 1986<term>A<row>Phat hien ra su phan chia xa hoi thanh giai Cap va dau tranh giai Cap la cong lao cua ai?
-A. Cac Mac
-B. V.I. Lenin
-C. Ph.Ang ghen
-D. Cac nha su hoc tu san truoc Mac<term>D<row>Diem tuong dong giua giao duc gia dinh truyen thong va giao duc gia dinh trong xa hoi moi cua Viet Nam hien nay la gi?
-A. Tinh than co ket lang xa
-B. Nhan manh su hy sinh cua ca nhan cho cong dong
-C. Y thuc vuon len lam giau
-D. Tat ca cac dap an deu dung<term>B<row>Chinh sach dan toc cua nuoc ta ve chinh tri huong toi dam bao dai doan ket toan dan toc thong nhat vi muc tieu chung la gi?
-A. Loi ich kinh te
-B. Dieu hoa mau thuan giua cac dan toc
-C. Dan giau, nuoc manh, dan chu, cong bang va van minh
-D. Tat ca cac dap an deu dung<term>C<row>Co so de xac dinh thoi dai va phan chia thoi dai la gi?
-A. Hinh thai kinh te — xa hoi va vi tri cua mot giai cap dung o vi tri trung tam
-B. Vi tri cua mot giai cap dung o vi tri trung tam
-C. Su phat trien cua luc luong san xuat va mot quan he san xuat phu hop
-D. Cach mang xa hoi chu nghia do giai cap cong nhan lanh dao thanh cong<term>A<row>Chinh sach dan toc cua nuoc ta hien nay giai quyet van de van hoa cua cac dan toc nhu the nao?
-A. Tang cuong phat huy van hoa tien tien cua dong bao dan toc Kinh, vi chiem da so trong xa hoi
-B. Loai bo cac gia tri van hoa truyen thong cua cac dan toc thieu so de phu hop hon voi thoi dai
-C. Giu gin va phat huy gia tri van hoa truyen thong cua cac toc nguoi, phat trien ngon ngu, nang cao trinh do van hoa cho nhan dan cac dan toc
-D. Tang cuong cai tao van hoa cua cac dan toc de thong nhat chung mot ban sac van hoa Viet Nam<term>C<row>Dung hay sai khi cho rang dan chu o nuoc ta la moi cong dan deu co quyen tu do tuyet doi trong tat ca cac mat cua doi song xa hoi ma khong can phai tuan theo bat ki dieu gi?
-A. Dung, dan chu that su phai thuc hien duoc moi nguyen vong cua bat ki nguoi dan nao
-B. Khong, do la he gia tri dan chu rong rai nhat ma nhan loai huong toi, nhung hien tai o nuoc ta chua dat toi trinh do do
-C. Khong dung, dan chu phai trong khuon kho cua ky cuong, phap luat
-D. Khong co dap an nao dung<term>C<row>Trong co cau xa hoi - giai cap o Viet Nam hien nay, giai Cap, tang lop nao la luc luong sang tao dac biet quan trong trong tien trinh day manh cong nghiep hoa, hien dai hoa, xay dung nen kinh te tri thuc?
-A. Giai cap cong nhan
-B. Giai Cap nong dan
-C. Tang lop tri thuc
-D. Tang lop doanh nhan<term>C<row>Dieu gi vua la thach thuc vua tao ra thoi co cho Viet Nam trong thoi ky qua do chu nghia xa hoi hien nay?
-A. Cuoc cach mang khoa hoc cong nghe va xu the toan cau hoa
-B. Su tro day cua chu nghia xa hoi, tieu bieu la Trung Quoc
-C. Su thay doi trat tu the gioi
-D. Su gia tang nhanh chong cua luc luong lao dong nuoc ta<term>A<row>Theo nghia rong, khai niem dan toc dung de chi:
-A. Mot quoc gia, toan bo nhan dan cua mot nuoc
-B. Mot dan toc cu the cung chung song trong mot lanh tho quoc gia nhat dinh
-C. Tat ca cac quoc gia dang sinh song tren trai dat
-D.Tat ca cac dap an deu dung<term>A<row>Tai sao chu nghia xa hoi khoa hoc tap trung nghien cuu co cau xa hoi - giai cap ma khong phai la cac co cau xa hoi khac?
-A. Vi co cau xa hoi -giai cap la co cau pho bien rong rai nhat
-B. Vi ban chat cua chu nghia xa hoi la tran ap giai Cap
-C.Vi do la mot trong nhung co so de nghien cuu van de lien minh giai cap - tang lop trong mot che do xa hoi nhat dinh
-D. Vi do la mot trong nhung co so de nghien cuu van de phan chia quyen luc trong mot Che do xa hoi nhat dinh<term>C<row>Dau khong phai la mot trong nhung loai cua co cau xa hoi?
-A. Co cau xa hoi - giai Cap
-B. Co Cau xa hoi - nghe nghiep
-C. Co Cau xa hoi - ha tang
-D. Co cau xa hoi - ton giao<term>C<row>Gia dinh duoc hinh thanh, cung co va duy tri dua tren moi quan he nao? chon 3 
-A. Quan he hon nhan
-B. Quan he huyet thong
-C. Quan he nuoi duong
-D. Quan he kinh te<term>ABC<row>Theo V.I.Lenin, nguyen tac cao nhat cua chuyen chinh vo san o Nga khi thuc hien cach mang thang Muoi va ca giai doan sau do la gi?
-A. Duy tri khoi lien minh giua giai Cap vo san va nong dan de giai cap vo san co the giu duoc vai tro lanh dao
-B. Duy tri tran ap giai Cap, duy tri quyen lanh dao duy nhat cua giai Cap cong nhan
-C. Duy tri khoi lien minh tat ca giai Cap, tang lop sau khi da gianh duoc chinh quyen
-D. Dieu hoa mau thuan giua cac giai Cap, bao dam cac ben co quyen loi va nghia vu nhu nhau<term>A<row>Co Cau xa hoi - giai Cap cua nuoc ta trong thoi ki qua do len chu nghia xa hoi hien nay bao gom nhung giai cap, tang lop co ban nao? chon 3 
-A. Giai Cap cong nhan
-B. Giai Cap nong dan
-C. Doi ngu tri thuc va doi ngu doanh nhan
-D. Doi ngu tri thuc va doi ngu dang vien<term>ABC<row>Dau khong phai la mot trong nhung dieu kien kinh te - xa hoi cho su ra doi cua chu nghia xa hoi khoa hoc?
-A. Cac thanh tuu khoa hoc tu nhien cua nhan loai the ki XIX
-B. Su xuat hien cua nen dai cong nghiep
-C. Su ra doi cua hai giai Cap: giai Cap tu san va giai Cap vo san
-D. Phong trao dau tranh cua giai cap vo san chong lai su thong tri ap buc cua giai cap tu san<term>A<row>Trong mot quoc gia da toc nguoi thi van de gi can giai quyet duoc coi la co y nghia co ban nhat de thuc hien quyen binh dang giua cac dan toc?
-A. Ban hanh he thong hien phap va phap luat ve quyen binh dang giua cac dan toc
-B. Nang cao trinh do dan tri, van hoa cho dong bao
-C. Chong tu tuong phan biet chung toc, ki thi va chia re dan toc
-D. Xoa bo dan su chenh lech Ve moi mat giua cac dan toc do lich su de lai<term>D<row>Hon nhan tien bo la hon nhan xuat phat tu dau?
-A. Tu tinh yeu giua nam va nu
-B. Tu quan he kinh te - xa hoi
-C. Tu co so phap ly duoc xa hoi cong nhan
-D. Tu cac yeu to dao duc truyen thong<term>A<row>Theo Cap do quoc gia, dau la tin nguong truyen thong quan trong cua dan toc Viet Nam?
-A. Tin nguong tho cung to tien
-B. Tin nguong thanh hoang
-C. Tin nguong tho cung vua Hung
-D. Tat ca cac dap an deu dung<term>C<row>Doi tuong nghien cuu cua chu nghia xa hoi khoa hoc la gi?
-A. La nhung quy luat va tinh quy luat chinh tri -xa hoi cua qua trinh phat sinh, hinh thanh va phat trien hinh thai kinh te - xa hoi cong san chu nghia
-B. La nhung quy luat hinh thanh, phat trien va hoan thien cua cac hinh thai kinh te - xa hoi
-C. La nhung quy luat va tinh quy luat chinh tri -xa hoi cua qua trinh phat sinh, hinh thanh va phat trien hinh thai kinh te - xa hoi chu nghia xa hoi
-D. Tat Ca cac dap an deu dung<term>A<row>Cuong linh xay dung dat nuoc trong thoi qua do len chu nghia xa hoi (Bo sung va phat trien nam 2011) xac dinh phuong huong thu hai, phan anh con duong di len chu nghia xa hoi 6 nuoc ta la :
-A. Phat trien nen kinh te thi truong dinh huong xa hoi chu nghia
-B. Xay dung nen van hoa tien tien, dam da ban sac dan toc; xay dung con nguoi, nang cao doi song nhan dan, thuc hien tien bo va cong bang xa hoi
-C. Bao dam vung chac quoc phong va an ninh quoc gia, trat tu, an toan xa hoi
-D. Thuc hien duong loi doi ngoai doc lap, tu chu, hoa binh, huu nghi, hop tac va phat trien; chu dong va tich
-cuc hoi nhap quoc te<term>A<row>Thuc chat cua lien minh cong - nong - tri thuc o nuoc ta Ve noi dung kinh te la gi?
-A. La su hop tac giua ho, dong thoi mo rong lien ket voi cac luc luong khac de xay dung nen kinh te moi xa hoi chu nghia hien dai
-B. La su hop tac giua ho, dong thoi mo rong lien ket voi cac luc luong khac de xay dung nen kinh te thi truong tu do hien dai
-C. La su hop tac va dau tranh giua ho, dong thoi mo rong lien ket va dau tranh voi cac luc luong khac de xay dung nen kinh te moi
-D. La su hop tac giua ho, dong thoi mo rong lien ket voi cac luc luong khac de xay dung nen chinh tri dan chu<term>A<row>Neu truoc kia, gia dinh Viet Nam tieu dung san pham do minh lam ra la chinh, thi hien nay, gia tinh Viet Nam dang tien toi xu huong tieu dung chu yeu nao?
-A. Xu huong su dung hang hoa, dich vu cua phuc loi Nha nuoc
-B. Xu huong tieu dung san pham do nguoi khac lam ra
-C. Xu huong tieu dung san pham nuoc ngoai
-D. Tat Ca cac dap an deu dung<term>D<row>Muc do tac dong cua gia dinh doi voi xa hoi phu thuoc vao yeu to nao?
-A. Vao ban chat cua tung che do xa hoi
-B. Vao duong loi, chu truong cua giai Cap cam quyen
-C. Vao ban than mo hinh, ket cau, dac diem cua moi hinh thuc gia dinh trong lich su
-D. Vao y chi, nguyen vong cua cac thanh vien trong gia dinh<term>ABC<row>Theo quan diem cua chu nghia Mac - Lenin, Ve ban Chat, ton giao do ai sang tao ra?
-A. Chua troi
-B. Duc Phat
-C. Cac the luc sieu nhien
-D. Con nguoi<term>D<row>Xu huong phat trien co cau xa hoi - giai cap o Viet Nam trong thoi ky qua do mang tinh da dang va thong nhat chu yeu do yeu to nao quyet dinh?
-a. Do nen kinh te nhieu thanh phan
-b. Do trinh do phat trien khong dong deu
-c. Do su mong muon cua giai cap cong nhan
-d. Ca (a), (b), (c) deu dung<term>A<row>Theo chu nghia Mac - Lenin, su thay the hinh thai kinh te - xa hoi tu ban chu nghia bang hinh thai kinh te - xa hoi cong san chu nghia la:
-A. Mot su cai bien mang tinh chat chu quan
-B. Mot buoc ngoat phat trien moi, dua nhan loai thoat khoi loi mon cu
-C. Mot qua trinh lich su - tu nhien
-D. Mot qua trinh can thiep cua con nguoi bang y chi nham cai bien lich su theo huong nhan van, tich cuc hon<term>C<row>Tu tuong xa hoi chu nghia la gi?
-A. La mot he thong nhung quan niem phan anh nhung nhu cau, nhung uoc mo, nguyen vong cua cac giai cap lao dong ve mot xa hoi khong co ap buc va boc lot, moi nguoi deu binh dang va co cuoc song am no, hanh phuc. 
-B. La nhung thanh tuu cua con nguoi dat duoc trong qua trinh dau tranh giai phong giai cap.
-C. La che do xa hoi khong co ap buc boc lot, moi nguoi deu binh dang tu do.
-D. Ca a, b, c<term>D<row>Trong he thong chinh sach xa hoi cua nuoc ta, cac chinh sach lien quan den co cau xa hoi nao phai duoc dat len vi tri hang dau?
-A. Co Cau xa hoi - giai Cap
-B. CO cau xa hoi - kinh te
-C. Co Cau xa hoi - nghe nghiep
-D. CO Cau xa hoi - dan toc<term>A<row>Tai sao trong thoi gian dau, giai Cap cong nhan Viet Nam cham phat trien?
-A. Vi sinh ra va lon len o mot nuoc thuoc dia, nua phong kien duoi ach thong tri cua thuc dan Phap
-B. VI luc luong khong thuc su dong dao
-C. VI khong co tinh than ky luat va cach mang triet de nhu dac diem chung cua giai Cap cong nhan cac nuoc
-tu ban phat trien
-D. VI chua co tinh than dau tranh giai cap, dau tranh giai phong dan toc<term>A<row>Nhiem vu Cap bach, lau dai cua qua trinh xay dung Nha nuoc phap quyen xa hoi chu nghia o nuoc ta la: 
-A. Phong chong tham nhung, lang phi va thuc hanh tiet kiem
-B. Mien nhiem nhung nguoi khong hoan thanh nhiem vu
-C. Nang cao chat luong doi ngu can bo, cong chuc
-D. Co chinh sach dai ngo, dong vien, khuyen khich can bo, cong chuc<term>A<row>Noi dung giao duc gia dinh hien nay o Viet Nam huong den giao duc dieu gi?
-A. Giao duc kien thuc khoa hoc hien dai, trang bi cong cu de con cai hoa nhap voi the gioi
-B. Giao duc tinh than lam giau, kinh doanh, san ma
-C. Giao duc con cai huong den cac gia tri truyen thong xua
-D. Tat ca cac dap an deu dung<term>D<row>Dien vao cho trong: Kien toan to chuc, doi moi phuong thuc va nang cao hieu qua hoat dong cua Quoc hoi de dam bao day la co quan...
-A. Quyen luc cua nhan dan
-B. Quyen luc cao nhat cua nha nuoc
-C. Quyen luc cao nhat cua nhan dan
-D. Quyen luc cao nhat cua giai Cap<term>C<row>Khac biet Ve su ra doi cua hinh thai kinh te - xa hoi cong san chu nghia voi su ra doi cua cac hinh thai kinh te-xa hoi truoc day la gi?
-A. Phai duoc thuc hien thong qua cuoc cach mang vo san
-B. Phai duoc thuc hien thong qua cuoc cach mang tu san
-C. Phai duoc thuc hien thong qua mot su cai bien sau sac Ve trinh do phat trien cua cong nghiep va nguoi lao
-dong
-D. Phai co su hoi tu day du cac yeu to Ve kinh te va chinh tri<term>A<row>Trong thoi ki qua do len chu nghia xa hoi, van de tin nguong va ton giao cua nhan dan can duoc giai quyet tren co so nguyen tac nao?
-A. Han che su tham gia vao ton giao cua nhan dan bang cac chinh sach xa hoi, khong can thiep bang menh lenh hanh chinh
-B. Quyen tu do tin nguong, ton giao duoc ton trong va bao ve, khong ai co quyen can thiep bang bat Cu hinh thuc nao
-C. Nha nuoc lien hiep voi giao hoi cac ton giao de dieu chinh ho theo huong duy vat, vo than dan dan theo thoi gian
-D. Co nhung uu tien doi voi cong dan khong theo bat cu ton giao nao<term>B<row>Quan he nao duoc coi la quan he co ban nhat trong gia dinh?
-A. Quan he hon nhan va huyet thong
-B. Quan he quan tu trong mot khong gian sinh ton
-C. Quan he hon nhan
-D. Quan he nuoi duong<term>A<row>Giai cap cong nhan Viet Nam ra doi trong boi canh nao?
-A. Trong boi canh cua cac cuoc khai thac thuoc dia cua thuc dan Phap o Viet Nam
-B. Trong giai doan cong nghiep hoa phat trien manh me o nuoc ta
-C. Trong phong trao dau tranh gianh chinh quyen tu khi co Dang Cong san
-D. Trong luc Dang Cong san da gianh duoc chinh quyen<term>A<row>Nghi quyet "Ve phat huy suc manh dai doan ket dan toc vi dan giau nuoc manh, xa hoi cong bang, dan chu, van minh" duoc de cap den o Hoi nghi Trung uong nao?
-A. Hoi nghi Trung uong VII khoa IX
-B. Hoi nghi Trung uong II khoa VII
-C. Hoi nghi Trung uong V khoa VIII
-D. Hoi nghi Trung uong VI khoa VIII<term>A<row>Ve mat ly thuyet, con duong cach mang vo san nao co the tien hanh, nhung vo cung hiem, quy va chua tung xay ra tren thuc te?
-A. Con duong bao luc cach mang
-B. Con duong hoa binh
-C. Con duong khoi nghia Vu trang
-D. Con duong bao dong lat do<term>B<row>Noi dung co ban, lau dai tao dieu kien cho lien minh giai cap, tang lop phat trien ben vung o nuoc ta la gi? Chon 3 DA nhe.
-A. Nang cao chat luong nguon nhan luc, xoa doi giam ngheo
-B. Thuc hien tot chinh sach xa hoi doi voi cac thanh phan lien minh
-C. Cham lo suc khoe, nang cao chat luong song, nang cao dan tri cho moi tang lop nhan dan
-D. Dam bao phan chia loi ich kinh te cong bang trong mo hinh kinh te thi truong tu do hien dai<term>ACD<row>Noi dung cot loi cua cong tac ton giao o nuoc ta hien nay la gi?
-A. Cong tac giao duc chu nghia duy vat bien chung
-B. Cong tac cam hoa giao dan
-C. Cong tac van dong quan chung
-D. Cong tac dieu hoa mau thuan giua cac ton giao<term>C<row>Theo chu nghia Mac - Lenin, hinh thai kinh te- xa hoi cong san chu nghia co khac biet dac trung nao voi cac hinh thai kinh te xa hoi chiem huu no le, phong kien va tu ban chu nghia?
-A. Hinh thai kinh te- xa hoi cong san chu nghia la giai doan phat trien cao nhat va cuoi cung cua lich su loai
-nguoi
-B. Hinh thai kinh te — xa hoi cong san chu nghia khac biet ve chat, do la xa hoi khong co giai Cap doi khang nhu cac xa hoi truoc do
-C. Hinh thai kinh te — xa hoi cong san chu nghia la phien ban dieu chinh tot hon tu tu ban chu nghia
-D. Hinh thai kinh te - xa hoi cong san chu nghia la quay tro lai cong san nguyen thuy<term>A<row>Ton giao nao du nhap vao Viet Nam ma khong chiu anh huong cua ban sac van hoa Viet Nam?
-A. Phat giao
-B. Cong giao
-C. Hoi giao
-D. Khong co<term>D<row>Trong thoi ki qua do len chu nghia xa hoi, yeu to nao quyet dinh moi quan he hop tac va gan bo chat che giua cac giai cap, tang lop va cac nhom xa hoi?
-A. Ho cung nhau chung suc cai tao xa hoi cu, xay dung xa hoi moi trong moi linh vuc cua doi song xa hoi
-B. Ho cung nhau phan chia quyen luc trong mot che do nha nuoc, vua canh tranh, vua dong hanh cung nhau trong moi linh vuc cua doi song xa hoi
-C. Ho cung song trong mot che do xa hoi, mot quoc gia dan toc cu the, cho nen tinh dan toc bat buoc ho phai gan bo chat che voi nhau
-D. Tat ca dap an deu dung<term>D<row>Thuc chat cua thoi ky qua do len chu nghia xa hoi la gi?
-A. La thoi ky cai bien cach mang tu xa hoi tien tu ban va tu ban chu nghia sang xa hoi xa hoi chu nghia
-B. La thoi ky cai bien cach mang tu xa hoi cong san nguyen thuy len xa hoi xa hoi chu nghia
-C. La thoi ky cai bien cach mang tu xa hoi chiem huu no le len xa hoi xa hoi chu nghia
-D. La thoi ky Cai bien cach mang tu xa hoi xa hoi chu nghia len xa hoi cong san chu nghia<term>A<row>Ban chat dan chu cua Che do nuoc ta hien nay duoc hieu nhu the nao?
-A. Che do ta la do nhan dan lam chu, quyen luc thuoc ve nhan dan
-B. Che do ta la do Dang Cong san Viet Nam lam chu, la dai dien y chi, nguyen vong cua nhan dan
-C. Che do ta la do giai Cap cong nhan lam chu, quyen luc thuoc ve giai Cap cong nhan
-D. Che do ta la do Ca nhan lam chu, duoc hien thuc hoa thong qua vai tro lam chu duy nhat cua Dang Cong san Viet Nam<term>A<row>Ve phuong dien chinh tri - xa hoi, giai cap cong nhan co vi tri nhu the nao?
-A La nhung nguoi nam giu tu lieu san xuat cua xa hoi tu ban chu nghia, tu to chuc san xuat kinh doanh lon ma khong hop tac voi giai Cap nao
-B. La nhung nguoi khong co so huu tu lieu san xuat chu yeu cua xa hoi, phai ban suc lao dong cho nha tu ban va bi boc lot gia tri thang du
-C. La nhung nguoi so huu tu lieu san xuat, hop tac voi nha tu ban de kiem song
-D. La nhung nguoi co so huu mot so tu lieu san xuat nho, co the tu san xuat, nhung nho le, de pha san nen phai ban suc lao dong cho nha tu ban la chinh<term>B<row>Nang cao chat luong doi ngu can bo, cong chuc ve nhung pham chat nao?
-A. Ban linh kinh te, pham chat dao duc, nang luc lanh dao, dieu hanh quan ly dat nuoc
-B. Ban linh chinh tri, pham chat dao duc, nang luc lanh dao, dieu hanh quan ly dat nuoc
-C. Ban linh quoc phong, pham chat dao duc, nang luc lanh dao, dieu hanh quan ly dat nuoc
-D. Ban linh xa hoi, pham chat dao duc, nang luc lanh dao, dieu hanh quan ly dat nuoc<term>B<row>Nguyen tac phan phoi chu yeu cua chu nghia xa hoi la gi?
-A. Lam theo nang luc, huong theo nhu cau
-B. Lam theo nang luc, huong theo lao dong
-C. Lam theo nang luc, huong theo phuc loi xa hoi
-D. Lam theo cong viec, huong theo tien luong<term>B<row>Lien Xo, Dong Au va cac nuoc xa hoi chu nghia hien nay, da va dang qua do len chu nghia xa hoi bang hinh thuc nao?
-A. Qua do gian tiep
-B. Qua do truc tiep
-C. Qua do bo phan
-D. Qua do toan dien<term>A<row>Mau thuan co ban cua hinh thai kinh te - xa hoi tu ban chu nghia bieu hien ve mat xa hoi la:
-A Mau thuan xung dot loi ich cua cac nha tu san khac nhau
-B. Cuoc dau tranh cua giai cap cong nhan chong lai giai cap tu san ngay cang gay gat
-C- Cuoc canh tranh gianh viec lam cua nhung nguoi cong nhan de tranh khong bi that nghiep
-D- Cuoc dau tranh gianh quyen dieu hanh quoc gia cua cac dang phai tu san<term>B<row>Nha nuoc phap quyen xa hoi chu nghia o Viet Nam mang ban chat giai Cap cua giai cap nao?
-A Cong nhan
-B. Nong dan
-C. Tu san
-D. Tri thuc<term>A<row>Trong thoi dai ngay nay o Viet Nam, doi ngu cong nhan trong thanh phan kinh te nao la tieu bieu, dong vai tro nong Cot va chu dao?
-A. Thanh phan kinh te tu nhan
-B. Thanh phan kinh te tap the
-C. Thanh phan kinh te nha nuoc
-D. Thanh phan kinh te co Von dau tu nuoc ngoai<term>C<row>Nhung nhuoc diem, han che von co do hoan canh lich su va nguon goc xa hoi sinh ra cua giai Cap cong nhan Viet Nam la gi?
-A. Tam ly tieu nong, thoi quen, tap quan lac hau tu truyen thong xa hoi nong nghiep co truyen
-B. Tu tuong de thoa hiep, khong kien quyet dau tranh den cung
-C. Su tu phat, le te trong phong trao cong nhan, khong duoc giac ngo tu tuong chinh tri
-D. Tam ly chiu dung, me tin di doan<term>A<row>Dan chu trong linh vuc nao la quan trong hang dau va noi bat nhat?
-A. Trong linh vuc kinh te va chinh tri
-B. Trong linh vuc van hoa tinh than va tu tuong
-C. Trong linh vuc chinh tri va tu tuong
-D. Trong linh vuc kinh te va tu tuong<term>A<row>Co cau xa hoi o Viet Nam muon bien doi theo huong tich cuc phai dua tren co so gi?
-A. Tang truong kinh te bang moi gia
-B. Su giau manh cua cac to chuc, tap doan kinh te lon, canh tranh duoc voi nuoc ngoai
-C. su phat trien cua thanh phan kinh te nha nuoc va tap the
-D. Tang truong, phat trien kinh te nhanh va ben vung<term>D<row>Trong thoi ki qua do len chu nghia xa hoi, van de tin nguong va ton giao cua nhan dan can duoc giai quyet tren co so nguyen tac nao?
-A. Han che su tham gia vao ton giao cua nhan dan bang cac chinh sach xa hoi, khong can thiep bang menh lenh hanh chinh
-B. Quyen tu do tin nguong, ton giao duoc ton trong va bao ve, khong ai co quyen can thiep bang bat cu hinh thuc nao
-C. Nha nuoc lien hiep voi giao hoi cac ton giao de dieu chinh ho theo huong duy vat, vo than dan On theo thoi gian
-D. Co nhung uu tien da voi cong dan khong theo bat cu ton giao nao<term>B<row>Trong thoi dai hien nay, su menh lich su cua giai Cap cong nhan trong linh vuc van hoa, tu tuong la gi?
-A. Dau tranh bao Ve nen tang tu tuong cua Dang Cong san, giao duc nhan thuc va cung co nem tin khoa hoc doi voi li tuong, muc tieu cua chu nghia xa hoi
-B. Tuyen truyen cho quan chung lao dong ve he tu tuong Mac - Lenin de tien den chu nghia cong san
-C. Xet lai, bo sung chu nghia Mac - Lenin de dung hop voi cac hoc thuyet tu san moi
-D. Tat Ca cac dap an deu dung<term>A<row>Vi tri cua gia dinh trong xa hoi la:
-A. Gia dinh la to am mang lai cac gia tri hanh phuc, su hai hoa trong duoi song Ca nhan cua moi thanh vien
-B. Gia dinh la cau noi giua ca nhan va xa hoi
-C. Gia dinh la te bao cua xa hoi
-D. Tat Ca cac dap an deu dung<term>D<row>Tinh quan chung cua ton giao cho thay dieu gi?
-A. Ton giao la mot hien tuong cuu roi danh cho nhung nguoi yeu the trong xa hoi
-B. Ton giao la mot hien tuong xa hoi pho bien o tat ca cac quoc gia, dan toc va chau luc
-C. Ton giao ton tai trong suot hang nghin nam lich su va duoc quan chung nhan dan xay dung va phat trien
-D. Tat ca cac dap an deu dung<term>D<row>Dieu kien va tien de kinh te - XH de xay dung gia dinh trong CNXH la gi?
-A. Xoa bo che tu huu, xac lap che do cong huu ve tu lieu san xuat.
-B. Phat trien kinh te - XH
-C. Nha nuoc XHCN ban hanh va thuc hien luat hon nhan va nang cao trinh do van hoa va dan tri cho moi nguoi dan
-D. Ca a, b va c<term>D<row>Trong thoi dai hien nay, o cac nuoc phat trien, su phat trien cua giai Cap cong nhan co ma quan he nhu the nao voi phat trien kinh te?
-A. Ty le thuan
-B. Ty le nghich
-C. Mau thuan doi khang
-D. Ty le that nghiep gia tang, lam tang nguy co khung hoang<term>A<row>Trong thoi ki qua do len chu nghia xa hoi o nuoc ta hien nay, giai Cap nong dan co su bien da theo xu huong nao?
-A. Giam dan ve so luong va ty le trong co Cau xa hoi - giai Cap
-B. Tang dan ve so luong va ty le trong co Cau xa hoi - giai Cap
-C. Giam dan ve So luong nhung tang dan Ve ty le trong co cau xa hoi - giai Cap
-D. Tang dan Ve SO luong nhung giam dan Ve ty le trong co Cau xa hoi - giai Cap<term>A<row>Lam the nao de co the tao su dong thuan va phat huy tinh than doan ket thong nhat giua cac luc luong trong khoi lien minh va toan xa hoi Viet Nam hien nay?
-A Xay dung chu truong, chinh sach phu hop, dung dan, giai quyet hai hoa loi ich cua tung da tuong lien minh cu the va dam bao loi ich chung
-B. Moi van de, moi phap luat khi dua ra deu phai thong qua tat ca cong dan de duoc ban hanh, dam bao tinh cung thuan tuyet doi
-C. Co chinh sach gan ket, rang buoc loi ich kinh te giua cac giai Cap, tang lop da ho thong nhat ky ich kinh te voi nhau, tu do dong thuan va doan ket trong moi Van de
-D. Tat ca dap an deu dung<term>A<row>Dau khong phai la mot trong nhung chinh sach doi voi doi ngu tri thuc nham phat huy vai tro cua tang lop nay, trong co cau xa hoi - giai cap o Viet Nam hien nay?
-A. Ton trong va phat huy tu do tu tuong trong hoat dong nghien cuu. sang tao
-B. Dam bao tu tuong cua giai Cap cong nhan giu vi tri chu dao trong hoat dong nghien cuu, sang tao
-C. Trong dung tri thuc tren co so danh gia dung pham chat, nang luc va ket qua cong hien
-D. Bao Ve quyen so huu tri tue, dai ngo va ton Vinh xung dang nhung cong hien cua doi ngu tri thuc<term>B<row>Che do hon nhan tien bo duoc dam bao tren nguyen tac nao? CHON 3
-A. Hon nhan tu nguyen
-B. Hon nhan mot vo mot chong, vo chong binh dang
-C. Hon nhan duoc dam bao ve mat phap ly
-D. Hon nhan duoc dam bao ve mat kinh te<term>ABC<row>To chuc quyen luc cua Nha nuoc phap quyen xa hoi chu nghia dam bao quyen luc nha nuoc la:
-A. Dong nhat, co su phan cong va phoi hop giua cac co quan nha nuoc
-B. Cung nhau, co su phan cong va phoi hop giua cac co quan nha nuoc
-C. Thong nhat, co su phan cong va phoi hop giua cac co quan nha nuoc
-D. Chia deu, co su phan cong va phoi hop giua cac co quan nha nuoc<term>C<row>Kho khan ve xuat phat diem cua Viet Nam khi tren vao thoi ky qua do len chu nghia xa hoi la gi?
-A. Xuat phat tu mot xa hoi von la thuoc dia, nua phong kien, luc luong san xuat rat thap, chien tranh keo dai
-B. Xuat phat tu mot xa hoi phong kien phat trien, trai qua thoi ky thuoc dia nen bi dong hoa nhieu ve tu tuong, van hoa
-C. Xuat phat tu mot xa hoi phong kien lac hau, trinh do luc luong san xuat nong nghiep kem, duoc su khai hoa cua thuc dan Phap nhung khong co su cai bien tot hon
-D. Xuat phat tu mot nuoc cong nghiep phat hien tien len chu nghia xa hoi<term>A<row>Cung voi su phat trien manh me cua nen dai cong nghiep co khi la su truong thanh vuot bac ca ve so luong va chat luong cua giai cap nao?
-A. Cong nhan
-B. Nong dan
-C. Tu san
-D. Chu no<term>A<row>Theo chu nghia Mac - Lenin, ton giao la gi?
-A. La mot thiet che xa hoi phan anh chan that hien thuc khach quan
-B. La mot hinh thai y thuc xa hoi, phan anh hu ao hien thuc khach quan
-C. La mot co so xa hoi, phan anh cac y chi, nguyen vong cua tin do theo mot giao ly nao do
-D. La mot thuc the xa hoi, dieu chinh tam ly con nguoi hieu qua<term>B<row>Ai da khang dinh: "Tu khi bo Tu ban ra doi... quan niem duy vat lich su khong con la mot gia thuyet cua, ma la mot nguyen ly da duoc chung minh mot cach khoa hoc?
-A. V.I.Lenin
-B. Cac Mac
-C. Ph.Angghen
-D. S.Phurie<term>A<row>Can cu vao tinh chat cua quyen luc nha nuoc, chuc nang nao cua nha nuoc xa hoi chu nghia la quan trong nhat, mang y nghia then chot, quyet dinh?
-A. Chuc nang giai Cap (tran ap)
-B. Chuc nang doi noi
-C. Chuc nang doi ngoai
-D. Chuc nang xa hoi (to chuc va xay dung)<term>D<row>Phat kien hoc thuyet gia tri thang du cua C.Mac va Ph.angghen co y nghia gi doi voi chu nghia xa hoi khoa hoc?
-A. Chi ra su suy vong tu nhien cua chu nghia tu ban
-B. Chi ra con duong dau tranh giai cap tien len chu nghia xa hoi
-C. Khang dinh ve phuong dien kinh te su diet vong khong the tranh khoi cua chu nghia tu ban va su ra da tat yeu cua chu nghia Xa hoi
-D. Khang dinh su thiet lap nen chuyen chinh vo san bang cach mang xa hoi la con duong duy nhat tien den chu nghia Xa hoi<term>C<row>Nha nuoc xa hoi chu nghia co vai tro nhu the nao doi voi dan chu Xa hoi chu nghia?
-A. Nha nuoc xa hoi chu nghia la cong cu tran ap dan chu Xa hoi chu nghia
-B. Nha nuoc Xa hoi chu nghia tro thanh cong cu quan trong cho viec thuc thi quyen lam chu cua nguoi dan
-C. Nha nuoc xa hoi chu nghia la dong luc, nen tang thuc hien dan chu Xa hoi chu nghia
-D. Nha nuoc Xa hoi chu nghia la co so, dieu kien tien quyet cho viec to chuc dan chu triet de doi voi moi giai cap<term>B<row>Nha nuoc Xa hoi chu nghia la nha nuoc cua
-A. Thieu so thong tri da So
-B. Da so thong tri thieu so
-C. Su dung hoa loi ich cac giai cap
-D. Su dau tranh quyen luc trong boi canh moi<term>B<row>Chuc nang van hoa cua gia dinh the hien dieu gi?
-A. Gia dinh la noi luu giu truyen thong van hoa cua dan toc, la noi sang tao va thu huong nhung gia tri van hoa cua xa hoi
-B. Gia dinh la noi chiu su chi phoi, che uoc cua cac yeu to van hoa cu va moi dan xen
-C. Gia dinh la noi thuc thi cac chinh sach van hoa, mang dam dau an cua giai cap thong tri
-D. Tat ca cac dap an deu dung<term>A<row>Van de chien luoc, co ban, lau dai va cap bach trong viec giai quyet moi quan he dan toc va ton giao o Viet Nam hien nay la gi?
-A. Dam bao su lanh dao cua Dang Cong san Viet Nam, tuan thu nguyen tac, lap truong chinh tri cua giai cap cong nhan
-B. Dam bao cac ton giao, dan toc chuyen bien tich cuc
-C. Dam bao hai hoa loi ich, giam thieu toi muc toi da mau thuan loi ich, nhat la mau thuan loi ich kinh te
-D. Cung co moi quan he tot dep giua dan toc va ton giao, cung co khoi dai doan ket toan dan toc va doan ket ton giao<term>C<row>Noi dung nao quan trong nhat trong cac noi dung lien minh cong-nong-tri thuc ?
-A. Chinh tri
-B. Kinh te
-C. Tu tuong
-D. Van hoa-xa hoi<term>B<row>Tai dai hoi X, theo quan diem cua dang cong san Viet Nam, qua do len chu nghia xa hoi bo qua che do tu ban chu nghia la: 
-A. Con duong cach mang chu quan, con duong xay dung dat nuoc trong thoi ky qua do len chu noia xa hoi o nuoc ta
-B. Con duong cach mang tat yeu khach quan, con duong xay dung dat nuoc trong thoi ky qua do len phong kien o nuoc ta
-C. Con duong cach mang tat yeu khach quan, con duong xay dung dat nuoc trong thoi ky qua do len chu nghia Xa hoi o nuoc ta
-D. Con duong mong muon rieng cua dat nuoc ta<term>C<row><term>C<row>Qua do tu chu nghia tu ban phat trien len chu nghia xa hoi la hinh thuc qua do nao?
-A. Qua do gian tiep
-B. Qua do truc tiep
-C. Qua do bo Phan
-D. Qua do toan dien<term>B<row>Diem khac biet co ban nhat giua cach hieu ve dan chu thoi co dai va hien nay la gi? chon 2 dap an
-A. Tinh chat truc tiep cua moi quan he so huu quyen luc cong cong
-B. Noi ham khai niem nhan dan
-C. Giai Cap to chuc quyen luc dan chu
-D. Tinh triet de hay khong triet de cua dan chu<term>AB<row>Dau khong phai la mot trong nhung nhiem vu cua cac chinh sach lien quan den co cau xa hoi giai cap?
-A. Giai quyet tot cac moi quan he noi bo tung giai Cap
-B. Huong toi dam bao cong bang Xa hoi, thu hep dan khoang cach phat trien va su phan hoa giau ngheo giua cac giai Cap, tang lop
-C. Giai quyet tot cac moi quan he giua giai Cap, tang lop nay voi giai Cap, tang lop khac
-D. Tao dieu kien thuan loi de cac giai Cap cong nhan co the canh tranh tot tren tat ca cac linh vuc cua doi song xa hoi<term>D<row>Thoi ky qua do tu chu nghia tu ban len chu nghia xa hoi con ton tai nhieu tu tuong khac nhau, chu yeu la:
-A. Tu tuong vo san va tu tuong tu san
-B. Tu tuong vo san va tu tuong dia chu phong kien
-C. Tu tuong chu no va tu tuong tu san
-D. Tu tuong vo san va tu tuong chu no<term>A<row>Trong Van kien Dai hoi dai bieu toan quoc lan thu IX, Dang Cong san Viet Nam da neu ro: 
-A. Van de dan toc co vai tro quan trong doi voi su nghiep phat hien kinh te- xa hoi o nuoc ta hien nay.
-B. Van de dan toc va doan ket cac dan toc luon co vi tri chien luoc trong su nghiep cach mang.
-C. Van de dan toc va doan ket cac dan toc co vi tri quyet dinh den su song con cua dan toc ta hien nay.
-D. Van de dan toc va tang cuong khoi dai doan ket toan dan toc la van de chien luoc cua Viet Nam hien nay.<term>B<row>Dau khong phai ra mot tang lop xa hoi moi xuat hien va phat hien trong thoi ki qua do ten chu nghia xa hoi?
-A. Tang lop doanh nhan, tieu chu
-B. Tang lop nhung nguoi giau co
-C. Tang lop trung luu
-D. Tang lop tri thuc<term>A<row>Trong thoi dai hien nay, hao phi lao dong chu yeu cua giai Cap cong nhan da bien doi nhu the nao?
-A. Giam bot hao phi suc luc co bap, gia tang hao phi ve tri luc
-B. Dong thoi gia tang ca hao phi suc luc va tri luc
-C. Gia tang yeu to tam luc trong qua trinh lao dong
-D. Giam bot hao phi ve tri luc, gia tang hao phi suc luc<term>A<row>Sau khi che do xa hoi chu nghia Lien Xo va Dong Au sup do, chu nghia xa hoi khoa hoc duoc bo sung va phat trien nhu the nao?
-A. Duoc gioi tri thuc the gioi nghien cuu nhu mot hoc thuyet da loi thoi
-B. Duoc cac nuoc Xa hoi chu nghia bo sung va phat trien trong tinh hinh moi, phu hop voi boi canh tung nuoc
-C. Cac nuoc tu ban chu nghia nghien cuu chu nghia xa hoi khoa hoc nhu mot hoc thuyet nham khac phuc cac khuyet tat cua thoi dai moi
-D. Duoc dung hoa cung voi cac hoc thuyet tu san khac<term>B<row>C.Mac va Ph. - Angghen danh gia: "Giai cap tu san trong qua trinh thong tri giai Cap chua day mot the ki da tao ra mot luc luong san xuat nhieu hon va do so hon luc luong cua tat ca Cac the he truoc day gop lai" trong tac pham nao?
-A- Chong Duyrinh
-B. Luoc khao khoa kinh te - chinh tri
-C. Tuyen ngon cua Dang Cong san
-D. Bo Tu ban<term>C<row>Dac diem co ban cua thoi ki qua do len chu nghia xa hoi la gi?chon 2 dap an
-A. Thoi ki cai tao cach mang sau sac, triet de xa hoi tu ban chu nghia tren moi linh vuc
-B. Thoi ki xay dung tung buoc co so vat chat - ky thuat va doi song tinh than cua chu nghia xa hoi
-C. Thoi ki dau tranh giai cap khi tuong quan luc luong can bang
-D. Thoi ki thuc hien nen chuyen chinh lao dong<term>AB<row>Chuc nang nao duoc coi la chuc nang co ban va rieng co cua gia dinh?
-A. To chuc doi song gia dinh
-B. Tai san xuat ra con nguoi
-C. Giao duc gia dinh
-D. Thoa man tam sinh ly<term>B<row>Trong co cau xa hoi - giai cap o Viet Nam hien nay, giai cap, tang lop nao co nhiem vu phat huy ban sac van hoa dan toc va bao ve moi truong sinh thai?
-A. Giai Cap cong nhan
-B. Giai cap nong dan
-C. Tang lop tri thuc
-D. Doi ngu doanh nhan<term>C<row>Quan he dan toc va ton giao o Viet Nam chiu su chi phoi manh me boi yeu to nao?
-A. Yeu to giai Cap
-B. Yeu to quan ly cua Nha nuoc
-C. Yeu to tin nguong truyen thong
-D. Tat ca cac dap an deu dung<term>C<row>Noi dung cuong linh dan toc cua chu nghia Mac — Lenin la:
-A. Cac dan toc hoan toan binh dang, cac dan toc duoc quyen tu quyet, lien hiep cong nhan tat ca cac dan toc lai.
-B. Cac dan toc doan ket, binh dang va lien hiep cong nhan tat ca cac dan toc lai.
-C. Cac dan toc co quyen tu quyet, cac dan toc co quyen binh dang, lien hiep cong nhan tat ca cac dan toc lai.
-D. Cac dan toc hoan toan binh dang, tu quyet va lien hiep cong nhan cac nuoc.<term>A<row>Voi tu cach la mot hinh thai nha nuoc, mot che do chinh tri, cho den nay da co nhung nen dan chu nao da va dang ton tai? chon 3
-A. Dan chu chu no
-B. Dan chu tu san
-C. Dan chu xa hoi chu nghia
-D. Dan chu cong san chu nghia<term>ABC<row>Ve mat thuc tien, viec nghien cuu chu nghia xa hoi khoa hoc co y nghia gi?
-A. Thay ro khoang cach giua ly luan chu nghia xa hoi khoa hoc va thuc tien van dung no
-B. Su sup do cua Lien Xo va Dong Au la do da nhan thuc va hanh dong tren nhieu van de trai Voi chu nghia xa hoi khoa hoc, trai voi chu nghia Mac - Lenin chu khong phai la do di theo chu nghia xa hoi khoa hoc lam cho cac nuoc nay khung hoang
-C. Can co ban linh vung vang, sang suot va sang tao trong viec van dung chu nghia xa hoi khoa hoc va boi canh lich su cu the cua tung quoc gia, tranh giao dieu, bao thu, duy y chi.
-D. Tat ca cac dap an deu dung<term>D<row>Dan chu xa hoi chu nghia co vai tro nhu the nao doi voi nha nuoc xa hoi chu nghia?
-A Dan chu xa hoi chu nghia tao ra co che han che quyen luc cua nha nuoc xa hoi chu nghia
-B. Dan chu xa hoi chu nghia la nguyen nhan sinh ra nha nuoc xa hoi chu nghia
-C. Dan chu xa hoi chu nghia la co so, nen tang cho viec xay dung va hoat dong cua nha nuoc xa hoi chu nghia
-D. Tat ca cac dap an deu dung<term>D<row>Ton giao la mot pham tru lich su boi vi:
-A. La san pham cua con nguoi
-B. La do dieu kien kinh te - xa hoi sinh ra
-C. Ton giao ra doi, ton tai va bien da trong mot giai doan lich su nhat dinh cua loai nguoi
-D. Ton giao se ton tai va phat trien cung Voi su phat trien cua lich su nhan loai<term>C<row>Diem tuong dong giua giao duc gia dinh truyen thong va giao duc gia dinh trong xa hoi moi cua Viet Nam hien nay la gi?
-A. Tinh than co ket lang xa
-B. Nhan manh su hy sinh cua ca nhan cho cong dong
-C. Y thuc vuon len lam giau
-D. Tat ca cac dap an deu dung<term>B<row>Cac quy che dan chu tu co so den Trung uong va trong cac to chuc chinh tri- xa hoi o nuoc ta deu thuc hien theo phuong cham nao?
-A. Dan biet, dan ban, dan kiem tra, dan huong thu
-B. Dan ban, dan kiem tra, dan lam, dan huong thu
-C. Dan biet, dan ban, dan lam, dan kiem tra
-D. Dan ban, dan lam, dan kiem tra<term>C<row>Ban chat dan chu xa hoi chu nghia o Viet Nam duoc thuc hien thong qua hinh thuc nao? chon 2 cau
-A. Hinh thuc dan chu truc tiep
-B. Hinh thuc dan chu gian tiep
-C. Hinh thuc dan chu dai nghi
-D. Hinh thuc dan chu cong khai<term>AB<row>Theo chu nghia Mac - Lenin, tinh chat chinh tri cua ton giao xuat hien tu khi nao?
-A. Khi xa hoi da co phan chia giai cap va doi khang giai cap
-B. Khi xa hoi da thu tieu duoc giai Cap
-C. Khi loai nguoi buoc vao dem truong trung co
-D. Khi chu nghia Mac — Lenin ra doi<term>A<row>Theo chu nghia Mac - Lenin, chu nghia xa hoi duoc hieu la:
-A. Giai doan dau cua hinh thai kinh te - xa hoi cong san chu nghia
-B. Mot hinh thai kinh te - xa hoi
-C. La mot che do xa hoi, trong do su thong tri cua giai cap cong nhan duoc xac lap
-D. La giai doan phat trien cao cua hinh thai kinh te - xaa hoi cong san chu nghia<term>A<row>Hinh thuc dan chu o Viet Nam ma nguoi dan bau ra co quan quyen luc nha nuoc cao nhat, uy quyen cho ho thuc hien quyen luc cua nhan dan duoc goi la hinh thuc dan chu gi?
-A. Hinh thuc dan chu truc tiep
-B. Hinh thuc dan chu gian tiep
-C. Hinh thuc dan chu dai nghi
-D. Hinh thuc dan chu cong khai<term>B<row>Khau hieu: "Vo san tat ca cac nuoc va cac dan toc bi ap buc, doan ket lai'' la cua ai?
-A. Cac Mac
-B. Ph.Angghen
-C. V.I.Lenin
-D. Ho Chi Minh<term>C<row>Dau duoc xem la dieu kien tien quyet de xay dung nen dan chu xa hoi chu nghia Viet Nam?
-A. Giai phong dan toc, giai phong giai cap
-B. Cham lo giao duc, y te cho nguoi dan
-C. Doc lap, tu chu, hoa binh
-D. Xay dung Dang Cong san Viet Nam trong sach, vung manh<term>D<row>Cac chu truong, chinh sach phat trien kinh te - xa hoi mien nui, vung dong bao cac dan toc thieu so o nuoc ta nham muc dich gi? 
-A. Phat huy tiem nang phat trien, rut ngan khoang cach chenh lech giua cac vung, cac dan toc
-B. Bu dap cho dong bao o cac noi nay de dong vien ho co gang giu gin bo coi quoc gia
-C. Giam thieu su loi dung dieu kien song cuc kho cua cac noi nay de kich dong thuc hien muu do chia re
-D. Tan dung moi nguon luc de tang truong kinh te khi o cac vung dong bang da can kiet<term>A<row>"Song co viec lam hay la chet trong dau tranh" la khau hieu cua giai cap cong nhan o dau?
-A. Cong xa Pari
-B. Vuong Quoc Anh
-C. Duc
-D. Nha may det Lion<term>D<row>Quy mo gia dinh o Viet Nam hien nay ton tai theo xu huong nao? 
-A. Thu nho so luong thanh vien trong gia dinh
+Dai bieu cua to chuc cong san nao khong tham du Hoi nghi thanh lap Dang dau nam 1930?
 
-B. Mo rong so luong thanh vien trong gia dinh
+a. Dong Duong cong san lien doan
+b. An Nam cong san Dang
+c. Dong Duong cong san Dang
+d. Quoc te cong san<term>a. Dong Duong cong san lien doan<row>Tac dong cua chuong trinh khai thac thuoc dia lan thu hai cua Phap den kinh te Viet Nam lam cho :
 
-C. Lien ket cac gia dinh don
+a. Co cau kinh te Viet Nam mat can doi, lac hau, ngheo nan
+b. Nen kinh te Viet Nam phat trien doc lap 
+c. Kinh te Viet Nam phat trien mot cach tu chu
+d. Kinh te Viet Nam phu thuoc kinh te Phap<term>a. Co cau kinh te Viet Nam mat can doi, lac hau, ngheo nan<row>Tinh chat cua xa hoi Viet Nam duoi su thong tri cua thuc dan Phap la :
 
-D. Quy mo nho o nong thon va quy mo lon o thanh thi<term>A<row>O Viet Nam, tu nhung nam 70 va 80 cua the ki XX, Nha nuoc da tuyen truyen, pho bien va van dong, khuyen khich moi cap vo chong co bao nhieu con? 
-A. Chi nen co tu 1 den 2 con
-B. Co tu 4 con tro len
-C. Co du 3 con
-D. Con dong con cang tot<term>A<row>Phuong thuc can ban va quan trong de thuc hien va tang cuong lien minh cong - nong - tri thuc o Viet Nam hien nay la gi?
-A. Day manh cong nghiep hoa, hien dai hoa; xay dung nong thon moi; phat trien kinh te tri thuc, nang cao trinh do khoa hoc, cong nghe trong cac nganh, linh vuc
-B. Day manh nghien cuu, sang tao cac giai phap moi nham thu hep nong thon, mo rong cong nghiep, chuyen doi nhanh chong co cau kinh te theo huong dich vu va cong nghiep
-C. Tung buoc xac lap vi tri chu dao cua nen kinh te tri thuc va vai tro quan trong bat nhat cua doi ngu tri thuc
-D. Tung buoc xac lap vi tri then chot cua kinh te thi truong va vai tro quan trong bat nhat cua doi ngu doanh nhan<term>A<row>Cau noi sau day do ai noi: "Vo san tat ca cac nuoc va cac dan toc bi ap buc, doan ket lai!"?
-A. V.I.Lenin
-B. Chu tich Ho Chi Minh
-C. C.Mac
-D. Ph.Angghen<term>A<row>Theo chu nghia Mac - Lenin thi lich su xa hoi da trai qua may hinh thai kinh te - xa hoi?
-A. 2
-B. 3
-C. 4
-D. 5<term>D<row>Su menh lich su the gioi cua giai cap cong nhan la:
-A. Xoa bo su thong tri ap buc cua chu nghia tu ban, xay dung thanh cong che do xa hoi moi - xa hoi chu nghia va cong san chu nghia, tien toi mot xa hoi khong con giai cap
+a. Xa hoi thuoc dia, nua phong kien
+b. Xa hoi phong kien
+c. Xa hoi thuoc dia
+d. Xa hoi chiem huu<term>a. Xa hoi thuoc dia, nua phong kien<row>Trong cac noi dung sau day, noi dung nao khong thuoc luan cuong chinh tri thang 10/1930?
 
-B- Xoa bo su thong tri ap buc cua che do phong kien, xay dung thanh cong che do xa hoi moi - xa hoi chu nghia va cong san chu nghia, tien toi mot xa hoi khong con giai cap
+a. Cach mang Viet Nam phai trai qua hai giai doan: cach mang tu san dan quyen va cach mang xa hoi chu nghia
+b. Cach mang do Dang cua giai cap vo san lanh dao
+c. Cach mang Viet Nam la mot bo phan cua cach mang the gioi
+d. Luc luong de danh duoi de quoc va phong kien la cong nong. Dong thoi "phai biet lien lac voi tieu tu san, tri thuc, trung nong ... de keo ho ve phe vo san giai cap"<term>d. Luc luong de danh duoi de quoc va phong kien la cong nong. Dong thoi "phai biet lien lac voi tieu tu san, tri thuc, trung nong ... de keo ho ve phe vo san giai cap"<row>Su kien nao duoc Nguyen Ai Quoc danh gia "la mot buoc ngoat vo cung quan trong trong lich su Cach mang Viet Nam ta"?
 
-C. Xoa bo su thong tri ap buc cua che do cong xa nguyen thuy, xay dung thanh cong che do xa hoi moi - xa hoi chu nghia va cong san chu nghia, tien toi mot xa hoi khong con giai cap
+a. Dang Cong san Viet Nam ra doi
+b. Su thanh lap Dang Cong san Phap
+c. Su thanh lap hoi Viet Nam Cach mang thanh nien
+d. Nguyen Ai Quoc tim thay con duong cuu nuoc<term>a. Dang Cong san Viet Nam ra doi<row>Q8 Cuong linh dau tien cua Dang da xac dinh muc tieu chien luoc cua cach mang Viet Nam la gi?
 
-D. Xoa bo su thong tri ap buc cua chu nghia tu ban, xay dung thanh cong che do xa hoi moi - phong kien<term>A<row>Su thong tri cua giai cap tu san, dac biet cua bo phan tu san dai cong nghiep la dieu kien ban dau cho:
-A. Su phat trien giai cap tu san
-B. Su phat trien giai cap chu no
-C. Su phat trien giai cap nong dan
-D. Su phat trien giai cap cong nhan<term>D<row>Hon nhan mot vo mot chong xuat hien lan dau tien khi nao? 
-A. Khi co su thang loi cua che do tu huu doi voi che do cong huu nguyen thuy
-B. Khi co su thang the cua che do tu ban doi voi che do phong kien
-C. Khi cac quoc gia buoc vao thoi ky qua do len chu nghia xa hoi
-D. Khi con nguoi xuat hien<term>B<row>Trich dan: "... cac giai cap khac deu suy tan va tieu vong cung voi su phat trien cua dai cong nghiep, con giai cap vo san lai la san pham cua ban than nen dai cong nghiep do" duoc C.Mac Va Ph.Angghen de cap trong tac pham nao?
-A. Tinh canh cong nhan Anh
-B. Bo Tu ban
-C. Tuyen ngon cua Dang Cong san
-D. Chong Duyrinh<term>C<row>Theo V.I.Lenin, muc dich cao ca nhat ma chu nghia xa hoi can dat den la gi? ( Choose 3 answers) 
-A. Xoa bo su phan chia xa hoi thanh giai cap
-B. Bien tat ca thanh vien trong xa hoi thanh nguoi lao dong
-C. Tieu diet co so cua moi tinh trang nguoi boc lot nguoi
-D. Thiet lap quyen thong tri xa hoi cua giai cap cong nhan va nhan dan lao dong<term>ABC<row>Trong thoi ki qua do len chu nghia xa hoi, ben canh su lien minh chat che tren co so thong nhat loi ich kinh te giua giai cap cong nhan, nong dan va tri thuc, con xuat hien van de gi?
-A. Xuat hien nhung mau thuan loi ich o nhung muc do khac nhau
+a. Xay dung mot nuoc Viet Nam dan giau, nuoc manh, dan chu, cong bang, van minh
+b. Xay dung mot nuoc Viet Nam dan giau manh
+c. Lam tu san dan quyen cach mang va tho dia cach mang de di toi xa hoi cong san
+d. Cach mang tu san dan quyen, lap chinh quyen cua cong nong bang hinh thuc Xo viet, de du bi dieu kien di toi cach mang xa hoi chu nghia<term>c. Lam tu san dan quyen cach mang va tho dia cach mang de di toi xa hoi cong san<row>Q9 Noi dung nao khong co trong "Luan cuong chinh tri" thang 10 nam 1930?
 
-B. Xuat hien su dau tranh kich liet trong he thong chuyen chinh vo san
-C. Xuat hien su chong pha cua cac giai cap trong lien minh
+a. Dat nhiem vu chong de quoc, giai phong dan toc len hang dau.
+b. Danh gia khong dung vai tro cach mang cua tang lop tieu tu san, phu nhan mat tich cuc cua tu san dan toc.
+c. Khong neu duoc mau thuan chu yeu la mau thuan giua dan toc Viet Nam va de quoc Phap.
+d. Khong de ra duoc chien luoc lien minh dan toc va giai cap rong rai<term>a. Dat nhiem vu chong de quoc, giai phong dan toc len hang dau.<row>Q10 Hinh thuc dau tranh chu yeu trong phong trao 1930-1931 cua nhan dan Nghe - Tinh la gi?
 
-D. Xuat hien su chuyen quyen, doc doan cua mot bo phan<term>D<row>Nhung luc luong nao dong vai tro quan trong trong viec day manh nghien cuu sang tao va ung dung cac thanh tuu khoa hoc - cong nghe hien dai?
-A. Doi ngu tri thuc, doi ngu doanh nhan
-B. Giai cap cong nhan, doi ngu tri thuc
-C. Doi ngu tri thuc, giai cap nong dan
-D. Doi ngu doanh nhan, tang lop lao dong trong xa hoi<term>A<row>Trong co cau xa hoi - giai cap o Viet Nam hien nay, giai cap, tang lop nao dang dong gop tich cuc vao viec thuc hien chien luoc phat trien kinh te - xa hoi, tao viec lam cho nguoi lao dong?
-A. Giai cap cong nhan
-B. Giai cap nong dan
-C. Tang lop tri thuc
-D. Tang lop doanh nhan<term>D<row>Cuong linh xay dung dat nuoc trong thoi qua do len chu nghia xa hoi (Bo sung va phat trien nam 2011) xac dinh phuong huong dau tien, phan anh con duong di len chu nghia xa hoi o nuoc ta la :
-A. Day manh cong nghiep hoa, hien dai hoa dat nuoc gan voi phat trien kinh te tri thuc, bao ve tai nguyen, moi truong
+a. Bai cong chinh tri.
+b. Bieu tinh co vu trang tu ve.
+c. Mit tinh doi quyen dan chu.
+d. Dua yeu sach cai thien doi song.<term>b. Bieu tinh co vu trang tu ve.<row>Q11 Dai hoi dai bieu toan quoc cua Dang cong san Dong Duong vao thang 3-1935 bau ai lam Tong bi thu?
 
-B. Phat trien nen kinh te thi truong dinh huong xa hoi chu nghia
+a. Tran Phu
+b. Nguyen Van Cu
+c. Le Hong Phong
+d. Ha Huy Tap<term>c. Le Hong Phong<row>Q12 Muc tieu cu the truoc mat cua phong trao van dong dan chu Dong Duong (1936-1939) la gi?
 
-C. Xay dung nen van hoa tien tien, dam da ban sac dan toc; xay dung con nguoi, nang cao doi song nhan dan, thuc hien tien bo va cong bang xa hoi
+a. Doc lap dan toc, gan voi chu nghia xa hoi
+b. Cac quyen tu do, dan chu, com ao va hoa binh
+c. Ruong dat cho dan cay
+d. Danh do de quoc Phap va tay sai<term>b. Cac quyen tu do, dan chu, com ao va hoa binh<row>Q13 Chien tranh the gioi thu II no ra vao thoi gian nao?
 
-D. Bao dam vung chac quoc phong va an ninh quoc gia, trat tu, an toan xa hoi<term>C<row>Ba bo phan hop thanh chu nghia Mac - Lenin la gi?
-A. Triet hoc Mac - Lenin, Kinh te chinh tri Mac - Lenin va Chu nghia xa hoi khong tuong phe phan
-B. Kinh te chinh tri Mac - Lenin, Tu tuong Ho Chi Minh va Chu nghia xa hoi khong tuong phe phan
-C. Triet hoc Mac - Lenin, Tu tuong Ho Chi Minh va Kinh te chinh tri hoc co dien Anh
-D. Triet hoc Mac - Lenin, Kinh te chinh tri Mac - Lenin va Chu nghia xa hoi khoa hoc<term>D<row>Quan he dan toc va ton giao la gi?
-A. La su lien ket, tac dong qua lai, chi phoi lan nhau giua dan toc voi ton giao trong noi bo mot quoc gia, hoac giua cac quoc gia voi nhau trong moi linh vuc doi song xa hoi
+a. 1937
+b. 1938
+c. 1939
+d. 1940<term>c. 1939<row>Q14 Noi dung nao sai trong Hoi nghi Trung uong VIII cua Dang (thang 5 nam 1941)?
 
-B. La su lien ket, tac dong qua lai, chi phoi lan nhau giua dan toc voi ton giao trong noi bo mot quoc gia trong moi linh vuc doi song xa hoi
+a. Dua nhiem vu giai phong dan toc len hang dau.
+b. Chuan bi dieu kien de "danh do dia chu, chia ruong dat cho dan cay".
+c. Thanh lap mat tran Viet Minh de tap hop luc luong cach mang nham muc tieu giai phong dan toc.
+d. Xac dinh chuan bi khoi nghia la nhiem vu trung tam trong giai doan hien tai<term>b. Chuan bi dieu kien de "danh do dia chu, chia ruong dat cho dan cay".<row>Q15 Mat tran Viet Nam doc lap dong minh duoc thanh lap nam nao?
 
-C. La su lien ket, tac dong qua tai, chi phoi lan nhau giua dan toc voi ton giao giua cac quoc gia voi nhau trong moi linh vuc doi song xa hoi
+a. 19/5/1940
+b. 19/5/1941
+c. 19/5/1942
+d. 19/5/1943<term>b. 19/5/1941<row>Q16 Hoi nghi cua Ban chap hanh Trung uong nao sau day nhan manh giai phong dan toc la nhiem vu buc thiet nhat?
 
-D. La dau tranh bai tru lan nhau giua dan toc voi ton giao trong noi bo mot quoc gia, hoac giua cac quoc gia voi nhau trong moi linh vuc doi song xa hoi<term>A<row>Tai sao noi dan chu trong xa hoi chiem huu no le la dan chu thieu so?
-A. Vi so luong con nguoi thoi do rat it
-B. Vi noi ham cua khai niem "dan" chi bao gom giai cap chu no va mot bo phan nho cong dan tu do
-C. Vi suc tap trung lanh tho cua cac lanh chua nho be
-D. Vi quyen luc thuc su thuoc vao tay mot lanh chua lon nhat<term>B<row>Trong giai doan 1843 -1844, C. Mac va Ph. Ang ghen da chuyen bien lap truong cua minh nhu the nao? Chon 2 Dap an
-A. Tu the gioi quan duy tam sang the gioi quan duy vat
-B. Tu lap truong dan chu cach mang sang lap truong cong san chu nghia
-C. Tu lap truong cach mang dan chu sang lap truong dan toc chu nghia
-D. Tu phuong phap luan sieu hinh sang phuong phap luan bien chung<term>AC<row>Cau noi sau do ai khang dinh: "Neu khong giai phong phu nu la xay dung chu nghia xa hoi chi mot nua"?
-A. V.I.Lenin
-B. C.Mac
-C. Chu tich Ho Chi Minh
-D. Ph.Angghen<term>C<row>Qua do tu xa hoi tien tu ban chu nghia phat trien len chu nghia xa hoi la hinh thuc qua do nao?
-A. Qua do gian tiep
-B. Qua do truc tiep
-C. Qua do bo phan
-D. Qua do toan dien<term>A<row>Dua tren phuong dien kinh te - xa hoi, giai cap cong nhan duoc hieu la:
-A. San pham cua nen san xuat dai cong nghiep
-B. Chu the cua nen san xuat dai cong nghiep
-C. La nguoi mua suc lao dong va di boc lot gia tri thang du
-D. A va B deu dung<term>D<row>Dan chu duoc hieu la:
-A. Mot gia tri xa hoi phan anh cac quyen co ban cua con nguoi; la mot hinh thuc to chuc nha nuoc cua giai cap cam quyen; co qua trinh ra doi, phat trien cung voi lich su xa hoi nhan loai
+a. Hoi nghi trung uong I thang 10/1930
+b. Hoi nghi trung uong VI thang 11/1939
+c. Hoi nghi trung uong VII thang 11/1940
+d. Hoi nghi trung uong VIII thang 5/1941<term>d. Hoi nghi trung uong VIII thang 5/1941<row>Q17 Mat tran dan chu Dong duong chinh thuc thanh lap vao nam nao?
 
-B. Mot gia tri xa hoi phan anh cac quyen co ban cua con nguoi; la mot hinh thuc to chuc nha nuoc cua giai cap tu san cam quyen; co qua trinh ra doi, phat trien cung voi lich su xa hoi nhan loai
+a. Nam 1938
+b. Nam 1930
+c. Nam 1941
+d. Nam 1945<term>a. Nam 1938<row>Q18 Nguyen nhan nao lam cho phong trao o Nghe - Tinh len cao?
+a. Vi Nghe - Tinh da lap duoc chinh quyen xo viet.
+b. Vi Nghe - Tinh co to chuc cong san va co so dang kha manh.
+c. Vi nhan dan o day co long yeu nuoc va cam thu giac sau sac.
+d. Vi co so cong nghiep Vinh - Ben Thuy o Nghe - Tinh la trung tam ky nghe lon nhat o Viet Nam.<term>b. Vi Nghe - Tinh co to chuc cong san va co so dang kha manh.<row>Q19 De tuyen truyen chu nghia Mac trong giai doan 1932-1933, Dang Cong san Viet Nam da su dung phuong phap gi?
 
-C. Mot gia tri xa hoi phan anh cac quyen co ban cua con nguoi; la mot hinh thuc to chuc nha nuoc cua giai cap thong tri cam quyen; co qua trinh ra doi, phat trien tu xa hoi chiem huu no le
+a. To chuc cac hoi cong khai, nhu hoi cay, hoi cay, hoi da bong...
+b. To chuc cac cuoc but chien cong khai
+c. To chuc cac buoi hoc bi mat
+d. To chuc giai truyen don<term>b. To chuc cac cuoc but chien cong khai<row>Q20 Noi dung nao chua dung trong cac bai hoc lanh dao cach mang cua Dang de dan toi cach mang Thang Tam 1945 thang loi?
 
-D. Mot gia tri xa hoi phan anh cac quyen co ban cua con nguoi; la mot hinh thuc to chuc<term>A<row>Su kien gi danh dau viec V.I.Lenin da bien chu nghia xa hoi tu khoa hoc, ly luan thanh hien thuc? 
-A. Cach mang thang Muoi Nga va su ra doi cua Nha nuoc Xo - viet Nga 1917
-B. Su ra doi cua Lien Xo
-C. Su chien thang cua nuoc Nga trong giai doan noi chien
-D. Tat ca cac dap an deu dung<term>A<row>Trong thoi gian qua, viec tang cuong cac chuong trinh dao tao quoc te, huong den cong dan toan cau, nguoi lao dong co trinh do cao thich ung voi toan cau hoa nam trong giai phap thu may cua cac giai phap xay dung giai cap cong nhan hien nay?
-A.1
-B.2
-C.3
-D.4<term>C<row>Dau la mot trong tam dac trung co ban cua chu nghia xa hoi o Viet Nam duoc de cap trong Van kien Dai hoi dai bieu toan quoc lan thu XI cua Dang Cong san Viet Nam?
-A. Dan giau, nuoc manh, dan chu, van minh
+a. Giuong cao ngon co doc lap dan toc, ket hop dung dan hai nhiem vu chong de quoc va chong phong kien.
+b. Su dung luc luong vu trang ap dao tieu diet ke thu
+c. Loi dung mau thuan trong hang ngu ke thu.
+d. Nam vung nghe thuat khoi nghia, nghe thuat chon dung thoi co.<term>b. Su dung luc luong vu trang ap dao tieu diet ke thu<row>Q21 Phong trao Xo Viet Nghe Tinh duoc bat dau tu ngay thang nam nao?
 
-B. Dan giau, nuoc manh, con nguoi co cuoc song am no
+a. 1 - 5 - 1930
+b. 1 - 5 - 1931
+c. 19 - 5 - 1930
+d. 19 -8 - 1930<term>a. 1 - 5 - 1930<row>Q22 Bai hoc "giuong cao ngon co doc lap dan toc, ket hop dung dan hai nhiem vu chong de quoc va chong phong kien" duoc Dang rut ra sau thoi gian nao?
 
-C. Do nhan dan lam chu
+a. Cach mang Thang Tam
+b. Cach mang dan toc dan chu nhan dan o mien Nam
+c. Cach mang xa hoi chu nghia o mien Bac
+d. Cach mang Thang Muoi<term>a. Cach mang Thang Tam<row>Q23 Nhan dan ta phai tien hanh tong khoi nghia gianh chinh quyen truoc khi quan Dong minh vao Dong Duong vi:
 
-D. Nha nuoc phap quyen xa hoi chu nghia, nha nuoc cua nhan dan lao dong<term>A<row>Tinh chat xa hoi hoa cao cua luc luong san xuat doi hoi van de gi?
-A. Mot quan he san xuat moi, phu hop voi che do cong huu cac tu lieu san xuat chu yeu cua xa hoi
-B. Mot co so ha tang moi, phu hop voi che do cong huu cac tu lieu san xuat chu yeu cua xa hoi
-C. Mot luc luong san xuat moi, phu hop voi che do cong huu cac tu lieu san xuat chu yeu cua xa hoi
-D. Mot kien truc thuong tang moi, phu hop voi luc luong san xuat moi<term>C<row>O Viet Nam hien nay, to chuc nao dai dien cho quyen loi, loi ich hop phap va la noi de giai cap cong nhan chu dong, tich cuc tham gia xay dung, chinh don Dang, bao ve che do xa hoi chu nghia, bao ve nhan dan?
-A. He thong to chuc Cong doan
-B. Quoc hoi
-C. Mat tran To quoc Viet Nam
-D. Hoi dong nhan dan cac Cap<term>C<row>Dac diem nao trong 06 dac diem dan toc o Viet Nam da tao dieu kien thuan loi de cac dan toc tang cuong hieu biet, mo rong giao luu, giup do nhau cung phat trien?
-A. Co su chenh lech ve dan so giua cac toc nguoi
-B. Dan toc thieu so o Viet Nam phan bo chu yeu o cac dia ban co vi tri chien luoc quan trong
-C. Dan toc o Viet Nam co trinh do phat trien khong deu
-D. Cac dan toc cu tru xen ke nhau<term>B<row>Theo quan diem cua chu nghia Mac - Lenin, loai nguoi da trai qua cac hinh thuc cong dong tu thap den cao theo thu tu la
-A. Thi toc, bo lac, bo toc va dan toc
-B. Bo toc, bo lac, thi toc va dan toc
-C. Dan toc, thi toc, bo lac va bo toc
-D. Bo lac, bo toc, thi toc va dan toc<term>B<row>Theo quan diem cua chu nghia Mac - Lenin, tu chu nghia tu ban len chu nghia xa hoi tat yeu phai trai qua thoi ky gi?
-A. Phat trien cua loai nguoi
-B. Phat trien luc luong san xuat va quan he san xuat
-C. Qua do chinh tri
-D. Thay doi phuong thuc san xuat<term>D<row>Dau la cac dai bieu cua chu nghia xa hoi khong tuong phe phan Phap? ( Chon 3 dap an) 
-A. Xanh Ximong
-B. S. Phurie
-C. R.Oen
-D. Ph.Heghen<term>ABC<row>Tai sao trong gia dinh Viet Nam truyen thong truoc kia lai quan niem co cang dong con cang tot va nhat thiet phai co con trai noi doi?
-A. Do dan so it va nam gioi qua hiem
+ a. Do la luc so sanh luc luong co loi nhat doi voi cach mang
+b. Do la luc ke thu cu da nga guc nhung ke thu moi chua kip den
+c. Quan Dong minh co the dung ra mot chinh quyen trai voi y chi va nguyen vong cua nhan dan ta
+d. Tat ca nhan dinh tren<term>d. Tat ca nhan dinh tren<row>Q24 Lan dau tien Ban Chap hanh Trung uong Dang tai hoi nghi lan thu 8 (5-1941) chu truong thanh lap chinh quyen Nha nuoc voi hinh thuc gi?
 
-B. Do khong co cac bien phap ke hoach hoa gia dinh
+a. Cong hoa dan chu
+b. Cong hoa xa hoi chu nghia
+c. Cong hoa nghi vien
+d. Cong hoa nhan dan<term>a. Cong hoa dan chu<row>Q25 "Doan ket, tap hop luc luong cach mang nham giai phong dan toc" la chu truong cua Dang trong viec thanh lap to chuc nao?
 
-C. Do con cai mang ho cha
+a. Mat tran Viet Minh
+b. Mat tran dan chu thong nhat phan de Dong Duong
+c. Mat tran dan chu Dong Duong
+d. Hoi phan de dong minh<term>a. Mat tran Viet Minh<row>Q26 Chinh phu lam thoi nuoc Viet Nam dan chu cong hoa ra doi tu to chuc nao?
 
-D. Do anh huong phong tuc, tap quan va nhu cau san xuat nong nghiep<term>D<row>Nguon goc gay nen tinh trang thong tri cua nguoi dan ong trong gia dinh, su bat binh dang nam, nu, giua vo chong, su no dich doi voi phu nu trong gia dinh la gi?
-A. La che do phong kien
-B. La che do hon nhan phu he
-C. La che do tu huu ve tu lieu san xuat
-D. La cac quan niem dao duc loi thoi<term>B<row>Van de: "Dan chu la quyen luc thuoc ve nhan dan, nhan dan la chu nhan cua nha nuoc" duoc de cap tren phuong dien nao theo chu nghia Mac - Lenin Ve dan chu? 
-A. Phuong dien to chuc va quan ly xa hoi
-B. Phuong dien quyen luc
-C. Phuong dien che do xa hoi va trong linh vuc chinh tri
-D. Phuong dien bao ve xa hoi<term>C<row>Chuc nang co ban nao cua gia dinh duoc xem la chuc nang dac thu nhat?
-A. Chuc nang nuoi duong, giao duc
+a. Viet Minh
+b. Uy ban dan toc giai phong Viet Nam
+c. Uy ban lam thoi khu giai phong
+d. Uy ban khoi nghia<term>b. Uy ban dan toc giai phong Viet Nam<row>Q27 Ban chap hanh Trung uong Dang chu truong thanh lap nuoc Viet Nam dan chu cong hoa tai Hoi nghi nao?
 
-B. Chuc nang kinh te va to chuc tieu dung
+a. Hoi nghi trung uong thang 10/1930
+b. Hoi nghi trung uong VI thang 11/1939
+c. Hoi nghi trung uong VII thang 11/1940
+d. Hoi nghi trung uong VIII thang 5/1941<term>d. Hoi nghi trung uong VIII thang 5/1941<row>Q28 Chong phat xit, chong chien tranh de quoc, chong bon phan dong thuoc dia va tay sai la nhiem vu cach mang duoc Dang de ra trong giai doan nao?
 
-C. Chuc nang tai san xuat ra con nguoi
+a. 1930 - 1931
+b. 1936-1939
+c. 1939 - 1945
+d. 1945-1954<term>b. 1936-1939<row>Q29 Hai khau hieu ma Dang ta van dung trong phong trao cach mang 1930- 1931 la:
+a. "Doc lap dan toc" va "Ruong dat dan cay"..
+b. "Tu do dan chu" va "com ao hoa binh".
+c. "Giai phong dan toc" va "tich thu ruong dat cua de quoc Viet gian".
+d. "Chong de quoc" va "Chong phat xit, chong chien tranh".<term>a. "Doc lap dan toc" va "Ruong dat dan cay"..<row>Q30 Chu truong dieu chinh chien luoc cach mang cua Dang duoc bat dau tu Hoi nghi Trung uong nao cua khoa I?
 
-D. Chuc nang thoa man nhu cau tam sinh ly, duy tri tinh cam gia dinh<term>C<row>Qua trinh phat trien cua nen dan chu xa hoi chu nghia duoc dien ra nhu the nao? 
-A. Tu thap den cao, tu chua hoan thien den hoan thien
-B. Tu thap den cao, tu don gian den phuc tap
-C. Tu thap den cao, dien ra kho khan
-D. Tu thap den cao, dien ra mot cach tu tu<term>A<row>Trong giai doan hien nay, Cach mang cong nghiep lan thu tu dang phat trien manh me thi vai tro cua luc luong nao trong xa hoi cang tro nen quan trong?
-A. Cong nhan
-B. Nong dan
-C. Tri thuc
-D. Doanh nhan<term>C<row>Qua do len chu nghia xa hoi bo qua che do tu ban chu nghia la tao ra su bien doi nhu the nao cua xa hoi tren tat ca cac linh vuc?
-A. Bien doi ve luong
-B. Bien doi ve chat
-C. Khuynh huong phat trien
-D. Thuc hien buoc nhay<term>B<row>Theo C.Mac va Ph.Angghen: "giai cap tu san khong chi tao ra vu khi se giet chet minh ma con tao ra nhung nguoi su dung vu khi do ..." - nhung nguoi do la ai?
-A. Giai cap cong nhan hien dai
-B. Giai cap nong dan hien dai
-C. Nhung nha tu san tri thuc
-D. Tang lop tri thuc<term>A<row>Chu nghia xa hoi khoa hoc co chuc nang giac ngo va huong dan giai cap cong nhan thuc hien su menh lich su cua minh trong thoi ky nao? 
-A. Thoi ky dau tranh lat do su thong tri cua giai cap tu san, gianh chinh quyen
+a. Hoi nghi Trung uong 6 (11/1939)
+b. Hoi nghi Trung uong 7 (11/1940)
+c. Hoi nghi Trung uong 8 (5/1941)<term>a. Hoi nghi Trung uong 6 (11/1939)<row>Q31 Cuoc tap duot thu nhat cua Dang chuan bi cho thang loi cua cach mang thang Tam la giai doan :
 
-B. Thoi ky thiet lap su thong tri cua giai cap cong nhan, thuc hien su nghiep cai tao va xay dung chu nghia xa hoi
+a. 1930-1931
+b. 1936-1939
+c. 1939-1945
+d. 1945-1954<term>a. 1930-1931<row>Q32 Chanh cuong van tat, Sach luoc van tat do Hoi nghi thanh lap Dang thong qua da dat nhiem vu gi len hang dau?
 
-C. Thoi ky phat trien chu nghia xa hoi tien len chu nghia cong san
+a. Nhiem vu chong tu san
+b. Nhiem vu chong phong kien
+c. Nhiem vu chong tay sai phan dong
+d. Nhiem vu chong de quoc<term>d. Nhiem vu chong de quoc<row>Q33 Dien vao cho trong:
+Dem 9/3/1945, Nhat dao chinh Phap, ngay 12-3-1945, ... da ra Ban Chi thi "Nhat Phap ban nhau va hanh dong cua chung ta"
 
-D. Tat ca cac dap an deu dung<term>D<row>Dan chu xa hoi chu nghia co ban chat kinh te khac voi dan chu tu san o diem nao? 
-A. Che do cong huu ve tu lieu san xuat chu yeu
-B. Thuc hien che do phan phoi loi ich theo ket qua lao dong la chu yeu
-C. Su to chuc quyen luc nha nuoc do dang cong san lanh dao
-D. Su da dang, phong phu ve che do so huu chu yeu<term>A<row>Dan chu xa hoi chu nghia chi co the co va duoc duy tri voi dieu kien tien quyet la gi?
-A. Giai cap cong nhan phai nam duoc quyen thong tri xa hoi
-B. Bao dam vai tro lanh dao duy nhat cua Dang Cong san
-C. Thuc hien dan chu rong rai doi voi moi giai cap, tang lop
-D. Thuc hien da nguyen chinh tri<term>B<row>Gia dinh van hoa la mot mo hinh gia dinh nhu the nao?
-A. Phat trien
+a. Ban Thuong vu Trung uong Dang
+b. Trung uong cuc mien Nam
+c. Quoc dan dai hoi
+d. Dai hoi toan quoc cua Dang<term>a. Ban Thuong vu Trung uong Dang<row>Q34 Dang chu truong thanh lap mat tran Viet Minh vi muc dich gi?
 
-B. Tien bo
+a. Nham tap hop rong rai nong dan chong de quoc
+b. Tam gac lai khau hieu "danh do dia chu, chia ruong dat cho dan cay"
+c. De doan ket, tap hop luc luong cach mang nham giai phong dan toc
+d. Nham tranh thu luc luong dong minh chong phat xit Nhat<term>c. De doan ket, tap hop luc luong cach mang nham giai phong dan toc<row>Q35 Quoc te cong san (Quoc te III) duoc thanh lap vao nam nao?
 
-C. Huyet thong
+a. 1918
+b. 1919
+c. 1920
+d. 1921<term>b. 1919<row>Q36 Nguyen nhan chu yeu va co y nghia quyet dinh su bung no va phat trien cua cao trao cach mang Viet Nam nam 1930?
 
-D. Khong duoc bao ve<term>B<row>Chu nghia xa hoi khoa hoc ra doi dua tren may tien de?
-A.2
-B.3
-C.4
-D.5<term>A<row>Theo nghia rong, chu nghia xa hoi khoa hoc duoc hieu la gi?
-A. La mot trong ba bo phan hop thanh chu nghia Mac - Lenin
+a. Tac dong tieu cuc cua cuoc khung hoang kinh te 1929-1933
+b. Chinh sach khung bo trang cua de quoc Phap
+c. Chinh sach tang cuong vo vet boc lot cua de quoc Phap
+d. Su lanh dao cua Dang Cong san Viet Nam<term>d. Su lanh dao cua Dang Cong san Viet Nam<row>Q37 Diem giong nhau giua Luan cuong chinh tri 10-1930 va Cuong linh chinh tri dau tien cua Dang thang 2-1930 la:
 
-B. La chu nghia Mac - Lenin, luan giai tu cac giac do triet hoc, kinh te hoc chinh tri va chinh tri xa hoi ve su chuyen bien tat yeu cua xa hoi loai nguoi tu chu nghia tu ban len chu nghia xa hoi va chu nghia cong san
+a. Khang dinh vai tro lanh dao cach mang cua Dang Cong san
+b. Xac dinh nhiem vu cach mang la chong de quoc, phong kien
+c. Anh huong quan trong doi voi cach mang Dong Duong
+d. Xac dinh luc luong la cong- nong<term>a. Khang dinh vai tro lanh dao cach mang cua Dang Cong san<row>Q38 Hoi nghi trung uong VIII thang 5/1941 nhan manh dieu gi?
 
-C. La mot hoc thuyet trinh bay su ra doi, phat trien va suy vong cua chu nghia tu ban
+a. Giai phong dan toc la nhiem vu quan trong
+b. Giai phong dan toc la nhiem vu can thiet
+c. Giai phong giai cap la nhiem vu buc thiet nhat
+d. Giai phong dan toc la nhiem vu buc thiet nhat<term>d. Giai phong dan toc la nhiem vu buc thiet nhat<row>Q39 Dai hoi lan thu VII cua Quoc te Cong san hop vao nam nao?
 
-D. La mot hinh thai kinh te - xa hoi trong tien trinh lich su tu nhien cua loai nguoi<term>B<row>Theo V.l.Lenin: Giai Cap cong nhan neu khong lien minh voi giai cap nao thi khong the co duoc chinh quyen cua giai cap vo san? 
-A. Nong dan
-B. Boc lot
-C. Tu san
-D. Dia chu<term>A<row>Nha nuoc xa hoi chu nghia ra doi la ket qua cua: 
-A. Cuoc cach mang do giai Cap vo san va nhan dan lao dong tien hanh duoi su lanh dao cua Dang Cong san
+a. 1936
+b. 1930
+c. 1935
+d. 1939<term>c. 1935<row>Q40 Phat xit Nhat xam luoc nuoc ta vao ngay thang, nam nao?
 
-B. Su chuyen bien tich cuc cua nha nuoc tu san
+a. Ngay 22 Thang 9-1940
+b. Ngay 26 Thang 9-1940
+c. Ngay 20 Thang 9-1940
+d. Ngay 25 Thang 9-1940<term>a. Ngay 22 Thang 9-1940<row>Q41 Mat tran duoc xay dung thoi ky cach mang 1930- 1931 goi ten la:
+a. Mat tran nhan dan phan de Dong Duong
+b. Mat tran dan chu Dong Duong
+c. Hoi phan de Dong Duong
+d. Mat tran dan toc thong nhat phan de Dong Duong<term>c. Hoi phan de Dong Duong<row>Q42 Doi tuong cua cach mang Viet Nam duoc xac dinh trong Cuong linh chinh tri dau tien cua Dang (2/1930) la :
+a. Phong kien, de quoc
+b. De quoc, tu san phan cach mang
+c. Thuc dan Phap va tu san mai ban
+d. De quoc, phong kien va tu san phan cach mang<term>d. De quoc, phong kien va tu san phan cach mang<row>Q43 Hoi Viet Nam Cach mang Thanh nien hoat dong theo khuynh huong nao?
 
-C. Cuoc cach mang tu san do giai Cap tu san va nhan dan lao dong tien hanh duoi su lanh dao cua Dang Cong san
+a. Khuynh huong phong kien
+b. Khuynh huong vo san
+c. Khuynh huong tu san
+d. Khuynh huong tieu tu san<term>b. Khuynh huong vo san<row>Q44 Chi thi Khang chien kien quoc cua Trung uong Dang ngay 25/11/1945, xac dinh nhiem vu nao la trung tam, bao trum nhat?
 
-D. Cuoc cach mang vo san do giai Cap nong nhan tien hanh<term>A<row>Trong thoi ky qua do len chu nghia xa hoi o Viet Nam, hinh thuc So huu va thanh phan kinh te nao tuy con ton tai nhung khong giu vai tro chu dao?
-A. So huu tu nhan tu ban chu nghia va thanh phan kinh te tap the
+a. Cung co, bao ve chinh quyen cach mang
+b. Chong thuc dan Phap xam luoc
+c. Cai thien doi song nhan dan
+d. Cung co, bao ve chinh quyen cach mang<term>b. Chong thuc dan Phap xam luoc<row>Q45 Su kien lich su nao anh huong den phong trao cach mang nuoc ta trong nhung nam 1930-1931?
 
-B. So huu tu nhan tu ban chu nghia va thanh phan kinh te tu nhan tu ban chu nghia
-C. So huu tap the va thanh phan kinh te tap the
-D. So huu hon hop va thanh phan kinh te tu nhan tu ban chu nghia<term>B<row>Cho den nay, hinh thuc qua do len chu nghia xa hoi nao chua tung dien ra tren thuc te?
-A. Qua do toan dien
-B. Qua do truc tiep
-C. Qua do bo phan
-D. Qua do gian tiep<term>A<row>Dau la mot ton giao noi sinh cua Viet Nam?
-A. Dao Cao dai
-B. Tin lanh
-C. Phat giao
-D. Hoi Thanh Duc chua troi<term>A<row>Cac dan toc deu co quyen va nghia vu ngang nhau tren tat ca cac linh vuc doi song xa hoi, khong phan biet dan toc lon hay nho, trinh do phat trien cao hay thap la quyen gi trong Cuong linh dan toc cua V.I.Lenin?
-A. Quyen cong bang xa hoi
-B. Quyen hoan toan binh dang giua cac dan toc
-C. Quyen dan toc tu quyet
-D. Quyen song, quyen tu do va quyen hanh phuc cua cac dan toc<term>B<row>Quan he dan toc va ton giao o nuoc ta duoc thiet lap va cung co tren co so nao?
-A. Su thong nhat quan ly cua Dang Cong san Viet Nam
-B. su thong nhat loi ich kinh te giua cac giai cap
-C. Su thong nhat trong cung cong dong quoc gia - dan toc
-D. Tat ca cac dap an deu dung<term>C<row>Thoi ky qua do len chu nghia xa hoi la thoi ky dau tranh giai cap trong dieu kien moi, dieu kien do la gi?
-A. Dang Cong san da duoc thanh lap, va ngay cang the hien vai tro lanh dao tich cuc trong phong trao dau tranh gianh chinh quyen
-B. Giai cap tu san da tro thanh luc luong phan dong
-C. Giai cap cong nhan va nhan dan lao dong da tro thanh giai cap cam quyen
-D. Su phat trien cua cong nghiep hoa dan den that nghiep tran lan<term>A<row>Dan chu voi tu cach la mot gia tri xa hoi, thi no la:
-A. Pham tru lich su, ton tai ngoai che do quan chu phong kien
-B. Pham tru vinh vien, ton tai trong moi che do xa hoi
-C. Pham tru lich su, mat di khi tien len chu nghia xa hoi
-D. Pham tru lich su, mat di khi nha nuoc tieu vong<term>B<row>Van de sau day do ai khang dinh: "Trong moi thoi dai lich su, san xuat kinh te va co cau xa hoi - co cau nay tat yeu phai do san xuat kinh te ma ra, - ca hai cai do cau thanh co so cua lich su chinh tri va lich su tu tuong cua thoi dai ay..."?
-A. Chu tich Ho Chi Minh
-B. C.Mac
+a. Cach mang thang Muoi Nga thanh cong
+b. Su thanh lap Quoc te Cong san
+c. Cuoc khung hoang kinh te 1929-1933
+d. Thang loi cua cach mang thang Tam<term>c. Cuoc khung hoang kinh te 1929-1933<row>Q46 Truoc cuoc khai thac thuoc dia lan thu nhat cua thuc dan Phap (1897 - 1913) o Viet Nam co nhung giai cap nao?
+a. Dia chu va nong dan
+b. Dia chu, nong dan, tu san, tieu tu san va cong nhan
+c. Dia chu, nong dan va cong nhan
+d. Nong dan va tieu tu san<term>a. Dia chu va nong dan<row>Q47 Le Hong Phong duoc bau lam Tong bi thu tai Dai hoi nao cua Dang?
 
-C. Ph.Angghen
+a. Dai hoi dai bieu toan quoc lan thu II
+b. Dai hoi dai bieu toan quoc lan thu III
+c. Dai hoi dai bieu toan quoc lan thu I
+d. Dai hoi dai bieu toan quoc lan thu IV<term>c. Dai hoi dai bieu toan quoc lan thu I<row>Q48 Luc luong tao nen dong luc cho cach mang Viet Nam duoc neu ra trong Chinh cuong cua Dang Lao dong Viet Nam la:
 
-D. V.I.Lenin<term>B<row>Noi dung co ban va truc tiep de xay dung gia dinh o Viet Nam hien nay la gi?
-A. Phat trien kinh te - xa hoi
+a. Cong nhan, nong dan, tieu tu san, tu san dan toc, dia chu yeu nuoc
+b. Cong nhan, nong dan, lao dong tri thuc
+c. Cong nhan, tri thuc, tu san dan toc
+d. Dia chu, tu san dan toc
+e. Cong nhan, nong dan, tieu tu san, tu san dan toc, dai dia chu<term>a. Cong nhan, nong dan, tieu tu san, tu san dan toc, dia chu yeu nuoc<row>Q49 To chuc Cong san nao ra doi dau tien o Viet Nam?
 
-B. Xay dung gia dinh no am, binh dang, tien bo va hanh phuc
-C. Giai phong nguoi phu nu
+a. Hoi Viet Nam cach mang Thanh Nien
+b. Dong Duong Cong san Dang
+c. An Nam Cong san dang
+d. Dong Duong Cong san lien doan<term>b. Dong Duong Cong san Dang<row>Q50 Giai cap cong nhan Viet Nam ra doi tu :
+a. Cuoc khai thac thuoc dia lan thu nhat cua thuc dan Phap
+b. Cuoc khai thac thuoc dia lan thu hai cua thuc dan Phap
+c. Cuoc xam luoc lan thu nhat cua thuc dan Phap
+d. Cuoc xam luoc lan thu hai cua thuc dan Phap<term>a. Cuoc khai thac thuoc dia lan thu nhat cua thuc dan Phap<row>Q51 Su kien nao duoc Nguyen Ai Quoc danh gia "No la qua trung, ma tu do no ra con chim non Cong san"?
 
-D. Nang cao trinh do dan tri cho nhan dan lao dong<term>B<row>Loi ich co ban cua giai cap cong nhan co quan he nhu the nao voi loi ich co ban cua cac giai cap khac trong xa hoi? ( 2 dap an)
-A. Doi lap truc tiep voi loi ich co ban cua giai cap tu san
-B. Thong nhat voi loi ich co ban cua da so nhan dan lao dong
-C. Doi lap truc tiep voi loi ich co ban cua giai cap nong dan
-D. Thong nhat voi loi ich co ban cua giai cap tu san<term>AB<row>Dau la can cu co ban de xay dung chinh sach phat trien kinh te, van hoa, xa hoi cua moi xa hoi trong tung giai doan lich su cu the?
-A. Co cau van hoa, tu tuong, giao duc
-B. Co cau to chuc, quan ly va dao tao
-C. Co cau xa hoi - giai cap
-D. Co cau kinh te - xa hoi<term>C<row>Dac trung noi bat trong quan he giua cac dan toc o nuoc ta la:
-A. La cac dan toc co ban sac van hoa rieng, da dang, phong phu
+a. Cach mang thang Muoi Nga bung no va thang loi
+b. Su thanh lap Dang cong san Phap
+c. Vu muu sat ten toan quyen Mec lanh (Phap) cua Pham Hong Thai
+d. Su thanh lap Hoi Viet Nam cach mang thanh nien<term>d. Su thanh lap Hoi Viet Nam cach mang thanh nien<row>Q52 Dau la luan diem sang tao cua Ho Chi Minh khi van dung chu nghia Mac - Lenin ve viec ra doi cua Dang Cong san Viet Nam?
 
-B. La su phan bo dan xen nhau, khong mot dan toc nao co lanh tho rieng
+a. Dang Cong san Viet Nam ra doi la tat yeu lich su, no la san pham ket hop giua chu nghia Mac voi phong trao cong nhan Viet Nam.
+b. Dang Cong san Viet Nam ra doi la tat yeu lich su, no la san pham ket hop giua chu nghia Mac voi phong trao yeu nuoc Viet Nam.
+c. Dang Cong san Viet Nam la san pham cua su ket hop chu nghia Mac-Lenin voi phong trao cong nhan va phong trao yeu nuoc cua nhan dan Viet Nam.
+d. Dang Cong san Viet Nam la san pham cua su ket hop phong trao cong nhan va phong trao yeu nuoc Viet Nam.<term>c. Dang Cong san Viet Nam la san pham cua su ket hop chu nghia Mac-Lenin voi phong trao cong nhan va phong trao yeu nuoc cua nhan dan Viet Nam.<row>Q53 Tong bi thu dau tien cua nuoc ta la :
 
-C. La su co ket dan toc, hoa hop dan toc trong mot cong dong thong nhat
+a. Tran Phu
+b. Nguyen Van Cu
+c. Truong Chinh
+d. Le Hong Phong<term>a. Tran Phu<row>Q54 Hoi nghi Ban Chap hanh Trung uong Dang Cong san Viet Nam (10-1930) da doi ten dang thanh :
 
-D. La co su chenh lech ve trinh do phat trien kinh te - xa hoi giua cac dan toc<term>C<row>Khi nghien cuc thuc tien phong trao dau tranh cua giai cap cong nhan chau Au tu giua the ki XIX, C.Mac va Ph.Angghen cho rang giai cap cong nhan that bai la do da khong lien minh duoc voi "nguoi ban dong hanh tu nhien" cua minh. Nguoi ban do la giai cap nao?
-A. Tang lop doanh nhan
-B. Giai cap nong dan
-C. Giai cap tu san
-D. Giai cap dia chu phong kien<term>B<row>Trong nha nuoc xa hoi chu nghia Viet Nam, co quan nao la co quan quyen luc nha nuoc cao nhat?
-A. Chinh phu
-B. Vien kiem sat nhan dan
-C. Toa an nhan dan
-D. Quoc hoi<term>D<row>Co cau xa hoi - giai cap trong thoi ki qua do len chu nghia xa hoi co su dan xen giua cai cu va cai moi, bieu hien ve mat kinh te cua no la gi?
-A. Ton tai nhieu hinh thuc lien doanh, lien ket tu ban nuoc ngoai
-B. Ton tai nhieu giai cap, tang lop doi lap voi nhau
-C. Ton tai ket cau kinh te nhieu thanh phan
-D. Ton tai nhieu chu so huu trong cung mot doanh nghiep<term>C<row>Theo chu nghia Mac - Lenin, chat luong cua giai cap cong nhan duoc the hien thong qua yeu to nao?
-A. Su chuyen nghiep trong tac phong, ky luat lao dong
-B. Nang luc tap hop, van dong va thong tri nhan dan lao dong thong qua doi tien phong cua minh - Dang Cong san
-C. Nang luc to chuc khoi nghia gianh chinh quyen
-D. Trinh do truong thanh ve y thuc chinh tri cua mot giai cap cach mang<term>B<row>Neu thieu di co so van hoa, hoac co so van hoa khong di lien voi co so kinh te, chinh tri, thi se anh huong den van de gi?
-A. Viec phat trien xa hoi
-B. Viec nhan thuc ve the gioi xung quanh cua con nguoi bi han che
-C. Viec xay dung gia dinh se lech lac, khong dat hieu qua cao
-D. Viec phat trien tam sinh ly cua con nguoi<term>A<row>Ai da danh gia ve chu nghia cua C. Mac la: "Hoc thuyet cua Mac la hoc thuyet van nang vi no la mot hoc thuyet chinh xac"?
-A. Tap Can Binh
+a. Dong Duong Cong san Dang
+b. Dang Lao dong Viet Nam
+c. Dang Cong san Dong Duong
+d. Dang An Nam<term>c. Dang Cong san Dong Duong<row>Q55. Mot trong nhung to chuc Cong san ra doi o Viet Nam nam 1929 la:
 
-B. Chu tich Ho Chi Minh
-C. Ph.Angghen
+a. Hoi Viet Nam cach mang Thanh Nien
+b. Viet Nam Quoc dan dang
+c. Tan Viet Cach mang dang
+d. Dong Duong Cong san dang<term>d. Dong Duong Cong san dang<row>Q56 Truoc su xam luoc cua thuc dan Phap, phong trao yeu nuoc do Viet Nam quoc dan Dang khoi xuong theo khuynh huong nao sau day:
 
-D. V.I.Lenin<term>D<row>Trong cach mang xa hoi chu nghia, giai cap cong nhan phai lien minh duoc voi giai cap nong dan va cac tang lop nhan dan lao dong khac trong giai doan nao? ( chon 2 dap an )
-A. Giai doan xoa bo giai cap sau khi xay dung thanh cong chu nghia xa hoi
-B. Giai doan xay dung che do xa hoi moi
-C. Giai doan dau tranh doi cac quyen tu do, dan chu
-D. Giai doan gianh chinh quyen<term>BD<row>Xet tren phuong dien kinh te - xa hoi, thi giai cap nao la nhung nguoi lao dong truc tiep hay gian tiep van hanh cac cong cu san xuat co tinh chat cong nghiep ngay cang hien dai va xa hoi hoa cao?
-A. Dia chu
-B. Tu san
-C. Cong nhan
-D. Nong dan<term>C<row>De mot ton giao ra doi can bao nhieu nguon goc?
-A. 4
-B. 3
-C. 6
-D. 5<term>B<row>Dau khong phai la mot hinh thai kinh te - xa hoi theo phan ki lich su loai nguoi cua chu nghia Mac - Lenin? 
-A. Xa hoi chu nghia
-B. Tu ban chu nghia
-C. Cong san chu nghia
-D. Phong kien<term>C<row>Trong thoi dai hien nay, o cac nuoc phat trien, su phat trien cua giai cap cong nhan co moi quan he nhu the nao voi phat trien kinh te?
-A. Ty le that nghiep gia tang, lam tang nguy co khung hoang
-B. Ty le thuan
-C. Ty le nghich
-D. Mau thuan doi khang<term>B<row>Quan he dan toc va ton giao Viet Nam chiu su chi phoi manh me boi van de gi?
-A. Tin nguong truyen thong
-B. Giao duc truyen thong
-C. Me tin di doan
-D. Van hoa tin nguong<term>A<row>Theo chu nghia Mac - Lenin, quy luat chung, pho bien cho su ra doi cua Dang Cong san la gi?
-A. La su ket hop giua phong trao cong nhan voi phong trao nong dan
-B. La su ket hop giua chu nghia xa hoi khoa hoc voi phong trao cong nhan
-C. La su ket hop giua chu nghia xa hoi khoa hoc va phong trao yeu nuoc
-D. La su ket hop giua phong trao cong nhan va phong trao yeu nuoc<term>B<row>Trong qua trinh xay dung chu nghia xa hoi, chu truong bao ve che do hon nhan mot vo, mot chong nham muc dinh gi?
-A. Dieu hoa mau thuan trong gia dinh
-B. Tat ca cac dap an deu dung
-C. Han che cac te nan xa hoi nhu mai dam, bao luc gia dinh
-D. Thuc hien binh dang trong gia dinh, giai phong phu nu<term>B<row>Xay dung gia dinh Viet Nam hien nay la xay dung mo hinh gia dinh nhu the nao?
-A. Hien dai voi tien trinh cong nghiep hoa, hien dai hoa dat nuoc va hoi nhap kinh te quoc te
-B. Hien dai, phu hop voi tien trinh cong nghiep hoa, hien dai hoa dat nuoc va hoi nhap kinh te quoc te
-C. Phu hop voi tien trinh cong nghiep hoa, hien dai hoa dat nuoc va hoi nhap kinh te quoc te
-D. Hien dai, phu hop voi tien trinh cong nghiep hoa dat nuoc va hoi nhap kinh te quoc te<term>B<row>Phat kien nao cua C.Mac va Ph.Angghen da khac phuc triet de duoc nhung han che co tinh lich su cua chu nghia xa hoi khong tuong Phap? 
-A. Chu nghia duy vat lich su
-B. Chu nghia duy vat bien chung
-C. Hoc thuyet ve gia tri thang du
-D. Hoc thuyet ve su menh lich su toan the gioi cua giai cap cong nhan<term>D<row>Su bien doi cua co cau xa hoi nao se tat yeu dan den su bien doi cua cac co cau xa hoi khac va dong thoi lam bien doi toan bo co cau xa hoi noi chung?
-A. Co cau xa hoi - chinh tri
-B. Co cau xa hoi - giai cap
-C. Co cau xa hoi - dan toc
-D. Co cau xa hoi - kinh te<term>D<row>Ngay nay, xu huong "tri tue hoa" tang nhanh, da tao ra he qua gi cho giai cap cong nhan?
-A. Giai cap cong nhan tham gia o nhung vi tri, cap bac cao hon trong cac cong xuong, doanh nghiep va ngay cang co xu huong thoa hiep voi giai cap tu san
-B. Nhu cau vat chat, tinh than ngay cang tang, phong phu va da dang hon
-C. Xu huong dinh cong, bai cong ngay cang dien ra rong rai
-D. Giai cap cong nhan co tri tue cao hon, co xu huong chuyen bien thanh giai cap tu san<term>B<row>Trong boi canh hoi nhap kinh te quoc te va canh tranh hang hoa trong khu vuc va the gioi, kinh te gia dinh gap kho khan, tro ngai do nguyen nhan gi?
-A. Do thoi quen, tap quan an phan, ngai thay doi cua nen tang gia dinh cu
-B. Do chinh sach deu tiet cua Nha nuoc thuc day kinh te ho gia dinh phat trien thanh doanh nghiep
-C. Do gia dinh ngay cang it thanh vien hon
-D. Do kinh te gia dinh phan lon co quy mo nho, lao dong it, tu san xuat la chinh<term>D<row>Nhung gia tri nao sau day duoc nhan loai thua nhan va phan dau thuc hien?
-A. Lao dong, sang tao, cong bang, dan chu, binh dang, phat trien
-B. Lao dong, sang tao, cong bang, dan chu, tu do
-C. Lao dong, sang tao, cong bang, dan chu, binh dang, tu do
-D. Lao dong, sang tao, cong bang, dan chu, binh dang<term>C<row>Dan chu xa hoi chu nghia da duoc phoi thai tu:
-A. Thuc tien dau tranh giai cap o Viet Nam
+a. Khuynh huong phong kien
+b. Khuynh huong vo san
+c. Khuynh huong dan chu tu san
+d. Khuynh huong tieu tu san<term>c. Khuynh huong dan chu tu san<row>Q57 Thanh phan nao duoi day tro thanh bi tri trong thoi Phap thuoc?
 
-B. Thuc tien dau tranh giai cap o Phap va Cong xa Pari nam 1871
-C. Thanh cong cua cach mang thang 8 nam 1945
+a. Cong nhan va nong dan
+b. Cong nhan, nong dan, tieu tu san
+c. Cong nhan, nong dan, tieu tu san, tu san dan toc
+d. Cong nhan, nong dan, tieu tu san, tu san dan toc, dia chu nho va vua<term>d. Cong nhan, nong dan, tieu tu san, tu san dan toc, dia chu nho va vua<row>Q58 Trong cuoc khai thac thuoc dia lan thu nhat cua thuc dan Phap (1897 - 1913) o Viet Nam da xuat hien nhung giai cap, tang lop moi nao?
 
-D. Phong trao cach mang 1930 -1931<term>B<row>Ai da khang dinh van de sau: "Nuoc ta la nuoc dan chu, dia vi cao nhat la dan, vi dan la chu"?
-A. C.Mac
+a. Dia chu va nong dan
+b. Tu san, tieu tu san va cong nhan
+c. Dia chu, nong dan va cong nhan
+d. Nong dan va tieu tu san<term>b. Tu san, tieu tu san va cong nhan<row>Q59 Trong phong trao yeu nuoc chong Thuc dan Phap, giai cap nao duoc coi la dong luc cua cach mang?
 
-B. V.I.Lenin
+a. Nong dan
+b. Cong nhan
+c. Tu san
+d. Tieu tu san<term>a. Nong dan<row>Q60 Dang Cong san Viet Nam ra doi la :
 
-C. Ph.Angghen
+a. Tat yeu lich su, no la san pham ket hop giua chu nghia Mac voi phong trao cong nhan Viet Nam.
+b. San pham ket hop giua chu nghia Mac voi phong trao yeu nuoc Viet Nam.
+c. San pham cua su ket hop chu nghia Mac-Lenin voi phong trao cong nhan va phong trao yeu nuoc
+d. Su ket hop phong trao cong nhan va phong trao yeu nuoc Viet Nam.<term>c. San pham cua su ket hop chu nghia Mac-Lenin voi phong trao cong nhan va phong trao yeu nuoc<row>Q61 Vao thang 10/1923, Nguyen Ai Quoc den Lien Xo tham du dai hoi cua :
 
-D. Chu tich Ho Chi Minh<term>D<row>Dau la tien de khoa hoc tu nhien cho su ra doi cua chu nghia xa hoi khoa hoc?
-A. Dinh luat bao toan va chuyen hoa nang luong
-B. Hoc thuyet te bao
-C. Tat ca cac dap an deu dung
-D. Hoc thuyet tien hoa<term>C<row>Ve phuong dien kinh te - xa hoi, giai Cap cong nhan lao dong bang phuong thuc cong nghiep ngay cang hien dai voi dac diem noi bat nao?
-A. San xuat bang may moc
-B. Tao ra nhung tien de cua cai vat chat cho xa hoi moi
-C. Lao dong co tinh chat xa hoi hoa va nang suat lao dong cao
-D. Tat ca cac dap an deu dung<term>D<row>Dau khong phai la mot chuc nang cua gia dinh?
-A. Chuc nang nghe nghiep
-B. Chuc nang nuoi duong, giao duc
-C. Chuc nang kinh te va to chuc tieu dung
-D. Chuc nang thoa man nhu cau tam sinh ly, duy tri tinh cam<term>A<row>Tai sao noi gia dinh la te bao cua xa hoi?
-A. Vi bat ki ai cung co gia dinh rieng, co con cai va cha me
-B. Tat ca cac dap an deu dung
-C. Vi gia dinh la co che quan ly xa hoi o cap do nho nhat, khong the phan chia duoc nua
-D. Vi gia dinh san xuat ra tu lieu tieu dung, tu lieu san xuat va tai san xuat ra con nguoi<term>B<row>Gia dinh Viet Nam hien dai co may the he cung song chung?
-A. 1
-B. 2
-C. 4
-D. 3<term>B<row>Noi dung van hoa - xa hoi trong lien minh giai cap, tang lop o nuoc ta hien nay doi hoi phai dam bao dieu gi?
-A. Gan tang truong kinh te voi phat hien van hoa, phat trien con nguoi va thuc hien tien bo, cong bang xa hoi
-B. Gan tang truong kinh te voi doc lap, tu do, phat huy nguon luc lanh dao cua kinh te tu nhan
-C. Thuc hien tang truong kinh te bang moi gia, tien nhanh den nen kinh te thi truong hien dai
-D. Tiep thu toan bo cac yeu to van hoa nhan loai trong tien trinh hoi nhap va tang truong kinh te<term>A<row>Tu sau khi V.I.Lenin mat den nam 1953, ai la nguoi co anh huong truc tiep trong viec van dung va phat trien chu nghia xa hoi khoa hoc?
-A. J.Xtalin
-B. S.Phurie
-C. G.Di-mi-trop
-D. S.Simon<term>A<row>Dac trung co ban dau tien cua chu nghia xa hoi la:
-A. Chu nghia xa hoi co nha nuoc kieu moi mang ban chat giai cap cong nhan, dai bieu cho loi ich, quyen luc va y chi cua nhan dan lao dong
-B. Chu nghia xa hoi la xa hoi do nhan dan lao dong lam chu
-C. Chu nghia xa hoi co nen kinh te phat trien cao dua tren luc luong san xuat hien dai va che do cong huu ve tu lieu san xuat chu yeu
-D. Chu nghia xa hoi giai phong giai cap, giai phong dan toc, giai phong xa hoi, giai phong con nguoi, tao dieu kien de con nguoi phat trien toan dien<term>B<row>Trong thoi ki qua do len chu nghia xa hoi giai cap tu san co vi the nhu the nao?
-A. Da bi danh bai nhung van con suc manh ve kinh te
-B. Da tu than minh chuyen bien thanh giai cap lien minh voi giai cap cach mang
-C. Da bi loai bo hoan toan
-D. Da bi chuyen hoa thanh giai cap cong nhan<term>A<row>Dieu kien khach quan quy dinh su menh lich su cua giai cap cong nhan la gi? ( Chon 2 dap an )
-A. La giai cap co kha nang thong tri duoc toan the xa hoi xay dung xa hoi moi
-B- Xuat than tu giai cap nong dan trong xa hoi phong kien cu
-C. Dia vi chinh tri - xa hoi cua giai cap cong nhan
-D. Dia vi kinh te cua giai cap cong nhan<term>CD<row>Cho den nay, kinh te gia dinh Viet Nam da co buoc chuyen bien mang tinh buoc ngoat nao? ( chon 2 dap an)
-A. Tu kinh te tu cap, tu tuc thanh kinh te hang hoa
-B. Tu don vi kinh te dap ung nhu cau cua thi truong quoc gia thanh don vi kinh te dap ung nhu cau cua thi truong toan cau
-C. Tu kinh te hang hoa thanh kinh te tu cap, tu tuc
-D. Tu kinh te ke hoach hoa tap trung sang kinh te thi truong tu do<term>AD<row>Co so chinh tri - xa hoi de xay dung gia dinh trong chu nghia xa hoi la gi?
-A. Tat ca cac dap an deu dung
-B. Thiet lap che do cong huu ve tu lieu san xuat
-C. Xay dung van hoa xa hoi chu nghia
-D. Thiet lap chinh quyen nha nuoc cua giai cap cong nhan va nhan dan lao dong, nha nuoc xa hoi chu nghia<term>A<row>Vai tro cua giai cap cong nhan la:
-A. La khach the cua qua trinh san xuat vat chat de san xuat ra cua cai vat chat ngay cang nhieu dap ung nhu cau ngay cang tang cua con nguoi va xa hoi
-B. La chu the cua qua trinh san xuat vat chat da san xuat ra cua cai vat chat ngay cang nhieu dap ung nhu cau ngay cang tang cua con nguoi va xa hoi
-C. La chu the cua qua trinh san xuat nong nghiep
-
-D. La chu the cua qua trinh san xuat tinh than<term>B<row>Dan chu trong 2 linh vuc noi bat va quan trong nhat la:
-A. Trong linh vuc chinh tri va tu tuong
-B. Trong linh vuc kinh te va chinh tri
-C. Trong linh vuc kinh te va tu tuong
-D. Trong linh vuc van hoa tinh than va tu tuong<term>A<row>Dap an nao khong phai la mot phuong phap nghien cuu cua chu nghia xa hoi khoa hoc?
-A. Phuong phap ket hop lich su va logic
-B. Phuong phap khao sat va phan tich ve mat chinh tri xa hoi
-C. Phuong phap truu tuong hoa khoa hoc
-D. Phuong phep so sanh<term>C<row>Nguyen tac co ban cua nen dan chu xa hoi chu nghia la:
-A, Khong ngung mo rong kien truc thuong tang, nang cao muc do giai phong cho nhung nguoi lao dong, thu hut ho tham gia tu giac vao cong viec quan ly nha nuoc, quan ly xa hoi
-B. Khong ngung mo rong kinh te, nang cao muc do giai phong cho nhung nguoi thong tri, thu hut ho tham gia tu giac vao cong viec quan ly nha nuoc, quan ly xa hoi
-C. Khong ngung mo rong dan chu, nang cao muc do giai phong cho nhung nguoi lao dong,thu hut ho tham gia tu giac vao cong viec quan ly nha nuoc, quan ly xa hoi
-D. Khong ngung mo rong co so ha tang, nang cao muc do giai phong cho nhung nguoi lao dong, thu hut ho tham gia tu giac vao cong viec quan ly nha nuoc, quan l<term>C<row>Co cau xa hoi - giai cap cua nuoc ta truoc thoi ki doi moi bao gom cac giai cap, tang lop nao?
-A. Doi ngu dang vien
-B. Doi ngu tri thuc
-
-C. Giai cap cong nhan
-D. Giai cap nong dan<term>ACD<row>Co cau xa hoi nao co vai tro quan trong nhat?
-A. Co cau giai cap
-
-B. Co cau dan toc
-
-C. Co cau dan cu
-
-D. Co cau nghe nghiep<term>A<row>Cau truc co ban cua mot hinh thai kinh te - xa hoi la:
-A. Luc luong san xuat, quan he san xuat va kien truc thuong tang
-B. Tat ca deu dung
-C. Co so kinh te va the che nha nuoc
-D. Luc luong san xuat va quan he san xuat<term>A<row>Trong thoi ki qua do len chu nghia xa hoi, giai cap tu san co vi the nhu the nao?
-A. Da bi danh bai nhung van con suc manh ve kinh te
-
-B. Da tu than minh chuyen bien thanh giai cap lien minh voi giai cap cach mang
-C. Da bi loai bo hoan toan
-
-D. Da bi chuyen hoa thanh giai cap cong nhan<term>B<row>
-
+a. Quoc te Vo san
+b. Quoc te Nong dan
+c. Lien hiep cac nuoc thuoc dia<term>b. Quoc te Nong dan<row>Q62 Nguyen Ai Quoc da thanh lap Hoi Viet Nam cach mang thanh nien o dau?
+a. Huong Cang (Trung Quoc)
+b. Quang Chau (Trung Quoc)
+c. Thuong Hai (Trung Quoc)
+d. Cao Bang (Viet Nam)<term>b. Quang Chau (Trung Quoc)<row>Q63 Su kien nao danh dau Nguyen Ai Quoc buoc dau tim thay con duong cuu nuoc dung dan cho dan toc? 
+a. Nguyen Ai Quoc dua yeu sach den Hoi nghi Vec-xai (18/6/1919). 
+b. Nguyen Ai Quoc tham gia sang lap Dang Cong san Phap (25/12/1925). 
+c. Nguyen Ai Quoc doc ban So thao lan thu nhat nhung Luan cuong ve van de dan toc va van de thuoc dia cua Lenin (7/1920).
+d. Nguyen Ai Quoc thanh lap to chuc Hoi Viet Nam Cach mang Thanh nien (6/1925).<term>c. Nguyen Ai Quoc doc ban So thao lan thu nhat nhung Luan cuong ve van de dan toc va van de thuoc dia cua Lenin (7/1920).<row>Q64 Su kien thang 6-1924 gan voi hoat dong cua Nguyen Ai Quoc o Lien Xo, do la:
+a. Nguoi du Dai hoi Quoc te Nong dan. 
+b. Nguoi du Dai hoi lan thu V cua Quoc te Cong san.
+c. Nguoi du Dai hoi Quoc te Phu nu. 
+d. Nguoi du Dai hoi lan thu VII cua Quoc te Cong san.<term>b. Nguoi du Dai hoi lan thu V cua Quoc te Cong san.<row>Q65 Hoat dong cua Phan Boi Chau, Phan Chau Trinh va mot so nguoi song o nuoc ngoai co tac dung quan trong nhat la:
+a. Mo mang dan tri. 
+b. Tim duoc con duong cuu nuoc cho dan toc. 
+c. Gop phan cai thien doi song cua nhan dan. 
+d. Co vu, thuc tinh long yeu nuoc cua nhan dan ta.<term>d. Co vu, thuc tinh long yeu nuoc cua nhan dan ta.<row>Q66 Luc luong chinh cua cach mang duoc xac dinh trong Luan cuong chinh tri (10-1930) la :
+a. Cong nhan va nong dan 
+b. Toan the nhan dan
+c. Nong dan va tieu tu san 
+d. Nong dan va tu san dan toc<term>a. Cong nhan va nong dan<row>Q67 Hoat dong chu yeu nhat cua Hoi Viet Nam Cach mang Thanh nien la :
+a. Xuat ban bao Thanh nien lam co quan tuyen truyen cua Hoi
+b. Thuc hien chu truong "vo san hoa"
+c. Mo lop huan luyen chinh tri, dao tao can bo cach mang.
+d. Thanh lap co so trong nuoc.<term>c. Mo lop huan luyen chinh tri, dao tao can bo cach mang.<row>Q68 Ke thu chu yeu cua xa hoi Viet Nam trong thoi ki 1930-1931 la :
+a. Thuc dan Phap
+b. Dia chu phong kien 
+c. De quoc va phong kien 
+d. Dia chu phong kien, tu san<term>c. De quoc va phong kien<row>Q69 Nhiem vu cua cach mang Viet Nam duoc xac dinh trong Luan cuong chinh tri thang 10/1930 do Tran Phu soan thao la :
+a. danh do phong kien va de quoc
+b. giai phong dan toc.
+c. danh do de quoc va tay sai
+d. danh do de quoc Phap, phong kien va tu san phan cach mang, lam cho nuoc Viet Nam doc lap tu do.<term>a. danh do phong kien va de quoc<row>Q70 Mat tran dan toc thong nhat phan de Dong Duong duoc thanh lap vai thoi gian nao?
+a. 10-1930
+b. 5-1935
+c. 11-1939
+d. 5-1941<term>c. 11-1939<row>Q71 Dieu kien nao khong tao ra kha nang dau tranh cong khai, hop phap cho phong trao van dong dan chu Dong Duong (1936- 1939)?
+a. Nguy co chien tranh the gioi, chu truong cua Quoc te cong san va Mat tran binh dan Phap len cam quyen.
+b. Chu truong chuyen huong chien luoc cach mang cua Quoc te cong san va tinh hinh the gioi co nhieu thay doi thuan loi cho cach mang.
+c. Mat tran nhan dan Phap len cam quyen va nhung thay doi trong xa hoi Viet Nam.
+d. Mat tran nhan dan Phap tan vo, chinh quyen thuc dan Phap o Viet Nam thi hanh chinh sach phat xit.<term>d. Mat tran nhan dan Phap tan vo, chinh quyen thuc dan Phap o Viet Nam thi hanh chinh sach phat xit.<row>Q72 Noi dung nao sau day nam trong Cuong linh cach mang dau tien cua Dang?
+a. Danh do de quoc chu nghia Phap va bon phong kien, lam cho nuoc Nam hoan toan doc lap
+b. Tu san dan quyen cach mang la thoi ky du bi de lam xa hoi cach mang
+c. Chi co giai phong giai cap vo san moi giai phong duoc dan toc
+d. Dang co vung cach mang moi thanh cong<term>a. Danh do de quoc chu nghia Phap va bon phong kien, lam cho nuoc Nam hoan toan doc lap<row>Q73 Qua thuc te lanh dao phong trao cach mang 1930-1931, Dang ta da truong thanh nhanh chong. Do do, thang 4/1931 Dang ta duoc Quoc te Cong san cong nhan:
+a. La mot chi bo cua Quoc te Cong san
+b. La mot bo phan khong the tach roi cua Quoc te Cong san
+c. La mot chinh dang cua cach mang Dong Duong
+d. La mot Dang cua giai cap cong nhan Viet Nam<term>a. La mot chi bo cua Quoc te Cong san<row>Q74 Trong phong trao cach mang nuoc ta, giai cap nao se la luc luong lanh dao cach mang?
+a. Nong dan
+b. Cong nhan
+c. Tu san
+d. Tieu tu san<term>b. Cong nhan<row>Q75 Han che lon nhat cua Luan cuong chinh tri thang 10 nam 1930 la gi?
+a. Danh gia khong dung kha nang cach mang cua giai cap nong dan
+b. Khong dua ngon co giai phong dan toc len hang dau, nang ve dau tranh giai cap
+c. Xac dinh dong luc cach mang la giai cap cong nhan, nong dan, tieu tu san tri thuc
+d. Cach mang Dong Duong luc dau la cach mang tu san dan quyen bo qua thoi ki tu ban chu nghia, tien thang len con duong xa hoi chu nghia<term>b. Khong dua ngon co giai phong dan toc len hang dau, nang ve dau tranh giai cap<row>Q76 Hoi nghi trung uong VIII thang 5/1941 chu truong gi?
+a. Thanh lap nuoc Cong hoa xa hoi chu nghia Viet Nam
+b. Thanh lap nuoc Viet Nam cong hoa dan chu
+c. Thanh lap nuoc dan chu cong hoa Viet Nam
+d. Thanh lap nuoc Viet Nam dan chu cong hoa<term>d. Thanh lap nuoc Viet Nam dan chu cong hoa<row>Q77 Su kien lich su nao duoi day dien ra trong phong trao dan toc dan chu o Viet Nam tu 1925 den 1930?
+a. Bai cong cua cong nhan Ba Son
+b. Bai cong cua cong nhan Vinh-Ben Thuy
+c. Phong trao Dong Duong dai hoi
+d. Phong trao pha kho thoc cua Nhat<term>a. Bai cong cua cong nhan Ba Son<row>Q78 Nhan dan Viet Nam thuc hien nhiem vu chong che do phan dong thuoc dia, chong phat xit, chong chien tranh trong phong trao nao sau day?
+a. Phong trao cach mang 1930-1931.
+b. Phong trao dan chu 1936-1939.
+c. Phong trao dan toc dan chu 1919-1925.
+d. Phong trao dan toc dan chu 1925-1930.<term>b. Phong trao dan chu 1936-1939.<row>Q79 Hoi nghi lan thu 8 Ban chap hanh Trung uong Dang Cong san Dong Duong (5/1941) da nhan manh nhiem vu trong tam cua toan Dang, toan dan la :
+a. Xay dung luc luong chinh tri
+b. Xay dung luc luong vu trang
+c. Chuan bi khoi nghia
+d. Khoi nghia tung phan<term>c. Chuan bi khoi nghia<row>Q80 Dang Cong san Dong Duong quyet dinh chuyen huong dau tranh, dat nhiem vu giai phong dan toc len hang dau trong thoi ki 1939-1945 la do :
+a. Chien tranh the gioi thu hai bung no
+b. Phap ra suc vo vet, boc lot nhan dan
+c. Phat xit Nhat vao mien Bac Viet Nam
+d. Mau thuan voi Phap-Nhat tro nen gay gat<term>d. Mau thuan voi Phap-Nhat tro nen gay gat<row>Q81 Hoi nghi Ban chap hanh Trung uong Dang Cong san Dong Duong (7-1936) da chu truong thanh lap :
+a. Mat tran thong nhat dan chu Dong Duong
+b. Mat tran Viet Nam doc lap Dong minh
+c. Mat tran thong nhat dan toc phan de Dong Duong
+d. Mat tran thong nhat nhan dan phan de Dong Duong<term>d. Mat tran thong nhat nhan dan phan de Dong Duong<row>Q82 Nhiem vu cach mang duoc cuong linh xac dinh la :
+a. Danh do phong kien, danh do de quoc, 2 nhiem vu co quan he mat thiet khang khit voi nhau.
+b. Danh do de quoc Phap va tu san phan cach mang
+c. Danh do de quoc Phap, phong kien, tu san phan cach mang lam cho nuoc nha doc lap.
+d. Danh duoi de quoc Phap<term>c. Danh do de quoc Phap, phong kien, tu san phan cach mang lam cho nuoc nha doc lap.<row>Q83 Luc luong chu yeu tham gia phong trao cach mang 1930-1931 o Viet Nam la :
+a. Tieu tu san, cong nhan
+b. Nong dan, tieu tu san
+c. Cong nhan va nong dan
+d. Nong dan, tu san dan toc.<term>c. Cong nhan va nong dan<row>Q84 Can cu dia cach mang dau tien cua Viet Nam trong giai doan 1939-1945 la :
+a. Cao Bang
+b. Bac Son - Vo Nhai
+c. Thai Nguyen
+d. Tuyen Quang<term>b. Bac Son - Vo Nhai<row>Q85 Luc luong cach mang duoc neu ra trong Luan cuong chinh tri (thang 10-1930) cua Dang Cong san Dong Duong la :
+a. Cong nhan, nong dan va tu san 
+b. Nong dan va tieu tu san
+c. Cong nhan, nong dan
+d. Cong nhan, nong dan va tri thuc<term>c. Cong nhan, nong dan<row>Q86 Trong phong trao dan chu 1936-1939, Nhan dan Viet Nam thuc hien mot trong nhung nhiem vu truc tiep, truoc mat la dau tranh chong :
+a. Che do phan dong thuoc dia
+b. De quoc va che do phong kien
+c. Tu san va dia chu
+d. De quoc va tu san<term>a. Che do phan dong thuoc dia<row>Q87 Mot trong nhung noi dung cua chuong trinh hanh dong cua Dang Cong san Dong Duong la :
+a. Cai cach ruong dat
+b. Cai cach giao duc
+c. Doi tu do, binh dang
+d. Doi quyen tu do: Phat ngon, tu do di lai v.v.<term>d. Doi quyen tu do: Phat ngon, tu do di lai v.v.<row>Q88 Hoi nghi lan thu 8 Ban chap hanh Trung uong Dang Cong san Dong Duong (5/1941) quyet dinh hinh thuc chinh quyen sau cach mang o Viet Nam la: 
+a. Chinh phu cach mang lam thoi
+b. Chinh phu Viet Nam Dan chu Cong hoa
+c. Chinh phu Xo viet cong-nong-binh
+d. Chinh phu dan chu Cong hoa Dong Duong<term>b. Chinh phu Viet Nam Dan chu Cong hoa<row>Q89 Su kien nao duoi day danh dau khuynh huong cach mang vo san gianh quyen lanh dao doi voi cach mang Viet Nam ? 
+a. Hoi Viet Nam Cach mang thanh nien ra doi
+b. Tan Viet Cach mang dang bi phan hoa.
+c. Su ra doi cua ba to chuc cong san
+d. Dang Cong san Viet Nam duoc thanh lap.<term>d. Dang Cong san Viet Nam duoc thanh lap.<row>Q90* Vi sao trong nhung nam 1939-1941 Dang Cong san Dong Duong lai phai chuyen huong chien luoc dau tranh cach mang?
+a. Do su bien doi mau le cua tinh hinh the gioi
+b. Do chinh sach thong tri cua Phap - Nhat
+c. Do yeu cau cua su nghiep giai phong dan toc dat ra cap thiet.
+d. Do yeu cau giai quyet van de dan toc trong khuon kho tung nuoc Dong Duong<term>c. Do yeu cau cua su nghiep giai phong dan toc dat ra cap thiet.<row>Q91* Su khac biet co ban giua phong trao dau tranh cua nhan dan Viet Nam tu nam 1939 den truoc ngay 9-3-1945 voi cac phong trao cach mang truoc do la gi?
+a. Chong lai nen thong tri cua de quoc phat xit Phap - Nhat
+b. Nhiem vu giai phong dan toc dat ra cap thiet
+c. Mau thuan dan toc phat trien gay gat
+d. Co su lien ket voi quoc te<term>b. Nhiem vu giai phong dan toc dat ra cap thiet<row>Q92 Cong lao to lon dau tien cua Nguyen Ai Quoc doi voi cach mang Viet Nam la gi?
+a. Tim duoc con duong cuu nuoc dung dan
+b. Thanh lap Hoi Viet Nam Cach mang thanh nien
+c. Chu tri Hoi nghi thanh Dang cong san Viet Nam
+d. Thanh lap Dong Duong cong san dang<term>a. Tim duoc con duong cuu nuoc dung dan<row>Q93 Moi quan he giua hai khau hieu: "Doc lap dan toc va "Ruong dat cho dan cay duoc giai quyet nhu the nao trong thoi ki 1939 - 1945?
+a. Tam gac lai khau hieu cach mang ruong dat.
+b. Tam gac lai khau hieu cach mang giai phong dan toc.
+c. Tiep tuc thuc hien hai khau hieu tren mot cach dong bo.
+d. Tam gac lai viec thuc hien hai khau hieu tren.<term>a. Tam gac lai khau hieu cach mang ruong dat.<row>Q94 Nhan xet nao sau day la phu hop ve Hoi Viet Nam cach mang Thanh nien (1925-1929)?
+a. Mot trong nhung to chuc cong san dau tien o Viet Nam
+b. La doi tien phong cua giai cap cong nhan Viet Nam
+c. La to chuc tien than cua Dang Cong san Viet Nam
+d. Dai dien tieu bieu cua giai cap tieu tu san Viet Nam<term>c. La to chuc tien than cua Dang Cong san Viet Nam<row>Q95 Nhiem vu cua cach mang Viet Nam duoc xac dinh trong Cuong linh chinh tri dau tien cua Dang la gi?
+a. Danh do de quoc Phap, lam cho nuoc Viet Nam hoan toan doc lap
+b. Danh do phong kien, tay sai, phat trien theo con duong tu ban chu nghia 
+c. Danh do de quoc Phap, phong kien va tu san phan cach mang lam cho Viet Nam duoc doc lap tu do
+d. Danh do de quoc Phap, phong kien lam cho Viet Nam hoan toan doc lap<term>c. Danh do de quoc Phap, phong kien va tu san phan cach mang lam cho Viet Nam duoc doc lap tu do<row>Q96 Chinh cuong van tat, Sach luoc van tat ... do Nguyen Ai Quoc soan thao duoc thong qua tai Hoi nghi thanh lap Dang duoc xem la :
+a. Van kien cua Dang
+b. Tai lieu chinh tri dac biet cua Dang
+c. Nghi quyet cua Dang Cong san Viet Nam
+d. Cuong linh chinh tri dau tien cua Dang Cong san Viet Nam<term>d. Cuong linh chinh tri dau tien cua Dang Cong san Viet Nam<row>Q97 So voi truoc chien tranh the gioi thu nhat, phong trao yeu nuoc Viet Nam trong nhung nam 1919-1930 co nhung diem moi nao sau day?
+a. Co hai khuynh huong cung ton tai va phat trien
+b. Dien ra duoi tac dong cua cuoc khai thac thuoc dia cua thuc dan Phap
+c. Giai cap cong nhan nam lay vai tro lanh dao cach mang giai phong dan toc
+d. Cach mang Viet Nam nhan duoc su ung ho, giup do cua Lien Xo, Trung Quoc<term>Co hai khuynh huong cung ton tai va phat trien<row>Q98 Diem khac biet va doc dao nhat cua Nguyen Ai Quoc trong hanh trinh tim duong cuu nuoc so cac tien boi khac ?
+a. Huong di va cach tiep can chan ly.
+b. Tu yeu nuoc den chu nghia Mac -Le nin.
+c. Gan doc lap dan toc voi van de ruong dat
+d. Du doan chinh xac thoi co cach mang.<term>Huong di va cach tiep can chan ly.<row>Q99 So voi phong trao 1930 - 1931, diem khac biet ve phuong phap dau tranh cua thoi ki 1936 - 1939 la ket hop dau tranh :
+a. Chinh tri va vu trang
+b. Nghi truong va dau tranh bao chi. 
+c. Cong khai va bi mat cong khai va bi mat
+d. Ngoai giao voi van dong quan chung<term>Cong khai va bi mat cong khai va bi mat<row>Q100 Khi noi ve trien vong cua cuoc khang chien chong Phap, Dang xac dinh trong Duong loi khang chien la :
+a. Mac du lau dai, gian kho, kho khan song nhat dinh thang loi
+b. Mac du phai hy sinh to lon den dau nhung nhat dinh se thanh cong
+c. Mac du bi bao vay va chua duoc nuoc nao tren the gioi cong nhan, song nhat dinh thang loi
+d. Nho co su hy sinh to lon cua dan toc nen cuoc khang chien se thanh cong<term>Mac du lau dai, gian kho, kho khan song nhat dinh thang loi<row>Q101 Nguyen nhan can ban nhat dan den su thang loi cua cuoc khang chien chong Phap la :
+a. Co su lanh dao cua Dang voi duong loi khang chien dung.
+b. Co luc luong vu trang gom 3 thu quan dung cam, muu luoc.
+c. Co chinh quyen dan chu nhan dan to chuc toan dan khang chien va xay dung che do moi.
+d. Co lien minh doan ket chien dau Viet Nam, Lao, Campuchia<term>Co su lanh dao cua Dang voi duong loi khang chien dung.<row>Q102 Dai hoi Dang lan thu II xac dinh nhiem vu cua cach mang Viet Nam la :
+a. Danh duoi bon de quoc xam luoc, xoa bo nhung di tich phong kien va nua phong kien, phat trien che do dan chu nhan dan
+b. Danh duoi bon de quoc xam luoc, gianh doc lap thong nhat that su cho dan toc, gay co so cho chu nghia xa hoi
+c. Danh duoi bon de quoc xam luoc, gianh doc lap thong nhat that su cho dan toc, lam cho nguoi cay co ruong, phat trien che do dan chu nhan dan
+d. Lam cho nguoi cay co ruong, gay co so cho chu nghia xa hoi, phat trien che do dan chu nhan dan<term>Danh duoi bon de quoc xam luoc, xoa bo nhung di tich phong kien va nua phong kien, phat trien che do dan chu nhan dan<row>Q103 Tai Dai hoi lan thu II Dang cong san Dong Duong quyet dinh tach ra thanh ba Dang cach mang o ba nuoc Dong Duong. O Viet Nam, Dang ra hoat dong cong khai lay ten la :
+a. Dang Lao dong Viet Nam
+b. Dang Dan chu Viet Nam
+c. Dang Cach mang Viet Nam
+d. Dang Xa hoi Viet Nam<term>Dang Lao dong Viet Nam<row>Q104 Duong loi toan quoc khang chien cua Dang vach ra muc tieu cua khang chien la:
+a. Danh phan dong thuc dan Phap xam luoc, gianh thong nhat va doc lap
+b. Danh phan dong phat xit Nhat xam luoc, gianh thong nhat va doc lap
+c. Danh phan dong de quoc My xam luoc, gianh thong nhat va doc lap
+d. Danh phan dong Trung Hoa Dan Quoc xam luoc, gianh thong nhat va doc lap<term>Danh phan dong thuc dan Phap xam luoc, gianh thong nhat va doc lap<row>Q105 De thuc hien chinh sach "To cong, diet cong" Ngo Dinh Diem dua ra :
+a. Luat 10/59
+b. Luat nhan quyen
+c. Luat binh dinh
+d. Cac phuong an tra loi deu dung<term>Luat 10/59<row>Q106 Hoi nghi Trung uong Dang lan thu 11 thang 03 nam 1965 va Hoi nghi Trung uong Dang lan thu 12 thang 12 nam 1965 de ra khau hieu chung cua nhan dan ca nuoc la :
+a. Tat ca de danh thang giac My xam luoc
+b. Tat ca de thong nhat nuoc nha
+c. Tat ca vi mien Nam ruot thit
+d. Cac phuong an tra loi deu dung<term>Tat ca de danh thang giac My xam luoc<row>Q107 Tai hoi nghi nao, Ban Chap hanh Trung uong Dang quyet dinh de nhan dan mien Nam su dung bao luc cach mang danh do chinh quyen Mi- Diem?
+a. Hoi nghi Trung uong lan thu 15 (1-1959)
+b. Hoi nghi Trung uong lan thu 11 (3-1965) 
+c. Hoi nghi Trung uong lan thu 12 (12-1965)
+d. Hoi nghi Trung uong lan thu 21 (7/1973)<term>Hoi nghi Trung uong lan thu 15 (1-1959)<row>Q108 Dai hoi II cua Dang Lao dong Viet Nam vach ra tinh chat cua xa hoi Viet Nam la:
+a. Dan chu nhan dan, mot phan thuoc dia va nua phong kien
+b. Dan chu nhan dan, thuoc dia va nua phong kien
+c. Dan chu nhan dan va nua phong kien
+d. Mot phan thuoc dia va nua phong kien<term>Dan chu nhan dan, mot phan thuoc dia va nua phong kien<row>Q109 Thang loi cua cuoc khang chien chong My cuu nuoc da cho ta nhieu bai hoc quy, bai hoc nao duoi day la chua phu hop voi thoi ky chong My?
+a. Giuong cao ngon co doc lap dan toc va dan chu.
+b. Kien dinh tu tuong chien luoc tien cong quyet danh va quyet thang de quoc My xam luoc.
+c. Thuc hien chien tranh nhan dan linh hoat sang tao.
+d. Coi trong cong tac to chuc, cong tac xay dung Dang.<term>Giuong cao ngon co doc lap dan toc va dan chu.<row>Q110 Dai hoi dai bieu toan quoc lan thu hai cua Dang hop tai dau?
+a. Cao Bang
+b. Bac Kan
+c. Tuyen Quang
+d. Thai Nguyen<term>Tuyen Quang<row>Q111 Phong trao ma Dang ta da van dong nhan dan chong nan mu chu dien ra sau cach mang thang Tam nam 1945 la :
+a. Xay dung nep song van hoa moi
+b. Binh dan hoc vu
+c. Bai tru cac te nan xa hoi
+d. Xoa bo van hoa thuc dan no dich phan dong<term>Binh dan hoc vu<row>Q112 De tranh su chu y va dan ap cua Phap, Dang ta da tuyen bo tu giai tan vao ngay thang nam nao va doi ten la gi?
+a. 2-9-1945- Dang Cong san Dong Duong
+b. 25-11-1945- Hoi nghien cuu Chu nghia Mac-Lenin
+c. 3-2-1946- Dang Lao dong Viet Nam
+d. 11-11-1945- Hoi nghien cuu Chu nghia Mac o Dong Duong<term>11-11-1945- Hoi nghien cuu Chu nghia Mac o Dong Duong<row>Q113 Ban chi thi "Khang chien, kien quoc" ngay 25/11/1945 cua Trung uong Dang da xac dinh ai la ke thu chinh cua cach mang Viet Nam luc nay?
+a. Thuc dan Phap
+b. De quoc Anh
+c. Bon quan phiet quoc dan dang Trung Hoa
+d. Phat xit Nhat<term>Thuc dan Phap<row>Q114 Dai hoi lan thu III (9-1960), Dang Lao dong Viet Nam khang dinh nhiem vu cach mang giu vai tro quyet dinh nhat doi voi su phat trien cach mang ca nuoc la :
+a. Cach mang xa hoi chu nghia o mien Bac
+b. Cach mang dan toc dan chu nhan dan o mien Nam
+c. Cach mang hai mien deu quyet dinh nhu nhau
+d. Cac phuong an tra loi deu sai<term>Cach mang xa hoi chu nghia o mien Bac<row>Q115 Sau khi My thuc hien chien luoc "Chien tranh cuc bo", dang nhan dinh tinh hinh :
+a. Day la cuoc chien tranh xam luoc thuc dan moi, buoc phai thuc thi trong the thua, the that bai va bi dong cho nen no chua dung day mau thuan chien luoc
+b. Day la cuoc chien tranh xam luoc thuc dan cu, buoc phai thuc thi trong the thua, the that bai va bi dong cho nen no chua dung day mau thuan chien luoc
+c. Day la cuoc chien tranh xam luoc thuc dan hien dai, buoc phai thuc thi trong the thua, the that bai va bi dong cho nen no chua dung day mau thuan chien luoc<term>a. Day la cuoc chien tranh xam luoc thuc dan moi, buoc phai thuc thi trong the thua, the that bai va bi dong cho nen no chua dung day mau thuan chien luoc<row>Q116 Dau nam 1953, nham cuu van tinh the ngay cang xa lay va tim kiem giai phap chinh tri co "danh du", Phap va My da dua mot vien tuong Phap sang lam tong chi huy quan doi phap o Dong Duong va lap ke hoach quan su nao?
+a. Nava
+b. De Castries
+c. Salan
+d. Leclerc<term>Nava<row>Q117 Trong cuong linh thu ba - Chinh cuong cua Dang Lao dong Viet Nam (2/1951), Dang ta da khang dinh nhan thuc cua minh ve trien vong cua cach mang Viet Nam la:
+a. Di toi xa hoi cong san
+b. Tien toi chu nghia xa hoi
+c. Di toi xa hoi dan chu
+d. Tien toi chu nghia tu ban<term>Tien toi chu nghia xa hoi<row>Q118 My Nguy khong thuc thi hiep dinh Gio-ne-vo bang cach :
+a. Ngan can hiep thuong, tong tuyen cu thong nhat dat nuoc
+b. Ban hanh Luat 10/59
+c. Thuc hien chien dich lap ap chien luoc
+d. Cac phuong an tra loi deu dung<term>Ngan can hiep thuong, tong tuyen cu thong nhat dat nuoc<row>Q119 Nghi quyet ve duong loi cach mang mien Nam duoc thong qua tai Dai hoi nao cua Dang sau day?
+a. Dai hoi II
+b. Dai hoi III
+c. Dai hoi IV
+d. Dai hoi I<term>Dai hoi III<row>Q120 Tinh hinh nuoc ta duoc vi nhu "ngan can treo soi toc" vao thoi gian nao?
+a. Ngay sau cach mang Thang Tam 1945 thanh cong
+b. Truoc cach mang Thang 8
+c. Ngay sau cuoc khang chien chong My thang loi 1975
+d. Ngay sau khi Hiep dinh Pari duoc ky ket 1973<term>Ngay sau cach mang Thang Tam 1945 thanh cong<row>Q121* Khoi lien minh nhan dan ba nuoc Viet-Lao-Campuchia duoc thanh lap khi nao?
+a. Thang 3 nam 1950
+b. Thang 3 nam 1953
+c. Thang 3 nam 1954
+d. Thang 3 nam 1951<term>Thang 3 nam 1951<row>Q122 De tranh thu thoi gian chong Phap, Dang chu truong quan he voi quan Tuong Gioi Thach theo khau hieu :
+a. Hoa Viet than thien
+b. Hoa Viet binh dang
+c. Hoa Viet tuong tro
+d. Hoa Viet than ai<term>Hoa Viet than thien<row>Q123 Dai hoi II Dang Lao dong Viet Nam vach ra hai doi tuong cua cach mang Viet Nam la:
+a. Chu nghia de quoc xam luoc va phong kien
+b. Bon can thiep My va phong kien phan dong
+c. De quoc Phap va phong kien phan dong
+d. De quoc Phap va bon can thiep My<term>Chu nghia de quoc xam luoc va phong kien<row>Q124 Chinh cuong cua Dang lao dong Viet Nam da neu ra cac nhiem vu co ban cua cach mang Viet Nam la:
+a. Danh duoi bon de quoc xam luoc, gianh doc lap va thong nhat that su cho dan toc, Xoa bo nhung di tich phong kien va nua phong kien, lam cho nguoi cay co ruong, Phat trien che do dan chu nhan dan, gay co so cho chu nghia xa hoi
+b. Danh duoi bon de quoc xam luoc, gianh doc lap va thong nhat that su cho dan toc, Xoa bo nhung di tich phong kien va nua phong kien, lam cho nguoi cay co ruong, Phat trien che do dan chu nhan dan, gay co so cho xa hoi dan chu.
+c. Danh duoi bon phong kien, gianh doc lap va thong nhat that su cho dan toc, Xoa bo nhung di tich phong kien va nua phong kien, lam cho n<term>a. Danh duoi bon de quoc xam luoc, gianh doc lap va thong nhat that su cho dan toc, Xoa bo nhung di tich phong kien va nua phong kien, lam cho nguoi cay co ruong, Phat trien che do dan chu nhan dan, gay co so cho chu nghia xa hoi<row>Q125 Ngay sau khi cach mang Thang Tam 1945 thanh cong, Thuc dan Phap duoc Dang coi la ke thu nhu the nao?
+a. Ke thu chinh
+b. Ke thu phu
+c. Khong nguy hiem
+d. Cho giai giap cua quan dong minh<term>Ke thu chinh<row>Q126 Dai hoi III (9-1960) cua Dang da thong qua duong loi nao?
+a. Danh duoi thuc dan Phap va can thiep My xam luoc, gianh doc lap va thong nhat that su cho dan toc
+b. Ca nuoc qua do di len chu nghia xa hoi
+c. Phat trien che do dan chu nhan dan, gay co so cho chu nghia xa hoi
+d. Duong loi cach mang xa hoi chu nghia o mien Bac va cach mang dan toc dan chu nhan dan o mien Nam<term>Duong loi cach mang xa hoi chu nghia o mien Bac va cach mang dan toc dan chu nhan dan o mien Nam<row>Q127 Quan diem nao sau day cua Dang ve nhiem vu va moi quan he giua hai mien sau khi My thuc hien "chien tranh cuc bo" ?
+a. Trong cuoc chien tranh chong My cua nhan dan ca nuoc, mien Nam la tien tuyen lon, mien Bac la hau phuong lon. Bao ve mien Bac la nhiem vu cua ca nuoc.
+b. Trong cuoc chien tranh chong My cua nhan dan ca nuoc, mien Nam la hau phuong lon, mien Bac la tien tuyen lon. Bao ve mien Bac la nhiem vu cua ca nuoc.
+c. Trong cuoc chien tranh chong My cua nhan dan ca nuoc, mien Nam la tien tuyen lon, mien Bac la hau phuong lon. Bao ve mien Bac la nhiem vu cua mien Bac.
+d. Trong cuoc chien tranh chong My cua nhan dan ca nuoc, mien Nam la tien tuyen lon, mien Bac la hau phu<term>a. Trong cuoc chien tranh chong My cua nhan dan ca nuoc, mien Nam la tien tuyen lon, mien Bac la hau phuong lon. Bao ve mien Bac la nhiem vu cua ca nuoc.<row>Q128 Sau khi My thuc hien chien luoc "chien tranh cuc bo", Dang xac dinh nhiem vu cach mang cua mien Bac la:
+a. Chuyen huong xay dung kinh te, bao dam tiep tuc xay dung mien Bac vung manh trong dieu kien co chien tranh
+b. Tiep tuc xay dung kinh te o mien Bac lam cho mien Bac tro thanh hau phuong lon cua ca nuoc
+c. Khong tiep tuc xay dung kinh te o mien Bac de tap trung cho phat trien luc luong quoc phong
+d. Khong chuyen huong xay dung kinh te, tiep tuc phat trien ke hoach 5 nam o mien Bac<term>Chuyen huong xay dung kinh te, bao dam tiep tuc xay dung mien Bac vung manh trong dieu kien co chien tranh<row>Q129 Dai hoi Dang lan thu II xac dinh con duong di len chu nghia xa hoi la mot qua trinh :
+a. Dau tranh lau dai, dai the trai qua ba giai doan
+b. Dau tranh kien tri, dai the trai qua bon giai doan
+c. Dau tranh lau dai, dai the trai qua nam giai doan
+d. Dau tranh kien tri, dai the trai qua hai giai doan<term>Dau tranh lau dai, dai the trai qua ba giai doan<row>Q130 Ngay 19/10/1946, Ban Thuong vu Trung uong Dang mo Hoi nghi quan su toan quoc lan thu nhat, do Tong Bi thu Truong Chinh chu tri, Hoi nghi xac dinh :
+a. "Khong som thi muon, Phap se danh minh va minh nhat dinh phai danh Phap"
+b. "Khong som thi muon, Phap se tan cong minh va minh nhat dinh phai danh Phap"
+c. "Khong som thi muon, Phap se danh chiem minh va minh nhat dinh se thang Phap"<term>"Khong som thi muon, Phap se danh minh va minh nhat dinh phai danh Phap"<row>Q131 Cuoc khang chien chong My, cuu nuoc cua nhan dan Viet Nam (1954-1975) ket thuc bang thang loi cua chien dich nao?
+a. Ho Chi Minh
+b. Tay Nguyen
+c. Hue - Da Nang.
+d. Duong 14 - Phuoc Long.<term>Ho Chi Minh<row>Q132 Dang ta da phat dong phong trao gi de ung ho nhan luc cho Nam Bo khang chien chong Phap tu ngay 23-9-1945?
+a. Vi mien Nam "thanh dong To quoc"
+b. Huong ve mien Nam ruot thit
+c. Nam tien
+d. Tat ca tren dung.<term>Nam tien<row>Q133 Tinh hinh dat nuoc ta sau cach mang thang tam nam 1945 duoc vi nhu :
+a. Nuoc soi, lua bong
+b. Nhe nhu long hong
+c. Ngan can treo soi toc
+d. Trung, nuoc<term>Ngan can treo soi toc<row>Q134 Duong loi toan quoc khang chien tap trung trong ba van kien quan trong do la:
+a. Toan dan khang chien, Loi keu goi toan quoc khang chien, Khang chien nhat dinh thang loi
+b. Nhat Phap ban nhau va hanh dong cua chung ta, Khang chien kien quoc, Khang chien nhat dinh thang loi
+c. Toan dan khang chien, Nhat Phap ban nhau va hanh dong cua chung ta, Khang chien kien quoc
+d. Loi keu goi toan quoc khang chien, Nhat Phap ban nhau va hanh dong cua chung ta, Khang chien kien quoc<term>Toan dan khang chien, Loi keu goi toan quoc khang chien, Khang chien nhat dinh thang loi<row>Q135 Loi keu goi toan quoc khang chien cua Chu tich Ho Chi Minh duoc phat ra vao thoi gian nao?
+a. 12-12-1946
+b. 22-12-1946
+c. 2-3-1946
+d. 19-12-1946<term>19-12-1946<row>Q136 Dai hoi lan thu III cua Dang hop tai thu do Ha Noi tu ngay 5 den ngay 10/09/1960. Dai hoi da hoan chinh duong loi chien luoc chung cua cach mang Viet Nam trong giai doan moi va vach ra hai nhiem vu chien luoc do la:
+a. Tien hanh cach mang xa hoi chu nghia o mien Bac. Giai phong mien Nam khoi ach thong tri cua de quoc My va bon tay sai, thuc hien thong nhat nuoc nha, hoan thanh doc lap va dan chu trong ca nuoc
+b. Tien hanh cach mang dan chu nhan dan o mien Bac. Giai phong mien Nam khoi ach thong tri cua de quoc My va bon tay sai, thuc hien thong nhat nuoc nha, hoan thanh doc lap va dan chu trong ca nuoc
+c. Tien hanh cach mang dan toc dan chu o mien Bac. Giai phong mien Nam kh<term>a. Tien hanh cach mang xa hoi chu nghia o mien Bac. Giai phong mien Nam khoi ach thong tri cua de quoc My va bon tay sai, thuc hien thong nhat nuoc nha, hoan thanh doc lap va dan chu trong ca nuoc<row>Q137 Moi quan he giua hai nhiem vu cach mang cua hai mien duoc Dai hoi III cua Dang xac dinh la:
+a. Hai nhiem vu chien luoc ay co quan he mat thiet voi nhau va co tac dung thuc day lan nhau
+b. Hai nhiem vu chien luoc ay co quan he quyet dinh lan nhau
+c. Hai nhiem vu chien luoc ay co quan he mat thiet voi nhau
+d. Hai nhiem vu chien luoc ay co quan he doc lap voi nhau va co tac dung thuc day lan nhau<term>Hai nhiem vu chien luoc ay co quan he mat thiet voi nhau va co tac dung thuc day lan nhau<row>Q138 Khi noi ve trien vong cua cuoc khang chien chong Phap, Dang xac dinh trong Duong loi khang chien la :
+a. Mac du lau dai, gian kho, kho khan song nhat dinh thang loi
+b. Mac du phai hy sinh to lon den dau nhung nhat dinh se thanh cong
+c. Mac du bi bao vay va chua duoc nuoc nao tren the gioi cong nhan, song nhat dinh thang loi
+d. Nho co su hy sinh to lon cua dan toc nen cuoc khang chien se thanh cong<term>Mac du lau dai, gian kho, kho khan song nhat dinh thang loi<row>Q139 Ngay 23-9-1945 gan voi su kien lich su nao?
+a. Phap no sung xam luoc nuoc ta lan thu 2.
+b. Bac ra loi keu goi toan quoc khang chien.
+c. Nhat dao chinh Phap doc chiem Dong Duong.
+d. Hoi nghi quoc dan o Tan Trao<term>Phap no sung xam luoc nuoc ta lan thu 2.<row>Q140 Ta da nhan nhuong voi quan Trung Hoa Dan quoc nhu the nao? 
+a. Chap nhan moi yeu cau cai to Chinh phu, Quoc hoi theo y chung Trung Hoa Dan quoc.
+b. Chap nhan tieu tien Trung Quoc, cung cap mot phan luong thuc, thuc pham cho quan Tuong.
+c. Chap nhan tat ca moi yeu cau dam bao trat tu tri an, phuong tien di lai cua quan Tuong.
+d. Chap nhan cung cap toan bo luong thuc thuc pham cho quan Tuong.<term>Chap nhan tieu tien Trung Quoc, cung cap mot phan luong thuc, thuc pham cho quan Tuong.<row>Q141 Noi dung nao duoi day thuoc Hiep dinh So bo (6 - 3 - 1946)?
+a. Viet Nam la mot quoc gia doc lap trong khoi Lien hop Phap.
+b. Viet Nam la mot quoc gia tu tri trong khoi Lien hop Phap.
+c. Viet Nam la mot quoc gia tu do trong khoi Lien hop Phap.
+d. Viet Nam la mot quoc gia tu chu trong khoi Lien hop Phap.<term>Viet Nam la mot quoc gia tu do trong khoi Lien hop Phap.<row>Q142 De keo dai thoi gian chuan bi luc luong cho cuoc khang chien toan quoc chong Phap, sau Hiep dinh So bo (6/3/1946), Chinh phu nuoc Viet Nam Dan chu Cong hoa tiep tuc ki voi Phap ban
+a. Hiep dinh Gionevo.
+b. Hoa uoc.
+c. Hiep dinh Pari.
+d. Tam uoc.<term>Hiep dinh Pari.<row>Q143 Hoi nghi nao cua Dang mo duong cho phong trao "Dong khoi" o mien Nam nam 1960?
+a. Hoi nghi Trung uong 12 khoa II cua Dang (3/1957)
+b. Hoi nghi Trung uong 1 khoa II cua Dang (12/1957)
+c. Hoi nghi Trung uong 14 khoa II cua Dang (11/1958)
+d. Hoi nghi Trung uong 15 khoa II cua Dang (1/1959)<term>Hoi nghi Trung uong 15 khoa II cua Dang (1/1959)<row>Q144 Duong loi khang chien chong thuc dan Phap xam luoc cua Dang (1946-1954) la:
+a. Toan dan, toan dien, lau dai va tu luc canh sinh
+b. Toan dien, lau dai va tu luc canh sinh
+c. Chien tranh nhan dan, toan dien va tu luc canh sinh
+d. Chien tranh nhan dan, toan dien, lau dai va tranh thu ngoai luc<term>Toan dan, toan dien, lau dai va tu luc canh sinh<row>Q145 Duong loi khang chien "Dua vao suc minh la chinh" duoc Dang xac dinh la :
+a. "Phai tu cap, tu tuc ve moi mat"
+b. "Phai danh dich bang suc minh"
+c. "Phai tu vu trang de thang dinh ve moi mat"
+d. "Phai biet tranh thu su giup do cua cac nuoc"<term>"Phai tu cap, tu tuc ve moi mat"<row>Q146 Sau khi gianh chinh quyen, Dang chu truong mo rong mat tran nao sau day de tap trung ngon lua dau tranh chong Phap?
+a. Mat tran Viet Minh
+b. Mat tran Lien Viet
+c. Mat tran Dan chu
+d. Mat tran to quoc Viet Nam<term>Mat tran Viet Minh<row>Q147 Tu thang 9-1945 den thang 3-1946, ta chu truong :
+a. Hoa voi Tuong
+b. Hoa voi Phap
+c. Danh Tuong
+d. Danh Phap<term>Hoa voi Tuong<row>Q148 Sau cach mang thang Tam nam 1945, kho khan lon nhat dua nuoc ta vao tinh the "ngan can treo soi toc" la gi? 
+a. Kho khan ve thu trong, giac ngoai
+b. Nan doi, nan dot de doa nghiem trong den nhan dan ta
+c. Ngan sach nha nuoc trong rong
+d. Hon 90% dan so khong biet chu<term>Kho khan ve thu trong, giac ngoai<row>Q149 Sau Cach mang thang Tam nam 1945, tan du van hoa lac hau cua che do thuc dan, phong kien de lai het suc nang ne la :
+a. Hon 60% dan so khong biet chu
+b. Hon 70% dan so khong biet chu
+c. Hon 80% dan so khong biet chu
+d. Hon 90% dan so khong biet chu<term>Hon 90% dan so khong biet chu<row>Q150 "Chung ta tha hi sinh tat ca, chu nhat dinh khong chiu mat nuoc, nhat dinh khong chiu lam no le... " la doan trich trong van kien nao?
+a. Chi thi Toan dan khang chien cua Ban Thuong vu Trung uong Dang
+b. Loi keu goi toan quoc khang chien cua Chu tich Ho Chi Minh
+c. Tac pham Khang chien nhat dinh thang loi cua Tong Bi thu Truong Chinh 
+d. Chi thi sua soan khoi nghia cua Tong bo Viet Minh<term>Loi keu goi toan quoc khang chien cua Chu tich Ho Chi Minh<row>Q151 Sau Cach mang thang Tam den 1954, ke thu chinh cua nhan dan Viet Nam la :
+a. Phap 
+b. Anh 
+c. Mi 
+d. Trung quoc<term>Phap<row>Q152 Can cu dia cach mang cua ta trong cuoc khang chien chong Phap xam luoc lan thu hai la :
+a. Ha Noi 
+b. Bien Gioi 
+c. Viet Bac 
+d. Dien Bien Phu<term>Viet Bac<row>Q153 Tac pham "Khang chien nhat dinh thang loi" la cua ai? 
+a. Truong Chinh 
+b. Vo Nguyen Giap 
+c. Ho Chi Minh 
+d. Tran Phu<term>Truong Chinh<row>Q154 Ai duoc bau lam Tong Bi thu cua Dang tai Dai hoi dai bieu lan thu II (1951)? 
+a. Tran Phu 
+b. Ho Chi Minh 
+c. Truong Chinh 
+d. Le Hong Phong<term>Truong Chinh<row>Q155 Dai hoi nao sau day duoc danh dau la " Dai hoi khang chien thang loi" ? 
+a. Hoi nghi thanh lap Dang 1930
+b. Dai hoi Quoc dan o Tan Trao 1945
+c. Dai hoi lan thu II cua Dang 1951
+d. Dai hoi Dai bieu lan thu III cua Dang 1960<term>Dai hoi lan thu II cua Dang 1951<row>Q156 Ke hoach quan su duoc xem la lon nhat trong qua trinh xam luoc Viet Nam cua Phap tu 1945-1954? 
+a. Ke hoach Rove
+b. Ke hoach Nava
+c. Ke hoach "danh nhanh thang nhanh"
+d. Ke hoach Do Lat do Tatxinhi<term>Ke hoach Nava<row>Q157 Chien dich Dien Bien Phu duoc coi la mot chien dich lich su cua quan doi ta va duoc chia lam bao nhieu dot? 
+a. 2 dot 
+b. 3 dot 
+c. 4 dot 
+d. 5 dot<term>3 dot<row>Q158 Thang loi nao cua quan va dan ta trong cuoc khang chien chong Phap da lam pha san hoan toan ke hoach Nava? 
+a. Chien thang Bien gioi Thu - Dong 1950
+b. Chien thang Tay Bac 1953
+c. Chien thang Dien Bien Phu 1954
+d. Chien thang Thuong Lao 1954<term>Chien thang Dien Bien Phu 1954<row>Q159 Truong doan dai dien cho phai doan Chinh phu Viet Nam Dan chu Cong hoa tai Hoi nghi Gionevo la ai? 
+a. Ho Chi Minh
+b. Truong Chinh
+c. Pham Van Dong 
+d. Vo Nguyen Giap<term>Pham Van Dong<row>Q160 Thang loi ngoai giao lon nhat cua ta trong cuoc khang chien chong Phap tu 1945-1954 la :
+a. Hiep dinh So bo 1946 
+b. Tam uoc 1946
+c. Hiep dinh Gionevo 1954
+d. Lien Xo, Trung Quoc dat quan he ngoai giao voi ta 1950<term>Hiep dinh Gionevo 1954<row>Q161 Quyen dan toc co ban cua Viet Nam trong Hiep dinh Gionevo 1954 la gi?
+a. Doc lap, chu quyen, thong nhat, toan ven lanh tho
+b. Cac ben thuc hien cuoc tap ket, chuyen quan, chuyen giao khu vuc
+c. Viet Nam se tien hanh tong tuyen cu thong nhat dat nuoc
+d. Cac ben tham chien thuc hien ngung ban, lap lai hoa binh o Dong Duong<term>Doc lap, chu quyen, thong nhat, toan ven lanh tho<row>Q162 Chien thang nao cua ta quyet dinh thang loi tai hoi nghi Gionevo 1954?
+a. Viet Bac thu - dong 1947 
+b. Bien gioi thu - dong 1950
+c. Dien Bien Phu 1954 
+d. Dong xuan 1953-1954<term>Dien Bien Phu 1954<row>Q163 Chien dich lich su Dien Bien Phu 1954 la dinh cao cua :
+a. Khoi nghia chong Phap
+b. Khang chien chong Phap
+c. Khang chien chong Mi 
+d. Chien tranh chong Phap<term>Khang chien chong Phap<row>Q164 Duoc ghi vao lich su dan toc nhu mot Bach Dang, mot Chi Lang, mot Dong Da the ki XX. Do la y nghia cua chien thang nao? 
+a. Cach mang thang Tam 1945
+b. Chien dich Dien Bien Phu 1954
+c. Chien dich Hue- Da Nang 1975 
+d. Chien dich Ho Chi Minh 1975<term>Chien dich Dien Bien Phu 1954<row>Q165 Hiep dinh Gionevo 1954, quy dinh viec di chuyen, tap ket quan doi o hai mien Nam - Bac voi gioi tuyen quan su tam thoi la :
+a. Vi tuyen 17
+b. Vi tuyen 18
+c. Vi tuyen 19
+d. Vi tuyen 20<term>Vi tuyen 17<row>Q166 Dai hoi dai bieu toan quoc lan thu III cua Dang duoc to chuc tai :
+a. Sai Gon
+b. Ha Noi
+c. Tan Trao
+d. Hoc mon<term>Ha Noi<row>Q167 Tu 1961-1965, Mi thuc hien loai hinh chien luoc nao o mien Nam Viet Nam?
+a. Chien tranh don phuong
+b. Chien tranh dac biet
+c. Chien tranh cuc bo
+d. Viet Nam hoa chien tranh<term>Chien tranh dac biet<row>Q168 Chien thang Dien Bien Phu nam 1954 cua quan dan Viet Nam da:
+a. Danh dau moc thang loi cua cuoc khang chien chong Phap
+b. Lam pha san hoan toan ke hoach Nava cua thuc dan Phap.
+c. Buoc Phap phai ngoi vao dam phan tai Gionevo.
+d. Buoc dau lam pha san ke hoach Nava cua thuc dan Phap.<term>Lam pha san hoan toan ke hoach Nava cua thuc dan Phap.<row>Q169 Ngay 12/12/1946, Ban Thuong vu Trung uong Dang da ra
+a. Quan lenh so 1.
+b. Loi keu goi Tong khoi nghia.
+c. Chi thi Toan dan khang chien.
+d. Loi keu goi toan quoc khang chien.<term>Chi thi Toan dan khang chien.<row>Q170 Phap chap nhan dam phan voi Viet Nam o Hoi nghi Gionevo nam 1954 ve Dong Duong vi:
+a. Suc ep cua Lien Xo
+b. Bi that bai o Dien Bien Phu
+c. Du luan nhan dan the gioi phan doi
+d. Phap so Trung Quoc dua quan sang giup do Viet Nam<term>Bi that bai o Dien Bien Phu<row>Q171 Hiep dinh so bo duoc Ho Chi Minh ky voi Sanh-to-ny vao thoi gian nao sau day?
+a. 6/3/1946
+b. 14/9/1946
+c. 19/12/1946
+d. 10/12/1946<term>6/3/1946<row>Q172 Duong loi chung xay dung XHCN o mien Bac (1954-1975) duoc de cap o Dai hoi lan thu may cua Dang?
+a. Dai hoi II
+b. Dai hoi III
+c. Dai hoi IV
+d. Dai hoi V<term>Dai hoi III<row>Q173 Dang ta da lua chon giai phap gi trong moi quan he voi thuc dan Phap sau ngay Phap va Tuong ky hiep uoc Trung Khanh (28-2-1946)?
+a. Khang chien chong thuc dan Phap
+b. Chong ca quan doi Tuong va Phap
+c. Nhan nhuong voi quan doi Tuong
+d. Thuong luong va hoa hoan voi Phap<term>Thuong luong va hoa hoan voi Phap<row>Q174 Cuoc khang chien chong thuc dan Phap xam luoc cua nhan dan Dong Duong (1953 - 1954) ket thuc bang giai phap
+a. chinh tri
+b. quan su
+c. kinh te
+d. van hoa<term>chinh tri<row>Q175 Phap thuc hien rut quan khoi mien Nam Viet Nam trong boi canh nao ?
+a. Tat ca moi dieu khoan duoc quy dinh tai Hiep dinh da duoc hoan tat.
+b. Phap da hoan tat chuyen giao moi trach nhiem thi hanh Hiep dinh Gio-ne-vo cho chinh quyen Buu Loc.
+c. Phap da xuc tien moi viec cho cong cuoc thong nhat dat nuoc bang con duong tong tuyen cu hai mien.
+d. Rat nhieu dieu khoan trong Hiep dinh Gio-ne-vo chua duoc hoan tat.<term>Rat nhieu dieu khoan trong Hiep dinh Gio-ne-vo chua duoc hoan tat.<row>Q176 Mot trong nhung su kien lam bung no phong trao Dong khoi nam 1960 la :
+a. Ngan can hiep thuong, tong tuyen cu thong nhat dat nuoc
+b. Ban hanh Luat 10/59
+c. Lap ap chien luoc
+d. Cac phuong an tra loi deu dung<term>Ban hanh Luat 10/59<row>Q177 Nhiem vu cua cach mang mien bac ngay sau khi Hiep dinh Gio-ne-vo nam 1954 ve Dong Duong duoc ki ket la :
+a. Dau tranh chong de quoc Mi va chinh quyen Ngo Dinh Diem
+b. Xay dung co so vat chat ki thuat cho chu nghia xa hoi
+c. Hoan thanh cuoc cach mang dan toc dan chu nhan dan
+d. Han gan vet thuong chien tranh, khoi phuc kinh te<term>Han gan vet thuong chien tranh, khoi phuc kinh te<row>Q178 Hinh thuc khoi nghia chong lai ach thong tri cua Mi - Diem da dien ra dau tien o dau ?
+a. Ben Tre. 
+b. Binh Dinh.
+c. Quang Ngai. 
+d. Tay Ninh.<term>Binh Dinh<row>Q179 Noi dung nao khong phan anh thanh tuu cua ke hoach Nha nuoc 5 nam (1961 - 1965)?
+a. Gia tri san luong cong nghiep nang nam 1965 tang 3 lan so voi nam 1960.
+b. Cong nghiep quoc doanh chiem ti trong 93% trong tong gia tri san luong nganh cong nghiep toan mien Bac.
+c. Cong nghiep nhe, tieu thu cong nghiep da giai quyet duoc 80% hang tieu dung thiet yeu cho nhan dan.
+d. Thuong nghiep tu nhan duoc Nha nuoc uu tien phat trien nen da chiem linh duoc thi truong.<term>Thuong nghiep tu nhan duoc Nha nuoc uu tien phat trien nen da chiem linh duoc thi truong.<row>Q180 Noi dung nao trong Hiep dinh So bo 6-3-1946 tao dieu kien cho ta co thoi gian de chuan bi luc luong doi pho lau dai voi Phap?
+a. Phap cong nhan Viet Nam la mot quoc gia tu do trong khoi lien hiep Phap.
+b. Phap duoc dua 15 ngan quan ra mien Bac thay the quan Tuong
+c. Hai ben ngung ban o Nam Bo
+d. Hai ben thuc hien tap ket, chuyen quan<term>Hai ben ngung ban o Nam Bo<row>Q181 Mot trong nhung kho khan cua nuoc ta trong nhung nam 1953-1954 la :
+a. Chu nghia de quoc xam luoc va phong kien
+b. Bon can thiep My va phong kien phan dong
+c. De quoc Phap va phong kien 
+d. De quoc Phap va bon can thiep My<term>De quoc Phap va bon can thiep My<row>Q182 Chien luoc "Chien tranh dac biet" cua Mi la :
+a. Mot hinh thuc moi cua chu nghia thuc dan cu, dua tren nen tang luc luong quan nguy, duoi su chi huy cua co van Mi, bang phuong tien chien tranh Mi.
+b. Mot hinh thuc chien tranh cua chu nghia thuc dan moi, duoc tien hanh bang quan doi vien chinh Mi va quan chu hau.
+c. Mot hinh thuc chien tranh cua chu nghia thuc dan cu, duoc tien hanh bang Quan doi linh danh thue, duoi su chi huy cua co van Mi, phuong tien chien tranh Mi.
+d. Mot hinh thuc chien tranh cua chu nghia thuc dan moi, duoc tien hanh bang quan doi tay sai, duoi su chi huy cua co van Mi, bang phuong tien chien tranh Mi.<term>d. Mot hinh thuc chien tranh cua chu nghia thuc dan moi, duoc tien hanh bang quan doi tay sai, duoi su chi huy cua co van Mi, bang phuong tien chien tranh Mi.<row>Q183 Sau that bai cua Chien tranh dac biet, My chuyen sang loai hinh chien luoc chien tranh nao?
+a. Chien tranh don phuong.
+b. Chien tranh cuc bo.
+c. Viet Nam hoa chien tranh.
+d. Dong Duong hoa chien tranh.<term>Chien tranh cuc bo.<row>Q184 Dac diem noi bat cua nuoc ta sau 1954 la :
+a. Danh duoi thuc dan Phap va can thiep My xam luoc, gianh doc lap dan toc
+b. Ca nuoc qua do di len chu nghia xa hoi
+c. Phat trien che do dan chu nhan dan, gay co so cho chu nghia xa hoi
+d. Tien hanh dong thoi cach mang xa hoi chu nghia o mien Bac va cach mang dan toc dan chu nhan dan o mien Nam<term>Tien hanh dong thoi cach mang xa hoi chu nghia o mien Bac va cach mang dan toc dan chu nhan dan o mien Nam<row><term>a. Trong cuoc chien tranh chong My cua nhan dan ca nuoc, mien Nam la tien tuyen lon, mien Bac la hau phuong lon. Bao ve mien Bac la nhiem vu cua ca nuoc.<row>Q186 Phong trao Dong khoi lam that bai loai hinh chien luoc chien tranh nao cua My?
+a. Chien tranh don phuong,
+b. Chien tranh dac biet
+c. Chien tranh cuc bo
+d. Viet Nam hoa chien tranh<term>Chien tranh don phuong<row>Q187 Mat tran Dan toc giai phong mien Nam Viet Nam duoc thanh lap o dau?
+a. Ben Tre
+b. Tay Ninh
+c. Binh Dinh
+d. Tay Nguyen<term>Tay Ninh<row>Q188 Mat tran Dan toc giai phong mien Nam Viet Nam duoc thanh lap do ai lam chu tich?
+a. Nguyen Huu Tho
+b. Nguyen Thi Dinh
+c. Vo Nguyen Giap
+d. Truong Chinh<term>Nguyen Huu Tho<row>Q189 Am muu cua My trong chien luoc chien tranh dac biet la :
+a. Dung nguoi Viet danh nguoi Viet
+b. Dung nguoi My danh nguoi Viet
+c. Dung nguoi Dong Duong danh nguoi dong Duong
+d. Dung nguoi Viet danh nguoi Viet va dung nguoi Dong Duong danh nguoi dong Duong<term>Dung nguoi Viet danh nguoi Viet<row>Q190 Y nghia quan trong cua phong trao Dong khoi la :
+a. Chuyen cach mang mien Nam tu the giu gin luc luong sang the tien cong
+b. Lat do chinh quyen My- Diem
+c. My phai ngoi vao ban dam phan
+d. My phai ki hiep dinh Pari<term>Chuyen cach mang mien Nam tu the giu gin luc luong sang the tien cong<row>Q191 Nhan xet nao la phu hop khi noi ve moi quan he cua hai mien dat nuoc trong cuoc khang chien chong My?
+a. Cach mang hai mien co moi quan he mat thiet voi nhau va co tac dung thuc day lan nhau
+b. Cach mang hai mien co quan he quyet dinh lan nhau
+c. Cach mang hai mien co quan he mat thiet voi nhau
+d. Cach mang hai mien co quan he doc lap voi nhau va co tac dung thuc day lan nhau<term>a. Cach mang hai mien co moi quan he mat thiet voi nhau va co tac dung thuc day lan nhau<row>Q192 Tai sao, cuoc tong tien cong noi day Mau Than 1968 bi that bai vua mat dat, mat dan, hy sinh nhieu nhung Dang ta van danh gia thanh cong?
+a. Chung ta da giang don lon va manh buoc My ngoi vao ban dam phan.
+b. Chung ta da giang don lon va manh buoc My ki hiep dinh Pari.
+c. Buoc My phai thua nhan that bai cua chien luoc Viet Nam hoa chien tranh.
+d. My buoc phai rut quan ve nuoc.<term>Chung ta da giang don lon va manh buoc My ngoi vao ban dam phan.<row>Q193 Cuoc khang chien chong Mi, cuu nuoc cua nhan dan ta la mot cuoc dung dau lich su vi:
+a. Day la cuoc dau tranh cua mot dan toc nhuoc tieu chong lai mot de quoc so mot the gioi.
+b. Day la mot cuoc chien tranh xam luoc, phi nghia dung ve phia Mi - mot dai dien cho chu nghia de quoc.
+c. Day la mot cuoc chien phan anh tap trung nhung mau thuan co ban cua thoi dai.
+d. Day la mot cuoc chien tranh chong chu nghia thuc dan moi cua Mi, thuc hien giai phong dan toc, thong nhat dat nuoc dau tien gianh thang loi.<term>Day la mot cuoc chien phan anh tap trung nhung mau thuan co ban cua thoi dai.<row>Q194 Net noi bat nhat ve tinh hinh chinh tri o Viet Nam sau khi Hiep dinh Gionevo ve Dong Duong duoc ky ket la:
+a. Ha Noi duoc giai phong
+b. Phap rut quan khoi Mien Bac
+c. Dat nuoc bi chia cat thanh hai mien voi hai che do chinh tri - xa hoi khac nhau.
+d. Nhan dan hai mien tien hanh to chuc hiep thuong tong tuyen cu thong nhat dat nuoc<term>Dat nuoc bi chia cat thanh hai mien voi hai che do chinh tri - xa hoi khac nhau.<row>Q195 Noi dung nao phan anh diem tuong dong ve noi dung giua Hiep dinh Gio-ne-vo nam 1954 ve Dong Duong va Hiep dinh Pari nam 1973 ve Viet Nam?
+a. Hiep dinh co su tham gia cua 5 cuong quoc trong hoi dong bao an Lien Hop quoc
+b. Cac ben thua nhan mien Nam co 2 chinh quyen, 2 quan doi, 2 vung kiem soat va 3 luc luong chinh tri
+c. Cac nuoc deu cam ket ton trong nhung quyen dan toc co ban cua nhan dan Viet Nam
+d. Thoa thuan cac ben ngung ban de thuc hien chuyen quan, tap ket, chuyen giao khu.<term>Cac nuoc deu cam ket ton trong nhung quyen dan toc co ban cua nhan dan Viet Nam<row>Q196 So voi chien dich Dien Bien Phu 1954 voi chien dich Ho Chi Minh 1975 co khac gi ve ket qua va y nghia?
+a. Da dap tan hoan toan ke hoach quan su cua dich, buoc dich phai ki ket hiep dinh va rut quan ve nuoc
+b. Giai phong hoan toan mien Bac tao tien de hoan thanh cuoc cach mang dan chu nhan dan trong ca nuoc
+c. Lam xoay chuyen cuc dien chien tranh, tao dieu kien thuan loi de gianh thang loi cuoi cung
+d. La dau moc ket thuc cuoc chien tranh giai phong dan toc, bao ve To quoc, cham dut ach thong tri cua thuc dan de quoc<term>La dau moc ket thuc cuoc chien tranh giai phong dan toc, bao ve To quoc, cham dut ach thong tri cua thuc dan de quoc<row>Q197 O Viet Nam, cuoc khang chien chong Mi, cuu nuoc (1954-1975) co diem moi nao sau day so voi cuoc khang chien chong thuc dan Phap (1945-1954)?
+a. Hoan thanh dong thoi nhiem vu khang chien va gay dung co so cho che do moi.
+b. Thuc hien tu tuong tien cong bang suc manh cua luc luong vu trang ba thu quan.
+c. Ket hop khoi nghia tung phan cua quan chung nhan dan voi chien tranh cach mang.
+d. Tien hanh tuan tu hai cuoc cach mang o hai mien dat nuoc voi muc tieu thong nhat.<term>Ket hop khoi nghia tung phan cua quan chung nhan dan voi chien tranh cach mang.<row>Q198 Trong thoi ky 1954-1975, cuoc cach mang dan toc dan chu nhan dan o mien Nam Viet Nam co vai tro quyet dinh truc tiep doi voi su nghiep giai phong mien Nam vi cuoc cach mang nay
+a. bao ve vung chac hau phuong mien Bac xa hoi chu nghia.
+b. lam that bai hoan toan chien luoc toan cau cua My.
+c. truc tiep xoa bo ach ap buc, boc lot cua dia chu va tu san mien Nam.
+d. truc tiep danh do ach thong tri cua My va chinh quyen Sai Gon.<term>truc tiep danh do ach thong tri cua My va chinh quyen Sai Gon.<row>Q199 Nhan to hang dau dam bao thang loi cua cuoc khang chien chong Mi, cuu nuoc (1954-1975) la su lanh dao cua Dang Cong san Viet Nam vi Dang
+a. tranh thu duoc su giup do cua cac nuoc xa hoi chu nghia.
+b. co duong loi cach mang dung dan, sang tao, doc lap tu chu.
+c. lanh dao xay dung mien Bac thanh hau phuong vung manh.
+ da ket hop suc manh toan dan toc voi suc manh cua thoi dai.<term>co duong loi cach mang dung dan, sang tao, doc lap tu chu.<row>Q200 Thuc tien 30 nam chien tranh cach mang Viet Nam (1945 - 1975) cho thay: Hau phuong cua chien tranh nhan dan
+a. khong the phan biet rach roi voi tien tuyen chi bang yeu to khong gian.
+b. o phia sau va phan biet rach roi voi tien tuyen bang yeu to khong gian.
+c. luon o phia sau va bao dam cung cap suc nguoi, suc cua cho tien tuyen.
+d. la doi xung cua tien tuyen, thuc hien nhiem vu chi vien cho tien tuyen.<term>khong the phan biet rach roi voi tien tuyen chi bang yeu to khong gian<row>Q201 Sau nam 1975, dat nuoc ta buoc vao thoi ki
+a. kinh te thi truong xa hoi chu nghia.
+b. dat nuoc ta da hoa binh, doc lap thong nhat, ca nuoc qua do len chu nghia xa hoi.
+c. xay dung xa hoi chu nghia.
+d. cong nghiep hoa, hien dai hoa.<term>dat nuoc ta da hoa binh, doc lap thong nhat, ca nuoc qua do len chu nghia xa hoi<row>Q202 Nhiem vu nao duoc dat ra mot cach buc thiet sau nam 1975?
+a. Dieu chinh cac chu the kinh te, cac hanh vi san xuat kinh doanh va cac quan he kinh te.
+b. Phat trien cac dao luat, cac quy che, chuan muc ve kinh te.
+c. Thong nhat dat nuoc ve mat nha nuoc.
+d. Khoi phuc kinh te sau chien tranh.<term>Thong nhat dat nuoc ve mat nha nuoc.<row>Q203 Doan dai bieu mien Nam do ai dan dau de thong nhat hiep thuong voi mien Bac sau nam 1975?
+a. Pham Hung
+b. Chau Van Liem
+c. Truong Chinh
+d. Pham Huu Tho<term>Pham Hung<row>Q204 Sau dai thang mua xuan 1975, dat nuoc doc lap thong nhat, Chu tich nuoc la:
+a. Pham Hung
+b. Ton Duc Thang
+c. Pham Van Dong
+d. Nguyen Van Linh<term>Ton Duc Thang<row>Q205 Tai Dai hoi lan thu V cua Dang da bau chuc vu Tong Bi Thu Dang la:
+a. Le Duan
+b. Truong Chinh
+c. Pham Hung
+d. Nguyen Huu Tho<term>Le Duan<row>Q206 To chuc tong tuyen cu tren toan lanh tho Viet Nam bau ra Quoc hoi chung cho ca nuoc vao dau nam 1976 theo nguyen tac nao?
+a. Dan chu, pho thong, binh dang, truc tiep va bo phieu kin.
+b. Hoan thien the che ve chinh tri va on dinh ve kinh te.
+c. Hoan thien the che dam bao dong bo cac yeu to thi truong va phat trien dong bo cac loai thi truong.
+d. Hoan thien the che gan tang truong kinh te voi tien bo, cong bang xa hoi va bao ve moi truong.<term>Dan chu, pho thong, binh dang, truc tiep va bo phieu kin.<row>Q207 Dang xac dinh vai tro cua thanh phan kinh te nha nuoc la :
+a. Giu vai tro chu dao
+b. Giu vai tro dac biet
+c. Giu vai tro dieu phoi
+d. Giu vai tro thu yeu<term>Giu vai tro chu dao<row>Q208 Mo hinh kinh te thi truong dinh huong xa hoi chu nghia o nuoc ta duoc chinh thuc neu ra o Dai hoi nao cua Dang?
+a. Dai hoi VI
+b. Dai hoi VII
+c. Dai hoi VIII
+d. Dai hoi IX<term>Dai hoi IX<row>Q209 Co che thi truong trong nen kinh te Viet Nam tu 1986- 1991 duoc xem la :
+a. Chua day du
+b. Day du
+c. Hoan hao
+d. Hoan thien<term>Chua day du<row>Q210 Ten goi "Nuoc Cong hoa xa hoi chu nghia Viet Nam" co tu khi nao ?
+a. 9/1945.
+b. 7/1976.
+c. 2/1951.
+d. 7/1975.<term>7/1976<row>Q211 Dien them tu con thieu trong cau trich tu Nghi quyet Hoi nghi ban chap hanh Trung uong Dang lan 24 (1975) : ".... dat nuoc vua la nguyen vong tha thiet cua nhan dan ca nuoc, vua la quy luat khach quan cua su phat trien cach mang Viet Nam, cua lich su dan toc Viet Nam"
+a. Doc lap
+b. Thong nhat
+c. Giai phong
+d. Doc lap va Thong nhat<term>Thong nhat<row>Q212 Mot trong nhung bai hoc trong 10 nam doi moi dat nuoc 1986-1996 la :
+a. Kinh te thi truong noi chung va kinh te thi truong dinh huong XHCN khac nhau hoan toan
+b. Kinh te thi truong noi chung va kinh te thi truong dinh huong XHCN giong nhau ve ban chat chi khac ve hinh thuc
+c. Kinh te thi truong noi chung va kinh te thi truong dinh huong XHCN giong nhau hoan toan.
+d. Xay dung nen KT hang hoa nhieu thanh phan van hanh co che thi truong, tang cuong quan ly Nha nuoc theo dinh huong XHCN. Tang truong KT gan tien bo cong bang XH, giu va phat huy ban sac van hoa dan toc, bao ve moi truong sinh thai.<term>d. Xay dung nen KT hang hoa nhieu thanh phan van hanh co che thi truong, tang cuong quan ly Nha nuoc theo dinh huong XHCN. Tang truong KT gan tien bo cong bang XH, giu va phat huy ban sac van hoa dan toc, bao ve moi truong sinh thai.<row>Q213 Mot trong nhung noi dung cua Dai hoi lan thu 4 cua Dang (12-1976) la :
+a. Ke hoach nha nuoc 5 nam 1976 - 1980
+b. Phuong huong doi moi dat nuoc
+c. Tong ket 10 nam doi moi dat nuoc
+d. Han gan vet tHuong chien tranh<term>Ke hoach nha nuoc 5 nam 1976 - 1980<row>Q214 Dai hoi Dang lan thu 8 hop tai Ha Noi tu ngay 28/6 - 1/7/1996 dien ra trong boi canh nao?
+a. Cach mang khoa hoc va cong nghe phat trien voi trinh do cao, chu nghia xa hoi hien thuc lam vao thoai trao.
+b. Thoi ky qua do len chu nghia xa hoi dat nhieu thanh tuu to lon,
+c. Cach mang khoa hoc va cong nghe phat trien voi trinh do cao
+d. Phong trao giai phong dan toc phat trien manh<term>Cach mang khoa hoc va cong nghe phat trien voi trinh do cao, chu nghia xa hoi hien thuc lam vao thoai trao.<row>Q215 Dai hoi lan thu IV cua Dang hop tu 14 - 20/12/1976 tai Ha Noi quyet dinh doi ten Dang thanh :
+a. Dang Lao dong Viet Nam
+b. Dang Cong san Dong Duong
+c. Dang Cong san Viet Nam
+d. Dang Cong san Ho Chi Minh<term>Dang Cong san Viet Nam<row>Q216 Mot trong nhung nhan thuc moi cua Dang ve chu nghia xa hoi la :
+a. Phat tien cac doanh nghiep nha nuoc
+b. Cac tai san thuoc so huu toan dan
+c. Cac quy du tru quoc gia, quy bao hiem nha nuoc
+d. Xay dung con nguoi moi XHCN<term>Xay dung con nguoi moi XHCN<row>Q217 Nhiem vu trung tam cua thoi ky qua do xay dung dat nuoc la:
+a. Day manh Cong nghiep hoa xa hoi chu nghia
+b. Hop tac xa nong nghiep theo dinh huong xa hoi chu nghia
+c. Kinh te thi truong dinh huong xa hoi chu nghia 
+d. Nam vung cac quy luat kinh te cua chu nghia xa hoi.<term>Day manh Cong nghiep hoa xa hoi chu nghia<row>Q218 Mat tran To quoc Viet Nam, Doan thanh nien Lao dong HCM, Tong Cong doan Viet Nam, Hoi Lien hiep phu nu Viet Nam v.v. duoc goi la :
+a. Dang cong san Viet Nam.
+b. Cac to chuc doan the
+c. Mat tran to quoc Viet Nam
+d. Cac to chuc chinh tri - xa hoi<term>Cac to chuc chinh tri - xa hoi<row>Q219 Ngay17/2/1979, quan doi nuoc nao tan cong phia Bac bien gioi nuoc ta?
+a. My
+b. Khome do
+c. Trung Quoc
+d Phap<term>Trung Quoc<row>Q220 Mot trong nhung muc tieu cua ke hoach phat trien kinh te va van hoa 5 nam lan thu 2 tu 1976 - 1980 cua ca nuoc la:
+a. Doi moi to chuc va phuong thuc hoat dong cua Dang
+b. Doi moi to chuc va phuong thuc hoat dong cua Nha nuoc
+c. Doi moi to chuc va phuong thuc hoat dong kinh te xa hoi chu nghia
+d. Bao dam nhu cau doi song cua nhan dan, tich luy de xay dung co so vat chat ky thuat cua chu nghia xa hoi<term>Bao dam nhu cau doi song cua nhan dan, tich luy de xay dung co so vat chat ky thuat cua chu nghia xa hoi<row>Q221 Trong muoi nam tu 1979 - 1989, quan he Viet Nam- Trung Quoc trong tinh hinh :
+a. Than thien
+b. Phuc tap
+c. Dong bang
+d. Binh thuong hoa<term>Than thien<row>Q222 Hoi nghi Trung uong 3, khoa 8, thang12/1996 da chu truong:
+a. Xay dung doi ngu can bo cac cap co pham chat va nang luc, co ban linh chinh tri vung vang, du ve so luong, dong bo ve co cau.
+b. Phat trien khoa hoc va cong nghe trong giai doan hien nay
+c. Phat trien giao duc va dao tao trong giai doan hien nay
+d. Xay dung kinh te trong giai doan hien nay<term>a. Xay dung doi ngu can bo cac cap co pham chat va nang luc, co ban linh chinh tri vung vang, du ve so luong, dong bo ve co cau.<row>Q223 Mot trong nhung quan diem cua Dang ta ve Cong nghiep hoa- hien dai hoa dat nuoc la:
+a. Tap hop, van dong, doan ket rong rai cac tang lop nhan dan
+b. Dai dien cho quyen va loi ich hop phap cua nhan dan
+c. De xuat cac chu truong, chinh sach ve kinh te, van hoa, an ninh, quoc phong
+d. Lay viec phat huy nguon luc con nguoi la yeu to co ban cho su phat trien nhanh va ben vung.<term>Lay viec phat huy nguon luc con nguoi la yeu to co ban cho su phat trien nhanh va ben vung.<row>Q224** Muc tieu xay dung chu nghia xa hoi o Viet Nam la:
+a. Mo rong quan he hop tac voi cac nuoc tren the gioi
+b. Kinh te tu ban nha nuoc
+c. Kinh te co von dau tu nuoc ngoai theo dinh huong xa hoi chu nghia
+d. Dan giau, nuoc manh, xa hoi cong bang, van minh<term>Dan giau, nuoc manh, xa hoi cong bang, van minh<row>Q225 Mot trong nhung nhiem vu chien luoc ma Dai hoi lan thu V cua Dang khang dinh la :
+a. Dam bao quyen luc thuoc ve nhan dan
+b. Xay dung luc luong cho Dang Cong san Viet Nam
+c. Bao ve vung chac To quoc Viet Nam xa hoi chu nghia
+d. Xay dung nha nuoc phap quyen Viet Nam xa hoi chu nghia<term>Bao ve vung chac To quoc Viet Nam xa hoi chu nghia<row>Q226 Dai hoi lan thu V cua Dang (1982) da coi linh vuc nao la Mat tran hang dau?
+a. Cong nghiep
+b. Nong nghiep
+c. Thuong nghiep
+d. Dich vu<term>Nong nghiep<row>Q227 Dai hoi nao duoc danh gia la Dai hoi doi moi dat nuoc?
+a. Dai hoi IV 1976
+b. Dai hoi V 1982
+c. Dai hoi VI 1986
+d. Dai hoi VII 1991<term>Dai hoi VI 1986<row>Q228 Trong tam cua doi moi kinh te tai Dai hoi VI (1986) la :
+a. Doi moi co che quan ly, xoa bo co che tap trung quan lieu hanh chinh, bao cap.
+b. Doi moi to chuc va phuong thuc hoat dong cua nha nuoc
+c. Doi moi to chuc va phuong thuc hoat dong cua cac to chuc tu nhan
+d. Doi moi to chuc va phuong thuc hoat dong cua Mat tran to quoc Viet Nam<term>Doi moi co che quan ly, xoa bo co che tap trung quan lieu hanh chinh, bao cap.<row>Q229 Ba chuong trinh kinh te lon cua ta sau doi moi kinh te la:
+a. Luong thuc - thuc pham, hang tieu dung va hang xuat khau
+b. Luong thuc - thuc pham, hang tieu dung
+c. Nong-cong nghiep, dich vu
+d. Cong nghiep, thuong nghiep, dich vu<term>Luong thuc - thuc pham, hang tieu dung va hang xuat khau<row>Q230 Mot trong nhung noi dung phat trien kinh te ma Dai hoi Dang lan thu VI de ra la :
+a. Mo rong va nang cao hieu qua kinh te thi truong
+b. Phat trien kinh te tu nhan
+c. Mo rong va nang cao hieu qua kinh te doi ngoai.
+d. Mo rong phat trien kinh te hop tac xa<term>Mo rong va nang cao hieu qua kinh te doi ngoai.<row>Q231 Tu ngay 15 - 21/11/1975, Hoi nghi Hiep thuong chinh tri cua 2 doan dai bieu mien Bac - Nam da hop tai:
+a. Sai Gon
+b. Hue
+c. Da Nang
+d Ha Noi<term>Sai Gon<row>Q232 Su lanh dao toan dien va tuyet doi cua Dang la diem cot loi cua co so chinh tri trong he thong gi:
+a. He thong chinh tri Chuyen chinh vo san
+b. He thong chinh tri Dan chu nhan dan
+c. He thong chinh tri thoi ky doi moi<term>He thong chinh tri Chuyen chinh vo san<row>Q233 Chu truong trong quan he quoc te cua Viet Nam duoc Dai hoi Dang lan thu IX dua ra la:
+a. Viet Nam san sang la ban, la doi tac tin cay cua cac nuoc trong cong dong quoc te, phan dau vi hoa binh doc lap va phat trien.
+b. Viet Nam muon la ban, la doi tac tin cay cua cac nuoc trong cong dong quoc te, phan dau vi hoa binh doc lap va phat trien.
+c. Viet Nam la ban, la doi tac tin cay cua cac nuoc trong cong dong quoc te, phan dau vi hoa binh doc lap va phat trien.
+d. Viet Nam mong la ban, la doi tac tin cay cua cac nuoc trong cong dong quoc te, phan dau vi hoa binh doc lap va phat trien.<term>a. Viet Nam san sang la ban, la doi tac tin cay cua cac nuoc trong cong dong quoc te, phan dau vi hoa binh doc lap va phat trien.<row>Q234 Trong qua trinh doi moi moi dat nuoc, Dang cong san Viet Nam dong vai tro la :
+a. Khong tham gia trong he thong chinh tri
+b. Dong vai tro tru cot
+c. Thuc hien vai tro mot cach han che trong he thong chinh tri
+d. Dong vai tro thu yeu<term>Dong vai tro tru cot<row>Q235 Mot trong nhung bai hoc ve doi moi dat nuoc (1986-1996 ) la: 
+a. Ket hop chat che doi moi kinh te voi doi moi chinh tri, lay doi moi kinh te lam trong tam, tung buoc doi moi chinh tri.
+b. Doi moi tu duy va phuong thuc hoat dong cua cac bo phan cau thanh he thong.
+c. Doi moi nhan thuc va phuong thuc hoat dong cua cac bo phan cau thanh he thong.
+d. Doi moi tu tuong va phuong thuc hoat dong cua cac bo phan cau thanh he thong.<term>a. Ket hop chat che doi moi kinh te voi doi moi chinh tri, lay doi moi kinh te lam trong tam, tung buoc doi moi chinh tri.<row>Q236 Hoi nghi Trung uong 3, khoa 8 (1997) cua Dang da chu truong :
+a. Thuc hien thang loi su nghiep cong nghiep hoa, hien dai hoa.
+b. Xay dung doi ngu can bo cac cap co pham chat va nang luc, co ban linh chinh tri vung vang
+c. Xay dung doi ngu can bo cac cap co pham chat va nang luc, co ban linh chinh tri vung vang, du ve so luong, dong bo ve co cau.
+d. Lien minh cong nhan, nong dan va tang lop tri thuc<term>c. Xay dung doi ngu can bo cac cap co pham chat va nang luc, co ban linh chinh tri vung vang, du ve so luong, dong bo ve co cau.<row>Q237 Nghi quyet Trung uong 4, khoa 8 thang 12/1997 bau ai lam Tong bi thu cua Dang?
+a. Le Kha Phieu 
+b. Truong Chinh
+c. Do Muoi
+d. Nguyen Van Linh<term>Le Kha Phieu<row>Q238 Nam 1998, Viet Nam tro thanh thanh vien cua :
+a. ASEAN
+b. APEC
+c. Lien Hop Quoc
+d. WTO<term>APEC<row>Q239 Trong quan he doi ngoai Dai hoi 9 dua ra chu truong: 
+a. Viet Nam san sang la ban, la doi tac tin cay cua cac nuoc trong cong dong quoc te, phan dau vi hoa binh, doc lap va phat trien.
+b. Viet Nam san sang la ban, la doi tac tin cay cua cac nuoc trong cong dong quoc te, 
+c. Viet Nam san sang la ban cua tat ca cac nuoc.
+d. Viet Nam san sang la ban va ung ho phong trao hoa binh the gioi.<term>a. Viet Nam san sang la ban, la doi tac tin cay cua cac nuoc trong cong dong quoc te, phan dau vi hoa binh, doc lap va phat trien.<row>Q240 Hoi nghi Trung uong 8 khoa 9 thang 7/2003 da ban hanh:
+a. Thuc hien dan chu xa hoi chu nghia
+b. Ket hop chat che ngay tu dau doi moi kinh te voi doi moi chinh tri
+c. Doi moi he thong chinh tri mot cach toan dien, dong bo
+d. Chien luoc bao ve To quoc trong tinh hinh moi.<term>Chien luoc bao ve To quoc trong tinh hinh moi.<row>Q241 Hoi nghi Trung uong 7 khoa 9 thang 3/2003 da thong nhat coi:
+a. Dat dai la tai nguyen quoc gia vo cung quy gia, la tu lieu dac biet, la nguon noi luc va nguon von to lon cua dat nuoc.
+b. Doi moi to chuc va phuong thuc hoat dong cua he thong chinh tri lam cho no phu hop voi duong loi doi moi toan dien, dong bo dat nuoc.
+c. Doi moi he thong chinh tri mot cach toan dien, dong bo co ke thua, co buoc di hinh thuc va cach lam phu hop.
+d. Doi moi quan he giua cac bo phan cau thanh cua he thong chinh tri voi nhau va voi xa hoi la rat quan trong.<term>a. Dat dai la tai nguyen quoc gia vo cung quy gia, la tu lieu dac biet, la nguon noi luc va nguon von to lon cua dat nuoc.<row>Q242 Chu de cua Dai hoi Dang lan thu 10 tu ngay 18 - 25/4/2006 tai Ha Noi la :
+a. Nang cao nang luc lanh dao va suc chien dau cua Dang, phat huy suc manh toan dan toc
+b. Nang cao nang luc lanh dao, phat trien cong nghiep hoa- hien dai hoa dat nuoc.
+c. Phat trien va hoi nhap quoc te
+d. Nang cao nang luc lanh dao va suc chien dau cua Dang, phat huy suc manh toan dan toc, day manh toan dien cong cuoc doi moi som dua nuoc ta ra khoi tinh trang kem phat trien.<term>d.<row>Q243 Mot trong nhung noi dung moi cua Dai hoi Dang lan thu X la:
+a. Xay dung, chinh don Dang la nhiem vu then chot hang dau va cho phep dang vien lam kinh te tu nhan.
+b. Xay dung chu nghia xa hoi
+c. Xay dung he thong chinh tri
+d. Xay dung kinh te tu nhan<term>a<row>Q244 Dau khong phai la bai hoc kinh nghiem ma Dai hoi Dang lan thu X da rut ra?
+a. Doi moi toan dien,dong bo co ke thua, buoc di, hinh thuc cach lam phu hop
+b. Doi moi phai vi loi ich cua nhan dan, dua vao dan, phat huy vai tro chu dong, sang tao cua nhan dan, xuat phat tu thuc tien, nhay ben voi cai moi.
+c. Phat huy cao do noi luc, ra suc khai thac ngoai luc, ket hop suc manh dan toc va thoi dai trong dieu kien moi.
+d. Lay doi moi chinh tri lam thu yeu, dong thoi tung buoc doi moi kinh te.<term>Lay doi moi chinh tri lam thu yeu, dong thoi tung buoc doi moi kinh te.<row>Q245 Hoi nghi Trung uong 5 khoa 10 thang 7/2007 ban hanh Nghi quyet so14- NQ/TW ve :
+a. Tang cuong cong tac kiem tra, giam sat cua Dang
+b. Tang cuong cong tac kiem tra, giam sat cua doan the 
+c. Cuong linh xay dung dat nuoc
+d. Thay doi he thong chinh tri<term>Tang cuong cong tac kiem tra, giam sat cua Dang<row>Q246 Cuong linh Dai hoi Dang lan thu 11 dien ra tu 12 - 19/1/2011 neu ro: Xa hoi xa hoi chu nghia ma nhan dan ta xay dung la mot xa hoi:
+a. Cua dan, do dan, vi dan
+b. Cua dan, do dan, vi dan co nen kinh te phat trien
+c. Dan giau, nuoc manh, dan chu, cong bang, van minh 
+d. Dan giau, nuoc manh, dan chu, cong bang, van minh do nhan dan lam chu<term>d<row>Q247 Dai hoi lan thu 11 de ra chien luoc phat trien kinh te- xa hoi 2011-2020 la :
+a. Phat trien nhanh gan lien voi phat trien ben vung
+b. Phat tien gan voi xay dung
+c. Day manh hoi nhap quoc te
+d. Xay dung nen kinh te tuu chu<term>a<row>Q248 Nam 2012 co bao nhieu nuoc cong nhan co che kinh te thi truong cua Viet Nam?
+a. 36 nuoc
+b. 38 nuoc
+c. 40 nuoc
+d. 44 nuoc<term>36 nuoc<row>Q249 Viet Nam gia nhap to chuc ASEAN nam nao?
+a. 1993
+b. 1994
+c. 1995
+d. 1997<term>1995<row>Q250 Dai hoi dai bieu toan quoc lan thu XIII Dang Cong san Viet Nam hop tu ngay nao?
+a. tu ngay 23.1-1.2.2021 
+b. tu ngay 25.1-1.2.2021
+c. tu ngay 26.1-1.2.2021
+d. tu ngay 24.1-1.2.2021<term>tu ngay 25.1-1.2.2021<row>Q251*** Ve Ket qua thuc hien Nghi quyet Dai hoi XII, Dai hoi XIII danh gia linh vuc nao duoi day chua tro thanh dong luc then chot thuc day phat trien kinh te - xa hoi?
+a. Giao duc va dao tao, khoa hoc va cong nghe
+b. Khoa hoc va cong nghe
+c. Van hoa xa hoi
+d. Giao duc va dao tao<term>Giao duc va dao tao, khoa hoc va cong nghe<row>Q252 Thang 11/2006, Bo Chinh tri khoa 10 ra Chi thi so 3-NQ/TW la quyet dinh to chuc cuoc van dong :
+a. Noi di doi voi lam
+b. Phat trien kinh te tang truong on dinh, hieu qua.
+c. Thi dua lap thanh tich chao mung Dai hoi
+d. Hoc tap va lam theo tam guong dao duc Ho Chi Minh.<term>d<row>Q253 Tac hai nao do co che quan ly kinh te tap trung, quan lieu, bao cap van ton tai den ngay nay va rat kho xoa bo?
+a. Khong tao duoc dong luc phat trien.
+b. Khong thuc day san xuat phat trien
+c. Lam giam nang suat, chat luong, hieu qua.
+d. Nhieu hien tuong tieu cuc trong xa hoi.<term>d<row>Q254 Khau hieu cua Dai hoi lan thu XII cua Dang la :
+a. Doan ket-Dan chu-Ky cuong- Doi moi
+b. Day manh toan dien dong bo cong cuoc doi moi
+c. Tang cuong khoi Dai doan ket toan dan toc
+d. Xay dung Dang trong sach, vung manh<term>a<row>Q255 Bo Chinh tri ban hanh Chi thi so 5-CT/TW ngay 15/5/2016 ve:
+a. Thong nhat nhan thuc ve kinh te thi truong dinh huong XHCN.
+b. Hoan thien the che ve so huu va cac thanh phan kinh te.
+c. Hoc tap va lam theo tu tuong Ho Chi Minh.
+d. Day manh hoc tap va lam theo tu tuong, dao duc, phong cach Ho Chi Minh.<term>d<row>Q256 Mo rong cac linh vuc kinh te thuoc doc quyen nha nuoc la vi pham nguyen tac
+a. Hoan thien the che gan tang truong kinh te voi tien bo, cong bang xa hoi va bao ve moi truong.
+b. Hoan thien the che ve so huu va cac thanh phan kinh te.
+c. Hoan thien the che dam bao dong bo cac yeu to thi truong va phat trien dong bo cac loai thi truong.
+d Hoan thien the che chinh tri<term>Hoan thien the che ve so huu va cac thanh phan kinh te.<row>Q257 Hoi nghi Trung uong 6 khoa 12 Ban hanh Nghi quyet so 20-NQ/TW ngay 25/10/2007 ve :
+a. Cong tac dan so trong tinh hinh moi.
+b. Xay dung van hoa trong tinh hinh moi
+c. Hoi nhap trong tinh hinh moi
+d. Tang cuong cong tac bao ve, cham soc va nang cao suc khoe nhan dan trong tinh hinh moi.<term>d<row>Q258 Hoi nghi Trung uong 5 khoa 12, thang 5/2017 chu truong:
+a. Chu truong phat trien kinh te thi truong dinh huong XHCN
+b. Chu truong phat trien kinh te thi truong tu ban chu nghia
+c. Chu truong phat trien kinh te chi huy
+d. Hoan thien the che kinh te thi truong dinh huong xa hoi chu nghia.<term>d<row>Q259
+Trong 5 yeu to chinh de tang truong kinh te, yeu to nao giu vai tro quyet dinh?
+a. Von, Khoa hoc- cong nghe
+b. Con nguoi
+c. Co cau kinh te
+d. The che chinh tri va quan ly nha nuoc<term>b. Con nguoi<row>Q260 Hoi nghi Trung uong 7 khoa 12 da ban hanh Nghi quyet so 27-NQ/TW ngay 21/5/2018 ve:
+a. Cai cach chinh sach tien luong doi voi can bo, cong vien chuc, luc luong vu trang va nguoi lao dong trong doanh nghiep.
+b. Xay dung van hoa trong tinh hinh moi
+c. Hoi nhap trong tinh hinh moi
+d. Tang cuong cong tac bao ve, cham soc va nang cao suc khoe nhan dan trong tinh hinh moi.<term>a<row>Q261 Hoi nghi Trung uong 7 khoa 12 da ban hanh Nghi quyet so 28-NQ/TW ngay 23/5/2018 ve:
+a. Doi moi muc tieu, con duong di len xa hoi chu nghia
+b. Doi moi noi dung, phuong thuc hoat dong, to chuc can bo va quan he giua cac to chuc trong he thong chinh tri
+c. Tang cuong cong tac bao ve, cham soc va nang cao suc khoe nhan dan trong tinh hinh moi
+d. Cai cach chinh sach bao hiem xa hoi.<term>Cai cach chinh sach bao hiem xa hoi<row>Q262 Hoi nghi trung uong VI khoa 6 (thang 3 nam 1989) lan dau tien dua ra thuat ngu gi?
+a. Kinh te thi truong dinh huong xa hoi chu nghia
+b. He thong chinh tri
+c. Nha nuoc phap quyen xa hoi chu nghia
+d. Dang lanh dao, nha nuoc quan ly, nhan dan lam chu<term>He thong chinh tri<row>Q263 Hoi nghi Trung uong 7 khoa 12 da ban hanh Nghi quyet so 36-NQ/TW ngay 22/10/2018 ve:
+a. Chien luoc phat trien ben vung kinh te bien Viet Nam den nam 2030, tam nhin den nam 2045 la :
+b. Doi moi muc tieu, con duong di len xa hoi chu nghia
+c. Doi moi noi dung, phuong thuc hoat dong, to chuc can bo va quan he giua cac to chuc trong he thong chinh tri
+d. Tang cuong cong tac bao ve, cham soc va nang cao suc khoe nhan dan trong tinh hinh moi<term>Chien luoc phat trien ben vung kinh te bien Viet Nam den nam 2030, tam nhin den nam 2045 la :<row>Q264 Xay dung Dang ngang tam voi thoi ki Cong nghiep hoa- Hien dai hoa dat nuoc doi hoi :
+a. Thuc hien tot hon dan chu xa hoi chu nghia, phat huy day du quyen lam chu cua nhan dan.
+b. Thuc hien tot hon dan chu xa hoi chu nghia, phat huy day du quyen tu do cua nhan dan.
+c. Thuc hien tot hon dan chu xa hoi chu nghia, phat huy day du quyen giam sat cua nhan dan.
+d. Dang phai tiep tuc tu doi moi, tu chinh don, nang cao hon nua suc chien dau va nang luc lanh dao cua minh, khac phuc cho duoc cac bieu hien tieu cuc va yeu kem.<term>d. Dang phai tiep tuc tu doi moi, tu chinh don, nang cao hon nua suc chien dau va nang luc lanh dao cua minh, khac phuc cho duoc cac bieu hien tieu cuc va yeu kem.<row>Q265 Dai hoi XIII da de ra may dot pha chien luoc de phat trien dat nuoc?
+a. 3 dot pha
+b. 4 dot pha
+c. 5 dot pha
+d. 6 dot pha<term>a. 3 dot pha<row>Q266 Mot trong nhung dot pha chen luoc ma Dai hoi XIII de ra la:
+a. Xay dung he thong ket cau ha tang dong bo, hien dai ca ve kinh te- xa hoi
+b. Doi moi chinh tri, dong thoi, tung buoc doi moi he thong chinh tri
+c. Doi moi tu duy an ninh quoc phong, dong thoi, tung buoc doi moi he thong chinh tri
+d. Doi moi an sinh xa hoi, dong thoi, tung buoc doi moi he thong chinh tri<term>Xay dung he thong ket cau ha tang dong bo, hien dai ca ve kinh te- xa hoi<row>Q267 Moi cong viec cua Dang, Nha nuoc phai quan triet sau sac lay dan lam goc, dan lam trung tam, kien tri thuc hien phuong cham:
+a. Dan biet, dan ban, dan lam, dan kiem tra, dan giam sat, dan thu huong
+b. Dan biet, dan ban, dan lam, dan kiem tra, dan giam sat
+c. Dan biet, dan ban, dan lam, dan kiem tra
+d. Cua dan, do dan va vi dan<term>Dan biet, dan ban, dan lam, dan kiem tra, dan giam sat, dan thu huong<row>Q268 "Dai dien cho quyen va loi ich hop phap cua nhan dan" la vai tro cua to chuc nao?
+a. Dang Cong san Viet Nam
+b. Doan thanh nien Cong san Ho Chi Minh
+c. Nha Nuoc Viet Nam
+d. Mat tran To quoc Viet Nam va cac to chuc chinh tri - xa hoi<term>Mat tran To quoc Viet Nam va cac to chuc chinh tri - xa hoi<row>Q269 Viet Nam hoan thanh nhiem vu thong nhat dat nuoc ve mat nha nuoc vao
+a. thang 5/1975. 
+b. thang 9/1975
+c. thang 7/1976. 
+d. thang 12/1976.<term>thang 7/1976<row><term>c. Ket hop chat che doi moi kinh te voi doi moi chinh tri, lay doi moi kinh te lam trong tam, tung buoc doi moi chinh tri.<row>Q271 Quan diem quan trong ve giai quyet cac van de xa hoi thoi ky doi moi la:
+a. Uu tien muc tieu xa hoi tren muc tieu kinh te
+b. Ket hop cac muc tieu kinh te voi cac muc tieu xa hoi
+c. Chu trong cac muc tieu kinh te, tung buoc thuc hien muc tieu xa hoi
+d. Thuc hien muc tieu xa hoi tren co so thuc hien thang loi cac muc tieu kinh te<term>b. Ket hop cac muc tieu kinh te voi cac muc tieu xa hoi<row>Q272 Ten goi "Nuoc Cong hoa xa hoi chu nghia Viet Nam" co tu khi nao ?
+a. Ngay 2/9/1945.
+b. Ngay 2/7/1976.
+c. Ngay 12/2/1951.
+d. Ngay 2/7/1975.<term>Ngay 2/7/1976.<row>Q273 Trong 10 nam doi moi dat nuoc van de tang cuong vai tro lanh dao cua Dang, coi xay dung Dang la :
+a. Nhiem vu then chot
+b. Nhiem vu quan trong
+c. Dong luc phat trien
+d. Gan lien voi phat trien kinh te<term>Nhiem vu then chot<row>Q274 Cong nghiep hoa- Hien dai hoa dat nuoc la su nghiep cua :
+a. Toan dan
+b. Dang Cong san Viet Nam
+c. Co quan quan ly nha nuoc ve van hoa
+d. Nha nuoc Viet Nam<term>Toan dan<row>Q275 Dai hoi lan thu VIII cua Dang chu truong tang truong kinh te gan lien voi tien bo va cong bang xa hoi trong dieu kien nao?
+a. Trong ca thoi ky qua do va suot qua trinh phat trien
+b. Trong tung buoc va suot qua trinh phat trien
+c. Trong rieng thoi ky qua do va suot qua trinh phat trien
+d. Trong tung buoc va suot qua trinh xay dung the che kinh te thi truong<term>Trong tung buoc va suot qua trinh phat trien<row>Q276 Hoi nghi Trung uong 2, khoa 8, thang12/1996 nhan dinh phat trien khoa hoc va cong nghe la :
+a. Uu tien phat trien hang dau trong qua trinh cong nghiep hoa- hien dai hoa dat nuoc
+b. Quan trong nhat trong qua trinh doi moi dat nuoc.
+c. Uu tien phat trien hang dau trong qua trinh hoi nhap
+d. Nhan to quyet dinh tang truong kinh te xa hoi<term>Uu tien phat trien hang dau trong qua trinh hoi nhap<row>Q277 Noi dung nao khong dung trong dac trung chu yeu cua duong loi cong nghiep hoa thoi ky truoc doi moi?
+a. Nong voi, gian don, duy y chi, ham lam nhanh, lam lon, khong quan tam den hieu qua kinh te - xa hoi.
+b. Cong nghiep hoa theo mo hinh nen kinh te khep kin huong noi va thien ve phat trien cong nghiep nang.
+c. Chu luc thuc hien cong nghiep hoa la Nha nuoc va cac doanh nghiep nha nuoc.
+d. Cong nghiep hoa duoc thuc hien thong qua co che thi truong dinh huong xa hoi chu nghia.<term>d. Cong nghiep hoa duoc thuc hien thong qua co che thi truong dinh huong xa hoi chu nghia.<row>Q278 Noi dung nao cua Nghi quyet Trung uong 3, thang 6/1997 ve phat huy quyen ?
+a. Lam chu cua nhan dan 
+b. Lanh dao cua Dang
+c. Cua cac to chuc chinh tri-xa hoi
+d. Cua Mat tran to quoc<term>Lam chu cua nhan dan<row>Q279 Hoi nghi Trung uong 3, khoa 8 Dang da chu truong:
+a. Xay dung doi ngu can bo cac cap co pham chat va nang luc, co ban linh chinh tri vung vang, du ve so luong, dong bo ve co cau
+b. Xay dung doi ngu can bo cac cap co pham chat va nang luc
+c. Phat trien doi ngu can bo, dang vien
+d. Xay dung Dang trong sach, vung manh<term>a<row>Q280 Hoi nghi Trung uong 5 khoa 9 thang 3/2002 da thong nhat nhan thuc ve su can thiet phat trien kinh te tap the va thao luan, thong nhat nhan thuc coi:
+a. Kinh te tu nhan da phat trien rong khap trong ca nuoc, dong gop quan trong vao phat trien kinh te
+b. Kinh te nha nuoc da phat trien rong khap trong ca nuoc, dong gop quan trong vao phat trien kinh te
+c. Su lanh dao cua Dang quyet dinh su phat trien kinh te dat nuoc
+d. Chu nghia Mac Lenin, tu tuong Ho Chi Minh ngay cang giu vai tro chu dao<term>a<row>Q281 Dai hoi VIII dua ra luan diem quan trong ve cong nghiep hoa la
+a. Giai doan chuan bi cac tien de cong nghiep hoa dat nuoc da co ban hoan thanh, cho phep ta chuyen sang giai doan day manh cong nghiep hoa, hien dai hoa dat nuoc.
+b. Cong nghiep hoa duoc nhan thuc la "cong nghiep hoa - hien dai hoa".
+c. Cong nghiep hoa duoc nhan thuc la "cong nghiep hoa- hien dai hoa gan voi phat trien kinh te tri thuc".
+d. Cong nghiep hoa duoc nhan thuc la "cong nghiep hoa- hien dai hoa gan voi phat trien kinh te tri thuc trong co che thi truong dinh huong XHCN va hoi nhap kinh te quoc te".<term>Giai doan chuan bi cac tien de cong nghiep hoa dat nuoc da co ban hoan thanh, cho phep ta chuyen sang giai doan day manh cong nghiep hoa, hien dai hoa dat nuoc.<row>Q282 Hoi nghi Trung uong 7 khoa 9 thang 3/2003 da thong nhat coi:
+a. Dat dai la tai nguyen quoc gia vo cung quy gia
+b. Dat dai la tai nguyen quoc gia vo cung quy gia, la tu lieu dac biet, la nguon noi luc va nguon von to lon cua dat nuoc 
+c. Cong nghiep hoa duoc nhan thuc la "cong nghiep hoa- hien dai hoa gan voi phat trien kinh te tri thuc"
+d. Cong nghiep hoa duoc nhan thuc la "cong nghiep hoa- hien dai hoa gan voi phat trien kinh te tri thuc trong co che thi truong dinh huong XHCN va hoi nhap kinh te quoc te"<term>Dat dai la tai nguyen quoc gia vo cung quy gia, la tu lieu dac biet, la nguon noi luc va nguon von to lon cua dat nuoc<row>Q283 Su kien lich su nao mo ra tien de de Viet Nam thuc day quan he voi khu vuc va cong dong quoc te?
+a. Binh thuong hoa quan he voi Trung Quoc
+b. Viet Nam tham gia ky Hiep dinh Pari (23/10/1991) ve mot giai phap toan dien cho van de Campuchia
+c. Binh thuong hoa quan he voi Hoa Ky
+d. Viet Nam gia nhap hiep hoi cac nuoc Dong Nam A (Asean)<term>Viet Nam tham gia ky Hiep dinh Pari (23/10/1991) ve mot giai phap toan dien cho van de Campuchia<row>Q284 "Tranh thu duoc nguon vien tro dang ke, gop phan khoi phuc dat nuoc sau chien tranh" la mot trong nhung y nghia cua ngoai giao Viet Nam thoi ky nao?
+a. Sau doi moi (1975-1985)
+b. Truoc doi moi (1945-1985)
+c. Sau doi moi (1985 - 1995)
+d. Truoc doi moi (1975-1985)<term>Truoc doi moi (1975-1985)<row>Q285 Dien vao cho trong. Muc tieu cu the duoc neu trong dai hoi lan thu XIII cua Dang do la:
+"Den nam 2025, ky niem 50 nam giai phong hoan toan mien Nam, thong nhat dat nuoc: la nuoc dang phat trien, co cong nghiep theo huong hien dai, vuot qua muc thu nhap...."
+a. Trung binh thap
+b. Trung binh cao
+c. Trung binh
+d. Trung binh kem phat trien<term>Trung binh thap<row>Q286 Hoi nghi Trung uong 8 khoa 9 thang 7/2003 da ban hanh:
+a. Chien luoc bao ve To quoc trong tinh hinh moi
+b. Chien luoc phat trien giao duc, y te
+c. Chien luoc mo rong xuat khau
+d. Chien luoc thu hut nguon von<term>Chien luoc bao ve To quoc trong tinh hinh moi<row>Q287 Hoi nghi Trung uong 8 khoa 9 da ban hanh Nghi quyet so 36-NQ/TW ngay 26/3/2004 ve cong tac doi voi :
+a. Bien doi khi hau
+b. Cong nghiep hoa, hien dai hoa
+c. Nguoi Viet Nam o nuoc ngoai
+d. Phat trien giao duc<term>Nguoi Viet Nam o nuoc ngoai<row>Q288 Viet Nam va Trung Quoc binh thuong hoa quan he vao thoi gian nao?
+a. 11-1-2007
+b. 13-7-2001
+c. 10-11-1991
+d. 12-7-1995<term>10-11-1991<row>Q289 Hoi nghi Trung uong 3 khoa 10 ban hanh Nghi quyet so 04-NQ/TW ngay 21/8/2006 ve:
+a. Mo rong thi truong, trao doi hang hoa tang manh da thuc day san xuat hang hoa cua cac nuoc
+b. Nguon von, khoa hoc cong nghe, kinh nghiem quan ly cung cac hinh thuc dau tu, hop tac mang lai loi ich cho cac ben.
+c. Tang cuong su lanh dao cua Dang voi cong tac dau tranh phong, chong tham nhung lang phi.
+d. Cac nuoc cong nghiep phat trien thao tung, chi phoi qua trinh toan cau hoa tao ra su bat binh dang trong quan he quoc te va lam gia tang su phan cuc giua nuoc giau va ngheo.<term>c. Tang cuong su lanh dao cua Dang voi cong tac dau tranh phong, chong tham nhung lang phi.<row>Q290 Mot trong nhung nhiem vu trong tam trong nhiem ky dai hoi da duoc Dai hoi Dang lan thu XIII neu ra la :
+a. Tiep tuc day manh xay dung, chinh don Dang, xay dung Nha nuoc phap quyen xa hoi chu nghia va he thong chinh tri toan dien, trong sach, vung manh. Doi moi phuong thuc lanh dao, cam quyen cua Dang 
+b. Uu tien phat trien cong nghiep cong nghe trung binh, cong nghiep che tac, cong nghiep phan mem va cong nghiep bo tro co loi the canh tranh
+c. Tap trung phat trien cong nghiep nang, cong nghiep che tac, cong nghiep phan mem va cong nghiep bo tro co loi the canh tranh
+d. Khuyen khich phat trien tieu thu cong nghiep, cong nghiep che tac, cong nghiep phan mem va cong nghiep bo tro co loi th<term>a<row>Q291 Trung uong nhan dinh nhu the nao ve Chien luoc kinh te Bien o the ki XXI ?
+a. Bien la tiem nang kinh te to lon cua dat nuoc
+b. Viet Nam phai la quoc gia manh ve bien.
+c. Viet Nam phai tro thanh quoc gia manh ve bien, lam giau tu bien
+d. Viet Nam phai tro thanh quoc gia manh ve bien, lam giau tu bien, tren co so phat huy moi tiem nang tu bien, phat trien toan dien cac nganh, nghe bien.<term>d<row>Q292 Tai sao phai Tang cuong cong tac kiem tra, giam sat cua Dang?
+a. Dang la nhan to hang dau lanh dao cach mang Viet Nam thang loi.
+b. Kiem tra, giam sat la noi dung rat quan trong trong lanh dao cua Dang.
+c. Kiem tra, giam sat la noi dung rat quan trong trong lanh dao cua Dang, dieu kien de xay dung Dang trong sach vung manh.
+d. Kiem tra, giam sat la noi dung rat quan trong trong lanh dao cua Dang, la nhiem vu thuong xuyen cua toan Dang, truoc het la cap uy va nguoi dung dau cap uy.<term>d<row>Q293 Vi sao dat nuoc da doc lap van xay dung giai cap cong nhan Viet Nam trong thoi ky day manh cong nghiep hoa- hien dai hoa dat nuoc?
+a. Giai cap cong nhan la dong luc phat trien kinh te
+b. Giai cap cong nhan dai dien cho phuong thuc san xuat hien dai.
+c. Giai cap lanh dao cach mang thong qua doi tien phong la Dang Cong san Viet Nam , la giai cap dai dien cho phuong thuc san xuat tien bo.
+d. Giai cap lanh dao cach mang thong qua doi tien phong la Dang Cong san Viet Nam, la giai cap dai dien cho phuong thuc san xuat tien tien, tien phong di dau trong su nghiep cong nghiep hoa- hien dai hoa dat nuoc.<term>d<row>Q294 Tai sao, Dai hoi 5 - 1982 lai nhan thuc va coi nong nghiep la mat tran hang dau?
+a. Phu hop voi thoi ky qua do xay dung xa hoi chu nghia.
+b. Phu hop voi thoi ky qua do xay dung xa hoi chu nghia, hoi nhap quoc te.
+c. Nhan thuc do phu hop voi nuoc ta de khai thac the manh, tiem nang cua dat nuoc ve lao dong, dat dai, nganh nghe v.v, tao tien de cho nhung chang duong tiep theo.
+d. Nhan thuc do phu hop voi nuoc ta de khai thac the manh, tiem nang cua dat nuoc ve lao dong, dat dai, nganh nghe , dong luc phat trien cong nghiep hoa-hien dai hoa dat nuoc.<term>c<row><term>c. Viec tra luong dung cho nguoi lao dong la thuc hien dau tu cho phat trien, tao dong luc cho phat trien kinh te-xa hoi, gop phan lam trong sach va nang cao hieu luc, hieu qua hoat dong cua bo may nha nuoc<row>Q296 Dang danh gia nhu the nao ve bo phan cong chuc nha nuoc hien nay?
+a. Tinh trang quan lieu, hach dich, nhung nhieu cua mot bo phan cong chuc chua duoc khac phuc
+b. Tinh trang quan lieu, hach dich, nhung nhieu cua tat ca cong chuc con pho bien.
+c. Tinh trang quan lieu, hach dich, nhung nhieu cua mot bo phan cong chuc da duoc khac phuc.
+d. Tinh trang quan lieu, hach dich, nhung nhieu cua tat ca cong chuc chua duoc khac phuc.<term>a. Tinh trang quan lieu, hach dich, nhung nhieu cua mot bo phan cong chuc chua duoc khac phuc<row>Q297 Nhan xet nao la dung ve han che cua nuoc ta sau 10 nam doi moi 1986-1996?
+a. Viet Nam van la nuoc ngheo, kem phat trien, xa hoi con nhieu tieu cuc va nhieu van de phai giai quyet.
+b. Viet Nam van la nuoc ngheo, kem phat trien, xa hoi con nhieu tieu cuc
+c. Viet Nam van la nuoc ngheo, phat trien con mat can doi
+d. Viet Nam van la nuoc ngheo nan, lac hau<term>a. Viet Nam van la nuoc ngheo, kem phat trien, xa hoi con nhieu tieu cuc va nhieu van de phai giai quyet.<row>Q298 Doi moi khong phai la thay doi muc tieu chu nghia xa hoi ma phai
+a. lam cho chu nghia xa hoi ngay cang tot dep hon.
+b. lam cho muc tieu ay duoc thuc hien co hieu qua.
+c. lam cho muc tieu da de ra nhanh chong duoc thuc hien.
+d. lam cho muc tieu da de ra phu hop voi thuc tien dat nuoc.<term>b. lam cho muc tieu ay duoc thuc hien co hieu qua.<row>Q299 Mot trong nhung nhiem vu trong tam ma Dai hoi XII da neu (2011-20180)
+a. Day manh cong nghiep hoa xa hoi chu nghia, xay dung co so vat chat - ky thuat cua chu nghia xa hoi, dua nen kinh te nuoc ta tu san xuat lon len san xuat dai quy mo xa hoi chu nghia.
+b. Su nghiep cua nha nuoc va cac doanh nghiep lien doanh
+c. Su nghiep cua toan dan, cua moi thanh phan kinh te, trong do kinh te nha nuoc la chu dao
+d. Tap trung thuc hien cac giai phap nang cao chat luong tang truong, nang suat lao dong va suc canh tranh cua nen kinh te.<term>d<row>Q300*** Trong duong loi Chien luoc phat trien kinh te- xa hoi 2011-2020 Dang ta chu trong phat trien van de nao sau day?
+a. Phat trien cong nghiep hoa xa hoi chu nghia, xay dung co so vat chat - ky thuat cua chu nghia xa hoi
+b. Phat trien cong nghiep hoa hien dai hoa nong nghiep nong thon...
+c. Day manh cong nghiep hoa xa hoi chu nghia, xay dung co so vat chat - ky thuat cua chu nghia xa hoi, dua nen kinh te nuoc ta tu san xuat lon len san xuat dai quy mo xa hoi chu nghia.
+d Phat trien nhanh nguon nhan luc, nhat la nguon nhan luc chat luong cao.<term>Phat trien nhanh nguon nhan luc, nhat la nguon nhan luc chat luong cao.<row>Q1 Thang 6-1925 gan voi su ra doi cua to chuc nao?
+a. Hoi Viet Nam cach mang thanh nien
+b. Dong Duong Cong san Dang
+c. Quoc dan Dang
+d. Dang cong san Viet Nam<term>Hoi Viet Nam cach mang thanh nien<row>Q2 Hoi nghi thanh lap Dang Cong san Viet Nam duoc to chuc o dau?
+a. Ha Noi
+b. Chiem Hoa (Tuyen Quang)
+c. Cuu Long- Huong Cang-Trung Quoc
+d. Quang Chau- Trung Quoc<term>Cuu Long- Huong Cang-Trung Quoc<row>QN=22 (867) Dai bieu cac to chuc cong san nao da tham du Hoi nghi thanh lap dang dau nam 1930?
+a. Dong Duong Cong san Dang, An nam Cong san Dang va Dong Duong cong san lien doan
+b. Dong Duong cong san Dang va An Nam cong san Dang
+c. An Nam cong san Dang va Dong Duong cong san lien doan
+d. Dong Duong cong san Dang va Dong Duong cong san lien doan<term>b<row>
